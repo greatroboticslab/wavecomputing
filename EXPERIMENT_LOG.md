@@ -128,3 +128,37 @@ notebook, `greatroboticslab/AGAI`, `cluster/EXPERIMENT_LOG.md`.)
   - Added `docs/RELATED_WORK.md`, a literature scan. Methods that work on held-out objects use 10-18 objects per
     material and near-infrared spectra, scattering measured per wavelength or several views; none of the optical ones
     reads through paint or tape.
+
+- **2026-11-18, 16:33 CST. (f) Pre-registered: E02, train on the 3DAI scanner, test on the robotic arm** (Dr. Zhang's suggestion
+  of 18 November, 16:05).
+  - *Question.* Does a material classifier trained on the scanner's red-laser spots name the material under the arm's
+    laser spot, on other objects and another camera?
+  - *Data.* 3DAI at `6556bec` (E01's commit): the two 635 nm channels (`laser_ch1`, `laser_ch2`) of every scan of the
+    four materials both rigs have, plastic 16 objects, metal 8, paper 3, foam 2. Arm (`roboticsarmAI` at `96b76af`):
+    primary photos only (the `split_r` and `split_g` variants come from another, monochrome camera and are saturated),
+    every labeled laser spot whose material is one of the four. The arm's material labels are Gemini appearance guesses
+    and are given per spot, so an object can have parts of two materials (scissors: plastic handle, metal blade); the
+    test unit is an object-part.
+  - *Spots* (`experiments/e02_cross_rig/spots.py`). Scanner spot: maximum of the smoothed red excess of (laser frame
+    minus `laser_dark`); arm spot: the same maximum inside the labeled box. From there both rigs are processed the same
+    way: local background, half-maximum radius r50, 16 features in units of r50 (radial profile at 0.5 to 4 r50, core
+    and ring chromaticity, core saturation, speckle contrast, peak over background, ellipticity, halo fraction, width
+    ratio). Quality control before any scoring (`data/e02/crops_sheet.jpg`): the scanner shows a small round dot, the
+    arm a large, saturated, elongated streak.
+  - *Analysis* (`experiments/e02_cross_rig/run_e02.py`). Logistic regression (C = 1, balanced) trained on all scanner
+    samples and applied to every arm spot; a unit's prediction is the mean probability over its spots. Primary:
+    unit-level balanced accuracy over the four materials (chance 0.25) with features standardized within each rig
+    separately (uses no labels); 95% bootstrap interval over units; permutation test, 1000 shuffles of the scanner's
+    materials among its objects. Secondary: the same with standardization on the scanner only (raw transfer); plastic
+    against metal (chance 0.5); spot-level balanced accuracy; leave-one-object-out within each rig as references.
+    Sensitivity: without the 7 arm objects flagged below.
+  - *Label check* (one photo per object, before scoring), for William or Finn to confirm by hand: insulated water
+    bottle (spot on a painted coating), precision screwdriver (another entry of the same object says rubber), robotic
+    gripper finger assembly (metal and plastic parts), slip joint pliers and scissors (the spot seems to be on the
+    table in the photo checked), stapler (black surface, plastic or painted), cardboard shipping box (labeled plastic;
+    the spot is on blue plastic tape).
+  - *Predictions.* P1: primary balanced accuracy with a lower 95% bound above 0.25 and permutation P < 0.05; not
+    expected, since the spots look very different on the two rigs. P2: leave-one-object-out within the arm above the
+    cross-rig primary. P3: plastic against metal above 0.5 with P < 0.05; no expectation.
+  - *Limits.* One wavelength in common (635 nm); different cameras, distances and angles; the arm's labels are
+    appearance guesses; photos of one arm object are near-copies, hence the unit-level score.
