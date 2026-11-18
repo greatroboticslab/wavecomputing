@@ -183,3 +183,18 @@ notebook, `greatroboticslab/AGAI`, `cluster/EXPERIMENT_LOG.md`.)
     need the raw laser signal (unsaturated exposures, the laser frames without the scene, several wavelengths,
     speckle) and more objects per material, as `docs/RELATED_WORK.md` recommends. The arm's material labels (Gemini
     appearance guesses, given per spot) still need the hand check listed in (f).
+
+- **2026-11-18, 16:59 CST. (h) Correction to the label check of (f): most flags were wrong.** (f) judged each arm object from
+  one photo and one box. The arm labels every laser spot by the part it lands on, and the sheet of every labeled part
+  (`data/e02/flagged_7_objects.jpg`, 4 photos per part) shows: precision screwdriver = rubber grip (38 spots) and
+  metal collar (23), the boxes on the matching parts in 7 of 8 photos (one rubber-labeled photo of 5 October shows a
+  red handle, not this black-and-orange screwdriver); robotic gripper finger assembly = blue plastic fingers (36) and
+  metal brackets (24), the plastic boxes on the blue fingers, the metal boxes on silver brackets in two photos and on a
+  white part that may be plastic in one; slip joint pliers = metal jaws (24, all on metal) and yellow handle (16);
+  cardboard shipping box = cardboard (40, labeled "composite") and the blue tape (12, labeled plastic), all matching;
+  scissors = red plastic handle (49) and metal blade (25), matching. Still open: insulated water bottle (3 spots on a
+  painted coating, labeled metal), stapler (26 spots on a black body labeled metal; paint or plastic cannot be told from
+  the photos). New observation: in some photos the box surrounds a green laser dot while the red spot falls outside
+  it, on the table (pliers handle 2 of 4 photos, stapler 2 of 4, scissors blade 1 of 4); E02's features are measured at
+  the red maximum inside the box, so such boxes give no red spot. The E02 results of (g) stand as run; its sensitivity
+  analysis rests on the flags of (f).
