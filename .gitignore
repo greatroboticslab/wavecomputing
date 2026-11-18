@@ -1,0 +1,6 @@
+# downloaded and derived data stay out of git (re-created by the fetch scripts)
+data/
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
