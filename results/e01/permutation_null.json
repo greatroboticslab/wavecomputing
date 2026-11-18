@@ -1,0 +1,19 @@
+{
+ "note": "post hoc; materials shuffled between objects; leave-one-object-out, logistic regression",
+ "L": {
+  "observed": 0.248922305764411,
+  "n_permutations": 500,
+  "null_mean": 0.1678422827930877,
+  "null_sd": 0.052345195263455324,
+  "null_95th": 0.2727058499908307,
+  "p_one_sided": 0.08383233532934131
+ },
+ "A2": {
+  "observed": 0.23097744360902253,
+  "n_permutations": 200,
+  "null_mean": 0.17592303121069486,
+  "null_sd": 0.04969141701244029,
+  "null_95th": 0.26551151761517594,
+  "p_one_sided": 0.1044776119402985
+ }
+}

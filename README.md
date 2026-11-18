@@ -49,3 +49,5 @@ Versions, counts and known problems: [docs/DATA.md](docs/DATA.md).
   only a little better than chance (balanced accuracy 0.25, chance 0.20), the same as a photo through AGAI's image
   encoder (0.23). A random split would have shown 0.47 and 0.78. Next: more objects per material, labels for the
   surface the beam hits, and the full laser frames. [results/e01/report.md](results/e01/report.md)
+- 2026-11-18: E01 re-checked independently (entry (e)): no bugs; against shuffled labels the laser's score has
+  P = 0.08, a hint at most. Literature and what it means for the next collection: [docs/RELATED_WORK.md](docs/RELATED_WORK.md).

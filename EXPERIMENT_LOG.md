@@ -100,3 +100,31 @@ notebook, `greatroboticslab/AGAI`, `cluster/EXPERIMENT_LOG.md`.)
   unseen-object test is possible there with larger groups, on photos where the laser spot is visible. Not planned in
   detail yet; that waits for the arm project's full image set (more than 3,000 images, many not yet labelled).
 - **2026-11-18, 02:54 CST. (d) Correction to (c).** Entry (c) is stamped 02:58 but was committed at 02:53 (commit a9c26a1), the same mistake it reports about (b). From this entry on, stamps are read from the clock when the entry is written.
+- **2026-11-18, 03:23 CST. (e) Independent re-check of E01, and a post hoc permutation test.**
+  - An independent re-analysis, given only the plan (a) and the code, re-ran `run_e01.py` and reproduced every
+    committed point estimate and a byte-identical `predictions_scans.csv`. It then rebuilt the analysis in separate
+    code (its own pivot and photo lookup, leave-one-object-out with a check that the held-out object never reaches
+    training, metrics, bootstrap and McNemar test): all 70 values compared match. No bugs were found.
+  - Deviations from (a) it found; none touches a prediction:
+    1. The random forest uses `class_weight="balanced_subsample"` (as committed with (a)); the text of (a) says
+       balanced class weights. With `"balanced"`: leaky L/rf 0.581 instead of 0.369; leak-free L+A2/rf 0.280 instead
+       of 0.183, A2/rf 0.247 instead of 0.220, A1/rf 0.144 instead of 0.184 (the same with forest seeds 1 and 2). No
+       prediction uses the forest; the committed numbers stay the record.
+    2. "Without possibly mislabelled" kept foam with a single object, whose recall is then 0 by construction, against
+       (a)'s own rule for one-object materials. With the materials recounted (four, chance 0.25) it is 0.228; the same
+       four materials with nothing removed give 0.311.
+    3. Three objects (cardboard piece 01, polished metal 01, white breadboard 01) have 5 analysed scans, not 2, so they
+       weigh 2.5 times in the scan-level metrics. With every object weighted equally, L is 0.258 and A2 0.263, so the
+       sign of P3 flips; (b) already read it as a tie.
+    4. Minor: `report.md` prints "20 repeats" as fixed text, and does not mark the forest and L+A2 rows as exploratory.
+  - The re-analysis also showed that with materials shuffled between objects, leave-one-object-out scores about 0.16
+    on average, below the nominal 0.20 (small groups, balanced weights). So 0.20 is not the right baseline.
+  - *Post hoc permutation test* (not in (a); `permutation_null.py`): materials shuffled between objects, the primary
+    analysis rerun. L: observed 0.249, null mean 0.168 (sd 0.052, 95th percentile 0.273, 500 shuffles), one-sided
+    P = 0.084. A2: 0.231 against 0.176 (sd 0.050, 95th percentile 0.266, 200 shuffles), P = 0.10.
+  - *Reading.* Unchanged. Both sit about 1.5 standard deviations above shuffled labels, which is a hint at most; neither
+    clears the 95th percentile, and the verdicts of (b) stand (P1 not supported). File:
+    `results/e01/permutation_null.json`.
+  - Added `docs/RELATED_WORK.md`, a literature scan. Methods that work on held-out objects use 10-18 objects per
+    material and near-infrared spectra, scattering measured per wavelength or several views; none of the optical ones
+    reads through paint or tape.
