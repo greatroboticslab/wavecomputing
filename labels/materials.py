@@ -37,9 +37,14 @@ OVERRIDES = {
 }
 
 # labels the photos cannot settle; kept as they are, flagged in the note column
-REVIEW = {
-    ("arm", "Uop6evwTVgMl"): "insulated water bottle: the spots are on navy paint over the metal",
-    ("arm", "fduiadew"): "stapler: black body labeled metal; painted metal or plastic cannot be told from the photos",
+REVIEW = {}
+
+# labels confirmed by a person looking at the object: (dataset, object id) -> (detail, surface, note)
+CONFIRMED = {
+    ("arm", "Uop6evwTVgMl"): ("painted", "matte",
+                             "insulated water bottle: painted metal, matte paint (confirmed by William by eye, 18 Nov 2026)"),
+    ("arm", "fduiadew"): ("painted", "glossy",
+                         "stapler: painted metal, glossy paint (confirmed by William by eye, 18 Nov 2026)"),
 }
 
 
@@ -58,6 +63,9 @@ def normalize(dataset, obj_id, raw):
         mat, detail = r, ""
     else:
         raise ValueError(f"{dataset}: material {raw!r} is not in the shared list; add it to CANON or SYNONYMS")
+    if (dataset, obj_id) in CONFIRMED:
+        d, _surface, conf = CONFIRMED[(dataset, obj_id)]
+        return mat, "; ".join(x for x in (detail, d) if x), f"confirmed: {conf}"
     note = REVIEW.get((dataset, obj_id), "")
     return mat, detail, (f"review: {note}" if note else "")
 
@@ -97,7 +105,8 @@ def main():
         mat, detail, note = normalize("arm", obj_id, m.group("mat"))
         rowsa.append({"dataset": "arm", "class_id": cid, "object_id": obj_id, "object": clean(m.group("obj")),
                       "material_raw": m.group("mat").strip(), "material": mat, "material_detail": detail,
-                      "color": clean(m.group("color") or ""), "class_name_raw": name,
+                      "color": clean(m.group("color") or ""),
+                      "surface": CONFIRMED.get(("arm", obj_id), ("", "", ""))[1], "class_name_raw": name,
                       "label_source": "class name; written with the help of AI answers (pdf_for_labels/<object id>.pdf)",
                       "note": note})
 

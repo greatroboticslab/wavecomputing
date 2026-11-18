@@ -13,8 +13,10 @@ Shared list: plastic, metal, paper, cardboard, foam, rubber, silicone, leather, 
 composite. Spelling is normalized (case, spaces); the only other mappings are "plastic tape" to plastic (detail tape),
 "composite plastic" to composite (detail plastic) and the scanner's "fiberglass cloth press" to fiberglass (detail cloth
 press). One override: the arm's cardboard shipping box body, labeled composite, is mapped to cardboard (the photos show
-corrugated cardboard under those spots; to confirm with the arm's author). Two labels are flagged for review: the
-insulated water bottle (spots on paint over metal) and the stapler (painted metal or plastic).
+corrugated cardboard under those spots; to confirm with the arm's author). Two labels were confirmed by looking at the
+objects (18 November 2026): the insulated water bottle and the stapler are painted metal, matte and glossy paint
+respectively; they stay metal, with detail "painted" and the paint's surface recorded, since the laser reads the
+surface.
 
 Rerun after either dataset changes:
 

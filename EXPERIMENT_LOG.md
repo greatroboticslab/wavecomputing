@@ -198,3 +198,8 @@ notebook, `greatroboticslab/AGAI`, `cluster/EXPERIMENT_LOG.md`.)
   it, on the table (pliers handle 2 of 4 photos, stapler 2 of 4, scissors blade 1 of 4); E02's features are measured at
   the red maximum inside the box, so such boxes give no red spot. The E02 results of (g) stand as run; its sensitivity
   analysis rests on the flags of (f).
+
+- **2026-11-18, 17:15 CST. (i) The two open labels of (h) settled by eye.** William looked at the objects: the insulated
+  water bottle is painted metal with matte paint, the stapler painted metal with glossy paint. Both stay metal; the
+  shared label list (`labels/`, which maps both datasets' labels to one list of materials without relabeling either)
+  records them with detail "painted" and the paint's surface, since the laser reads the surface.
