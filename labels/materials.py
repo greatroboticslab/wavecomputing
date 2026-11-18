@@ -107,7 +107,7 @@ def main():
                       "material_raw": m.group("mat").strip(), "material": mat, "material_detail": detail,
                       "color": clean(m.group("color") or ""),
                       "surface": CONFIRMED.get(("arm", obj_id), ("", "", ""))[1], "class_name_raw": name,
-                      "label_source": "class name; written with the help of AI answers (pdf_for_labels/<object id>.pdf)",
+                      "label_source": "class name, labeled by the arm's author (AI suggestions in pdf_for_labels/ not used yet)",
                       "note": note})
 
     for fn, rows in (("3dai_objects.csv", rows3), ("arm_classes.csv", rowsa)):

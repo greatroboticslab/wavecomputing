@@ -203,3 +203,11 @@ notebook, `greatroboticslab/AGAI`, `cluster/EXPERIMENT_LOG.md`.)
   water bottle is painted metal with matte paint, the stapler painted metal with glossy paint. Both stay metal; the
   shared label list (`labels/`, which maps both datasets' labels to one list of materials without relabeling either)
   records them with detail "painted" and the paint's surface, since the laser reads the surface.
+
+- **2026-11-18, 17:23 CST. (j) Correction: the arm's labels are its author's own, not AI guesses.** Entries (f) and (g)
+  call the arm's material labels "Gemini appearance guesses". That was inferred from the arm project's code (it has a
+  Gemini material labeler) and is wrong for this data: asked on 18 November (17:18), the arm's author answered that
+  all current labels are his own and that no AI-suggested label has been approved or uploaded yet (the AI answers in
+  `dataset/pdf_for_labels/` are suggestions; the build report kept `data.yaml` as the authority). He also confirmed
+  that each box marks one laser spot; whether red or green is not recorded per box. Nothing in the results of (g)
+  changes. `labels/materials.py` now names the source correctly.
