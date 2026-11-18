@@ -216,3 +216,10 @@ notebook, `greatroboticslab/AGAI`, `cluster/EXPERIMENT_LOG.md`.)
   marks the point where both lasers aim; red or green spots outside a box come from refraction, reflection and the
   like at the surface, not from a box marking the wrong laser. So the boxes are right as labeled; for E02 it means the
   red maximum inside a box can be a secondary spot rather than the main one, which the results of (g) do not depend on.
+
+- **2026-11-18, 17:26 CST. (l) Post hoc check of (k): the red spot is inside the box in 98% of cases.** For each arm box in
+  a primary photo, the strongest smoothed red excess inside the box against the strongest in the area around it (out
+  to 3 box sizes); a box counts as "red spot outside" when the outside maximum is more than 1.5 times the inside one and
+  visible (above 30). 33 of 1596 boxes (2.1%): metal 13 of 263, plastic 15 of 566, rubber 2 of 303, foam, leather and
+  paper 1 each, none for composite, fabric, stone or wood. So E02 measured the main red spot almost everywhere, and the
+  result of (g) does not come from stray spots (`red_outside_check.py`, `results/e02/red_outside.csv`).

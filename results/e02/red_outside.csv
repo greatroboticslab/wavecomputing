@@ -1,0 +1,1597 @@
+image_file,box_index,object_name,material,m_in,m_out,red_outside
+20260911_143305_db33_primary.rf.f312a2b90f80d01750b519ad7f24e010.jpg,0,precision screwdriver,rubber,143.0,105.9,0
+20260911_143341_37bb_primary.rf.3257150926c7df9f89f8a00a0f10b3ba.jpg,0,precision screwdriver,rubber,181.0,124.1,0
+20260911_143422_f474_primary.rf.c3c4e991f4c8552dbdf55033e22401d9.jpg,0,precision screwdriver,rubber,153.0,120.9,0
+20260911_143455_19ee_primary.rf.cbb3c8868350697aaf632e5a0a38e625.jpg,0,precision screwdriver,rubber,168.4,73.4,0
+20260911_143517_e5a6_primary.rf.d8eecded8d7ec554aafcfb786ce2f308.jpg,0,precision screwdriver,rubber,169.0,106.1,0
+20260911_143556_b83a_primary.rf.28c4ed0646568e4aa6715cfada9896fb.jpg,0,ballpoint pen,plastic,125.7,91.2,0
+20260911_143619_3345_primary.rf.091ce312e440ad4d8ac1bf07ca8d8ba2.jpg,0,ballpoint pen,rubber,166.3,74.6,0
+20260911_143726_4bf5_primary.rf.18159b37c8cce759cb345025f899def5.jpg,0,ballpoint pen,plastic,127.9,95.2,0
+20260911_143745_c5a3_primary.rf.de6793e828aec8daa73e148fd53cb2c5.jpg,0,ballpoint pen,plastic,135.7,86.0,0
+20260911_143812_de67_primary.rf.66d87b7d6727b82ac66663e1be5bc4f5.jpg,0,ballpoint pen,plastic,130.4,114.0,0
+20260911_143914_0fbb_primary.rf.1101f2e3fa5d11b3969c8468a483e9cb.jpg,0,toy football,foam,88.8,16.2,0
+20260911_143937_b552_primary.rf.4e4d16004a19a6c5df96b566bb33749b.jpg,0,toy football,foam,98.9,13.9,0
+20260911_144039_2ca1_primary.rf.4b2b1f3f5a83eae62765ed93df7e5dbd.jpg,0,toy football,foam,114.7,18.7,0
+20260911_144128_bb93_primary.rf.101827e276664e1807404ec843036ddd.jpg,0,toy football,foam,107.2,30.1,0
+20260911_144201_cdcb_primary.rf.c5b3847fb9b09f58b9d9769641034d83.jpg,0,rubber duck,rubber,136.7,67.6,0
+20260911_144231_3b3d_primary.rf.2578245e4ccd621eb2f3460214787a5a.jpg,0,rubber duck,rubber,150.4,96.0,0
+20260911_144312_da0e_primary.rf.2bbed9f0b7c2b22e3f8c3d80d0a2d74a.jpg,0,rubber duck,rubber,159.7,70.8,0
+20260911_144330_3f77_primary.rf.b49c544645e6f1b17790b4d4c9bf91f6.jpg,0,rubber duck,rubber,158.2,97.3,0
+20260911_144348_de53_primary.rf.e10f8bf1925520d05c2b74b1d8c5e737.jpg,0,rubber duck,rubber,135.4,66.8,0
+20260911_144509_0161_primary.rf.8ed1a89b14fcaa587263fc93b068159e.jpg,0,bifold wallet,leather,162.1,18.6,0
+20260911_144524_9eaf_primary.rf.f5a0006571f50cf22aa3ab7f857f02d7.jpg,0,bifold wallet,leather,152.5,84.0,0
+20260911_144548_a1d3_primary.rf.3c62e852de0afa484d24432d01a45808.jpg,0,bifold wallet,leather,186.4,74.7,0
+20260911_144616_13bd_primary.rf.b5bdb34fa53e05116ab4d1eb3897587e.jpg,0,bifold wallet,leather,164.5,92.2,0
+20260911_144647_4f29_primary.rf.89973f0fcc4ff6fc60c68d41fa6ccf92.jpg,0,bifold wallet,leather,155.0,59.5,0
+20260911_144708_3c2a_primary.rf.1e1515185b4d182d1d3359b1c899c62f.jpg,0,bifold wallet,leather,170.2,24.7,0
+20260911_144746_ba3d_primary.rf.230fe7ce8770ac726d8297808d7f3314.jpg,0,car key fob with keyring,plastic,141.2,22.1,0
+20260911_144819_9ffb_primary.rf.d898598fbe5bab5a02707c52c6de7587.jpg,0,car key fob with keyring,plastic,165.7,11.0,0
+20260911_144838_93de_primary.rf.e844ddeec6098a2e009597f3fc0d88e6.jpg,0,car key fob with keyring,metal,151.2,14.0,0
+20260911_144918_e458_primary.rf.3be5b97fb89f180e8035ac9cb1afac81.jpg,0,car key fob with keyring,plastic,156.0,73.4,0
+20260911_145005_f64b_primary.rf.0c5c4f4b034bbb4564c456ce1a7e80f5.jpg,0,extruded aluminum profile,metal,134.9,101.5,0
+20260911_145026_5c0c_primary.rf.137250eb84be0ed3297de105ab5f37ec.jpg,0,extruded aluminum profile,metal,94.0,30.8,0
+20260911_145048_4b0f_primary.rf.a772a1ee9f4bc4cff38feb5069704584.jpg,0,extruded aluminum profile,metal,141.2,118.2,0
+20260911_145111_d6ff_primary.rf.6b23587cdc39142be6ac262c9b74015d.jpg,0,extruded aluminum profile,metal,97.9,45.0,0
+20260911_145155_a76b_primary.rf.8ddf2ee250d4c207e99d8c8910782942.jpg,0,robotic gripper finger assembly,metal,106.9,84.0,0
+20260911_145218_040c_primary.rf.86423e7a135f408b19d70ad0d9835a7d.jpg,0,robotic gripper finger assembly,metal,122.9,122.0,0
+20260911_145258_1a01_primary.rf.55b1894c9dce5ac688916340560ff865.jpg,0,robotic gripper finger assembly,plastic,137.4,82.9,0
+20260911_145315_ef6e_primary.rf.d35736d28a3eaaad31460071b138a87e.jpg,0,robotic gripper finger assembly,plastic,123.6,121.9,0
+20260911_145334_d6bf_primary.rf.3d51f069606be44b4fbd154299efd8e1.jpg,0,robotic gripper finger assembly,plastic,122.0,66.5,0
+20260911_145354_28a8_primary.rf.09c14ea6e0b9aa267c9ef96d2cd4b981.jpg,0,robotic gripper finger assembly,metal,118.1,106.5,0
+20260911_145809_1db1_primary.rf.66676ebd24f0dd003a0e6a6dbe890071.jpg,0,scissors,plastic,177.1,162.7,0
+20260911_145827_8815_primary.rf.96cf2c29d3a554fd4fd5b5f26aeda927.jpg,0,scissors,plastic,188.5,122.4,0
+20260911_145907_cfe8_primary.rf.7feb7363309d4aca12ee45cf62534603.jpg,0,scissors,plastic,192.2,192.1,0
+20260911_145943_aad8_primary.rf.f43bd7e2a1e7c000af5db02d7f7a24fc.jpg,0,scissors,plastic,181.2,165.6,0
+20260911_150017_063a_primary.rf.fdc6cb389c29e533c9f22360a54150ec.jpg,0,scissors,metal,173.5,164.3,0
+20260911_150038_6875_primary.rf.2c4c3a0ac802cf5a3ab2909747656cd4.jpg,0,scissors,plastic,183.9,100.6,0
+20260911_150107_8e65_primary.rf.3a2dae629c3f4728dde0d2c7037b1c56.jpg,0,scissors,plastic,184.5,99.5,0
+20260911_150136_1c8c_primary.rf.3108a034dbfa054c1791108c92d6403c.jpg,0,plastic container lid,plastic,179.6,117.4,0
+20260911_150151_8da9_primary.rf.999b5e2e9f08fdcdaefc78ef072b7287.jpg,0,plastic container lid,plastic,180.1,176.6,0
+20260911_150241_b17b_primary.rf.28316e7d7bb13c37f997c457696177c8.jpg,0,screw packaging box,paper,147.1,13.1,0
+20260911_150257_fa18_primary.rf.87044203a38a02fb4d291a12f9ac4645.jpg,0,screw packaging box,paper,116.1,120.0,0
+20260911_150327_eb83_primary.rf.6a14769e96778cc1082ad29004fde079.jpg,0,screw packaging box,paper,128.5,74.3,0
+20260911_150357_d428_primary.rf.4d62c5b9f157505cb18a197355efed01.jpg,0,screw packaging box,paper,150.0,37.7,0
+20260911_150419_f9c1_primary.rf.398e2aa82208401d8786fe7cd273d09d.jpg,0,screw packaging box,paper,138.0,64.8,0
+20260911_150614_c234_primary.rf.b49d0b66a9f27f32a5d4099fb311c0ac.jpg,0,wireless earbud charging case,plastic,80.8,30.7,0
+20260911_150644_3f5f_primary.rf.09dc9818dc2a8c28ddf4e5aeb36b92a0.jpg,0,wireless earbud charging case,plastic,74.1,23.2,0
+20260911_150718_5388_primary.rf.d95f698829275cb541f344fb7e5ce051.jpg,0,wireless earbud charging case,plastic,86.4,24.7,0
+20260911_150745_6cd7_primary.rf.4825eea3279edf531bc1306093ac9d63.jpg,0,wireless earbud charging case,plastic,83.7,18.9,0
+20260911_150812_1570_primary.rf.4fa6a97b2d926371fcdba13781f39e19.jpg,0,wireless earbud charging case,plastic,94.5,19.1,0
+20260911_150837_b9b2_primary.rf.caf6f766b7ac369ad75f3b612473be0a.jpg,0,wireless earbud charging case,plastic,133.1,72.9,0
+20260911_151115_2130_primary.rf.61e53a0ecb1c0905b9305e4f99289425.jpg,0,book,paper,183.7,85.6,0
+20260911_151133_b099_primary.rf.869d2c59045b0d05a757c14f0cff2161.jpg,0,book,paper,193.1,97.3,0
+20260911_151239_d70c_primary.rf.0f5836475669b4a3e5eef912bd487a9b.jpg,0,book,paper,170.1,89.5,0
+20260914_163443_26fc_primary.rf.c62a99446449712ba8fdd3a90ebb4789.jpg,0,cardboard shipping box,plastic,81.3,48.5,0
+20260914_163506_eaf9_primary.rf.e2c8aba883ff9c251d36c88626bb9fa4.jpg,0,cardboard shipping box,composite,128.0,97.3,0
+20260914_163522_b7a8_primary.rf.e0b0b05c23455e9428a5bd4c25a8b826.jpg,0,cardboard shipping box,composite,127.6,102.5,0
+20260914_163539_61c6_primary.rf.e7b4506622dd2b7932ee890c0c745ee1.jpg,0,cardboard shipping box,composite,138.3,49.2,0
+20260914_163618_d03e_primary.rf.eeec244165abfb6800105f538ac7937e.jpg,0,cardboard shipping box,composite,140.6,116.0,0
+20260914_163635_1624_primary.rf.fcd8b5764bd9f5aebcf6f40f027f848c.jpg,0,cardboard shipping box,plastic,85.9,47.1,0
+20260914_163651_da72_primary.rf.c7e28aed5c11110e526b6f56ac6990ad.jpg,0,cardboard shipping box,plastic,76.5,46.5,0
+20260914_163718_4c69_primary.rf.657855dc7baa68c81498baf40e5deb3d.jpg,0,cardboard shipping box,composite,148.6,82.5,0
+20260914_163837_56e6_primary.rf.8edd7853ea678a9c9b4f4f716a6b0da6.jpg,0,insulated water bottle,metal,89.3,6.3,0
+20260914_163857_f6fb_primary.rf.6bd25e6c013d38cbd597db6140aa89b3.jpg,0,insulated water bottle,metal,64.8,7.4,0
+20260914_163922_989e_primary.rf.ff4bd4f7d1d54248b900b7309c79da2c.jpg,0,insulated water bottle,metal,90.8,14.0,0
+20260914_164005_3df1_primary.rf.725361f2d993910a21207f9714cf5d80.jpg,0,breadboard,plastic,81.4,51.7,0
+20260914_164030_39c4_primary.rf.c4e7e1b859d6c49f9e7fd70652089c51.jpg,0,breadboard,plastic,83.6,37.5,0
+20260914_164152_da20_primary.rf.843cd52b3dd0c0f5cda7a2e5d73c97e5.jpg,0,claw hammer,metal,157.0,25.6,0
+20260914_164215_5b5b_primary.rf.212ebc59ea1ec6c8773df9e473f2ac75.jpg,0,claw hammer,metal,161.0,33.4,0
+20260914_164238_7cf7_primary.rf.c9fd2b397bd5f29a4b5bde2bb08f744b.jpg,0,claw hammer,metal,154.1,97.3,0
+20260914_164356_7d8b_primary.rf.d138f6b2a947943f0773534dbb05026e.jpg,0,claw hammer,metal,80.2,9.9,0
+20260914_164415_24ef_primary.rf.25f8be52a72a57f3ab51da9386efbe9a.jpg,0,claw hammer,metal,94.0,14.9,0
+20260914_164432_88dd_primary.rf.587668f493d26ea22734534cc67ad218.jpg,0,claw hammer,rubber,116.3,17.2,0
+20260914_164452_5a75_primary.rf.977b75c40784b4a955fa9ba87e9dc219.jpg,0,claw hammer,rubber,137.7,2.0,0
+20260914_164510_8efb_primary.rf.cc3cfc23fbed0f3247e46a9340a4877c.jpg,0,claw hammer,rubber,135.4,3.8,0
+20260914_164536_ffc5_primary.rf.ddb65323c41ae2295d355361a9758881.jpg,0,claw hammer,rubber,156.9,5.1,0
+20260914_164646_8cd1_primary.rf.80a5972b90b0f2b0319c8525b490671b.jpg,0,plastic first aid kit,plastic,77.1,7.9,0
+20260914_164705_df4a_primary.rf.d03da126e67d13d976aee3085239d43f.jpg,0,plastic first aid kit,plastic,87.9,6.9,0
+20260914_164720_fc8a_primary.rf.4abcfbbcc3993d74164bf6ede2977e47.jpg,0,plastic first aid kit,plastic,94.8,15.3,0
+20260914_164733_34c6_primary.rf.7e5ce4e3d422eb07ff2a0d12ab315cca.jpg,0,plastic first aid kit,plastic,83.7,27.8,0
+20260914_164747_ecc7_primary.rf.6f0b2afbd29396b381078a9d417db7ee.jpg,0,plastic first aid kit,plastic,88.7,3.0,0
+20260914_164800_1cb8_primary.rf.e46cf1194359498012cc726bacb5c3e1.jpg,0,plastic first aid kit,plastic,115.1,92.5,0
+20260914_164814_0cff_primary.rf.18487d786bd386e6d1b3b113fb5ca248.jpg,0,plastic first aid kit,plastic,126.1,2.4,0
+20260914_164916_3407_primary.rf.18f822296ee9519cc830b25f4280f126.jpg,0,graphing calculator slide case,plastic,83.7,1.5,0
+20260914_164930_aca2_primary.rf.3769eedb577734b9ff65a4c138a3e5bf.jpg,0,graphing calculator slide case,plastic,81.6,1.4,0
+20260914_164947_0049_primary.rf.6d2e951ea4280b922aaf81e3007aaa67.jpg,0,graphing calculator slide case,plastic,68.5,4.6,0
+20260914_165007_a852_primary.rf.3cd077c7901f87819ff81f12d1133b71.jpg,0,graphing calculator slide case,plastic,52.0,98.1,1
+20260914_165049_f5f3_primary.rf.1085fc0cafedc07d4ab1f30011f0b314.jpg,0,wire spool,plastic,195.7,152.1,0
+20260914_165149_2784_primary.rf.af3a27ae695c09f6a92a7d9b2975c879.jpg,0,wire spool,plastic,195.0,153.1,0
+20260914_165150_2543_primary.rf.80ed9cf8da034eac9640865651fc4ea7.jpg,0,wire spool,plastic,194.5,153.5,0
+20260914_165221_49e5_primary.rf.9b9af7ec04dad3110fea0d42b9ceed48.jpg,0,wire spool,plastic,200.1,185.9,0
+20260914_165245_a9b6_primary.rf.67084671f3159ab2fb709f9c67ba6b7c.jpg,0,wire spool,plastic,195.5,164.1,0
+20260914_165303_ba6a_primary.rf.a67eb97bde71a4c6e259c4cf86f773a6.jpg,0,wire spool,plastic,197.9,191.7,0
+20260914_165326_65f6_primary.rf.c365e26243807b9d1e4d0d37bc5f228c.jpg,0,wire spool,rubber,200.6,163.4,0
+20260914_165532_8414_primary.rf.9437f5f4bc36fc9e67e6bfc892ab5655.jpg,0,microfiber cleaning cloth,fabric,123.8,2.1,0
+20260914_165555_8081_primary.rf.ab8e99fcab51d1acc495ef350b2f11cc.jpg,0,microfiber cleaning cloth,fabric,139.9,61.8,0
+20260914_165610_f83a_primary.rf.c9fdccb960825c61c5f91a6059183ba8.jpg,0,microfiber cleaning cloth,fabric,100.5,2.3,0
+20260914_165624_492e_primary.rf.a5459b2fd22c2ae728a4cfe0f8c2b297.jpg,0,white rectangular foam block,foam,76.4,73.6,0
+20260914_165653_ee93_primary.rf.300d91bc37977580e2135ebc954fa376.jpg,0,white rectangular foam block,foam,87.8,84.4,0
+20260914_165709_c275_primary.rf.7ca0adf0095cd3f50b789ca6700b66df.jpg,0,white rectangular foam block,foam,89.3,84.1,0
+20260914_165949_1e25_primary.rf.1c407c71cde589fdf69725791c947273.jpg,0,amazon recyclable paper mailer,paper,111.8,47.4,0
+20260914_170003_9d24_primary.rf.b7dd8bf4853e9cc488c2d3b08ffa861f.jpg,0,amazon recyclable paper mailer,paper,150.5,93.4,0
+20260914_170023_54ee_primary.rf.d8bdd1d50ab7b649f8a5db6a5f2b8f7f.jpg,0,amazon recyclable paper mailer,paper,150.0,129.3,0
+20260914_170101_311d_primary.rf.036151a576ed3c67e444317129d66b3e.jpg,0,desktop tape dispenser,plastic,163.6,14.5,0
+20260914_170116_d841_primary.rf.4eb39568ce7ea1a475595f364edc5884.jpg,0,desktop tape dispenser,plastic,88.2,8.3,0
+20260914_170131_b636_primary.rf.122c175d77c5bb00e23509f58a98f93e.jpg,0,desktop tape dispenser,plastic,165.5,22.3,0
+20260914_170156_3c03_primary.rf.9da00d0be5cec4de0e2088604b5cc645.jpg,0,desktop tape dispenser,plastic,123.8,79.6,0
+20260914_170213_3277_primary.rf.2b462d20cc6c994b9b93357c43d1653f.jpg,0,desktop tape dispenser,plastic,174.6,5.0,0
+20260914_170227_ee86_primary.rf.541bb65b32d2ef58765fb0ae84a05014.jpg,0,desktop tape dispenser,plastic,109.3,3.4,0
+20260914_170241_9b72_primary.rf.da499899aaa8f025b4c5ca3d68bbfc29.jpg,0,desktop tape dispenser,plastic,175.8,6.9,0
+20260914_170301_1c43_primary.rf.d646b9996f543e699b40fc560bb8ce49.jpg,0,desktop tape dispenser,plastic,22.6,67.2,1
+20260914_170316_acc5_primary.rf.ec87fa733c8e35bc4cc67a3f3145cf01.jpg,0,desktop tape dispenser,plastic,68.4,4.6,0
+20260914_170329_8575_primary.rf.26331a1d31b43ed99424b539e0f4202a.jpg,0,desktop tape dispenser,plastic,155.9,74.6,0
+20260914_170343_0e68_primary.rf.e462cc8e113e9e0e35e3a3f368400633.jpg,0,scissors,plastic,118.4,123.5,0
+20260914_170343_0e68_primary.rf.e462cc8e113e9e0e35e3a3f368400633.jpg,1,scissors,plastic,67.7,77.1,0
+20260914_170402_d0c9_primary.rf.54507297e25dd9feff13140f3ab84e76.jpg,0,desktop tape dispenser,plastic,93.6,97.7,0
+20260914_170418_f6c5_primary.rf.b831861a7c1921313bfa838e6627e234.jpg,0,desktop tape dispenser,plastic,103.1,70.7,0
+20260918_144051_fdec_primary.rf.cd2bab2e12a8f8298804deadf07f470a.jpg,0,amazon recyclable paper mailer,paper,134.6,62.7,0
+20260918_144106_00c1_primary.rf.4840b9841366426c36cadd719cdbe0e4.jpg,0,amazon recyclable paper mailer,paper,126.6,54.9,0
+20260918_144128_b338_primary.rf.95dd9bc449fbce076961beae59dcb33d.jpg,0,amazon recyclable paper mailer,paper,142.5,57.1,0
+20260918_144142_30bd_primary.rf.4765f2ed178fd26b824c434c8ec1a2c2.jpg,0,amazon recyclable paper mailer,paper,124.3,84.9,0
+20260918_144154_e63d_primary.rf.75f18eff522d1447c5b10a4bea8a0258.jpg,0,amazon recyclable paper mailer,paper,116.4,90.1,0
+20260918_144207_0c29_primary.rf.87feabfbd8ebddf53134e59069b61439.jpg,0,amazon recyclable paper mailer,paper,121.7,49.9,0
+20260918_144218_bfde_primary.rf.b3a6815c347fb4e37540ce14b12977ce.jpg,0,amazon recyclable paper mailer,paper,139.3,54.2,0
+20260918_144229_6746_primary.rf.fc5fec44c715ee94a652eda22c5a426e.jpg,0,amazon recyclable paper mailer,paper,143.5,66.7,0
+20260918_144259_24ad_primary.rf.861161407ea1c696ac7df97ea28bc7ba.jpg,0,amazon recyclable paper mailer,paper,184.2,65.9,0
+20260918_144310_a472_primary.rf.029d8bf29e71e0002da612b23f5bb862.jpg,0,amazon recyclable paper mailer,paper,162.4,49.3,0
+20260918_144351_90be_primary.rf.1e1cf78be972c7bd9fa17c144c76d33b.jpg,0,amazon recyclable paper mailer,paper,126.2,63.6,0
+20260918_144509_8a1f_primary.rf.7ca8b84064d3b10bcc399cbeb4e84d0f.jpg,0,amazon recyclable paper mailer,paper,187.1,139.6,0
+20260918_144535_8c83_primary.rf.acf72d5f4d503c13eee656fe520262a9.jpg,0,amazon recyclable paper mailer,paper,133.0,81.2,0
+20260918_144600_f99f_primary.rf.e90a8f4491028cc9627137d145c442e4.jpg,0,amazon recyclable paper mailer,paper,143.5,101.2,0
+20260918_144711_8671_primary.rf.038812a483ebab4291877a6505411f76.jpg,0,amazon recyclable paper mailer,paper,128.4,57.0,0
+20260918_144729_a424_primary.rf.cae61d3f00cf31dd919c0f013d8d726a.jpg,0,amazon recyclable paper mailer,paper,139.6,85.5,0
+20260918_144758_2b74_primary.rf.5487fb71f3ab23a2bb60fa8d0c32b901.jpg,0,amazon recyclable paper mailer,paper,157.2,92.1,0
+20260918_144808_d8af_primary.rf.1163c1882bd6d86757d11d2e279a0213.jpg,0,amazon recyclable paper mailer,paper,168.5,90.4,0
+20260918_144817_cdcd_primary.rf.191870e8e4f0a5de008cc6e8acbdc187.jpg,0,amazon recyclable paper mailer,paper,128.5,78.1,0
+20260918_144911_0c49_primary.rf.c8e4ffcc9f2613b785723f940674ea5d.jpg,0,amazon recyclable paper mailer,paper,133.9,69.0,0
+20260918_144928_9b5b_primary.rf.69a8df9f22b5b99416031b03924385b5.jpg,0,amazon recyclable paper mailer,paper,115.0,98.9,0
+20260918_145000_88dd_primary.rf.250de8f4a63ec69963d9dbdfe241bd28.jpg,0,amazon recyclable paper mailer,paper,125.2,80.0,0
+20260918_145034_c2de_primary.rf.87659b782ad222158ec03d91f42efbb2.jpg,0,amazon recyclable paper mailer,paper,126.0,83.8,0
+20260918_145102_913d_primary.rf.c023ab5ad74ebc71c9e59b3c5d67353b.jpg,0,amazon recyclable paper mailer,paper,136.2,65.7,0
+20260918_145149_8179_primary.rf.82b92e7a6a7f3c3cfdfec627b836591f.jpg,0,amazon recyclable paper mailer,paper,141.9,68.2,0
+20260918_145208_f9e4_primary.rf.065be101f830103333bb0ab26e77b608.jpg,0,amazon recyclable paper mailer,paper,129.4,27.4,0
+20260918_145244_5633_primary.rf.f48fa95955a939f69d711a83bd583907.jpg,0,amazon recyclable paper mailer,paper,121.0,61.8,0
+20260918_145401_3fb6_primary.rf.e7b1faa899da729ab38e26552e8adfc6.jpg,0,amazon recyclable paper mailer,paper,122.2,81.6,0
+20260918_145427_73fb_primary.rf.90a728364c11ff261373ad62e8830279.jpg,0,amazon recyclable paper mailer,paper,131.6,66.4,0
+20260918_145511_3d70_primary.rf.4b04776aca3d1ed736a062db53a4b562.jpg,0,amazon recyclable paper mailer,paper,130.5,58.1,0
+20260918_145534_4f47_primary.rf.e6f91d4bfddc5a272b788b58fe35d312.jpg,0,amazon recyclable paper mailer,paper,120.3,67.7,0
+20260918_145544_dac1_primary.rf.ba7a34912399c5eb9ae9f874e6776dd7.jpg,0,amazon recyclable paper mailer,paper,120.3,99.1,0
+20260918_145555_5dc2_primary.rf.2bf8cb5466cf8b32214e10b64a2b86d2.jpg,0,amazon recyclable paper mailer,paper,201.7,57.3,0
+20260918_145606_1ad5_primary.rf.2db453f0c86039cf9a157bd6014f805a.jpg,0,amazon recyclable paper mailer,paper,131.9,74.8,0
+20260918_145618_3123_primary.rf.c895fe566022a79a124c0ad8f0df71f3.jpg,0,amazon recyclable paper mailer,paper,124.9,82.1,0
+20260918_145645_e6e1_primary.rf.e79bd67ecea332387fd2ce61892b600c.jpg,0,amazon recyclable paper mailer,paper,134.3,60.0,0
+20260918_145700_d240_primary.rf.73cb3b9980c9f063dcdd688f7346d159.jpg,0,amazon recyclable paper mailer,paper,121.5,96.0,0
+20260918_145728_85fd_primary.rf.23ef3ffbcf9a6130ad5f685cbecb2dbe.jpg,0,amazon recyclable paper mailer,paper,158.5,161.9,0
+20260918_145817_063f_primary.rf.b5df4f761bdc16d50faa5de331fa26a2.jpg,0,amazon recyclable paper mailer,paper,180.1,60.9,0
+20260918_145831_570e_primary.rf.ee696028e6ce0d9ac6d241fb8afd3bed.jpg,0,amazon recyclable paper mailer,paper,155.3,67.0,0
+20260918_145932_b5b2_primary.rf.6ea89d0cc1574fbb76bb7202685146df.jpg,0,amazon recyclable paper mailer,paper,170.8,107.7,0
+20260918_150036_97da_primary.rf.225921c73e9233691f61a3a85a67f558.jpg,0,amazon recyclable paper mailer,paper,147.7,53.0,0
+20260918_150109_88c5_primary.rf.155cfcf3579ee1ac76c631c9d7f1f5c0.jpg,0,amazon recyclable paper mailer,paper,117.5,115.9,0
+20260918_150128_e469_primary.rf.8d7a15535b4411a8a8960b8182cd82d1.jpg,0,amazon recyclable paper mailer,paper,144.6,50.3,0
+20260918_150130_ab57_primary.rf.aa30b5aa5f335debf902d4a210d769e0.jpg,0,amazon recyclable paper mailer,paper,146.1,103.7,0
+20260918_150226_ccd5_primary.rf.2c4eafc43765698a716777f01ed15a52.jpg,0,amazon recyclable paper mailer,paper,120.4,90.1,0
+20260918_150241_9296_primary.rf.e9bbf8efd0702ba3e8bce52481aa048b.jpg,0,amazon recyclable paper mailer,paper,127.3,64.1,0
+20260918_150305_23b6_primary.rf.eda274b7fb11645f82c2ecf6c94ef80e.jpg,0,amazon recyclable paper mailer,paper,136.2,50.2,0
+20260918_150741_3862_primary.rf.37ecbfc5dd17a4fc87bb1e65dda6f32a.jpg,0,ballpoint pen,rubber,202.6,120.0,0
+20260918_150902_0383_primary.rf.a63cf277bd7096b3f4f9a98bdcf72712.jpg,0,ballpoint pen,plastic,120.6,169.6,0
+20260918_150922_05ed_primary.rf.d51d8e7262ddd5e74a86735a57aa3ec2.jpg,0,ballpoint pen,plastic,122.7,109.6,0
+20260918_150936_39ec_primary.rf.bdc51464417b2d689210f2502905c422.jpg,0,ballpoint pen,plastic,192.3,158.1,0
+20260918_151019_0cf8_primary.rf.5d16b94a18d4eabec744fd90388e8a0c.jpg,0,ballpoint pen,rubber,188.2,186.8,0
+20260918_151031_d65e_primary.rf.cd786cba1197c8e3658f990b0f97a1d8.jpg,0,ballpoint pen,rubber,179.5,186.1,0
+20260918_151056_6b5b_primary.rf.767c8c1a0882ce4585530a3269e615ec.jpg,0,ballpoint pen,plastic,146.6,121.0,0
+20260918_151144_8fa6_primary.rf.106c42f771625b2d40cbda9cd213ed9a.jpg,0,ballpoint pen,rubber,194.2,111.0,0
+20260918_151202_08cd_primary.rf.eb4ab2d10ab3fa1a8eb06e162a4a32de.jpg,0,ballpoint pen,rubber,193.3,173.8,0
+20260918_151319_9562_primary.rf.0e5a97a4894efb4bf7a9432a0b3f80e6.jpg,0,ballpoint pen,plastic,182.1,115.6,0
+20260918_151416_2b31_primary.rf.1f742c0027879bff45cf655d0cb57bc0.jpg,0,ballpoint pen,rubber,183.5,124.8,0
+20260918_151452_efcd_primary.rf.c9ae80e3a60c64068a1cfd45dce4c9f6.jpg,0,ballpoint pen,plastic,193.0,135.0,0
+20260918_151529_069e_primary.rf.22cd077f4f46f807d11fa9fdb1475579.jpg,0,ballpoint pen,plastic,128.5,118.1,0
+20260918_151632_e8c3_primary.rf.d2fd91ca387631fd895bcf1ca3055335.jpg,0,ballpoint pen,rubber,176.5,148.8,0
+20260918_151649_b9dd_primary.rf.f6a0db12bbfe06c5b8ab92c51d317da9.jpg,0,ballpoint pen,rubber,174.2,120.1,0
+20260918_151712_fa98_primary.rf.1ab8e60ec1752e92f797c9c8dcc34a77.jpg,0,ballpoint pen,rubber,185.8,116.7,0
+20260918_151758_fe6a_primary.rf.bee54d3b041239cfb3ecb5c035d05123.jpg,0,ballpoint pen,plastic,173.2,187.1,0
+20260918_151758_fe6a_primary.rf.bee54d3b041239cfb3ecb5c035d05123.jpg,1,ballpoint pen,plastic,187.1,173.2,0
+20260918_151833_c8a5_primary.rf.4b4014e62ec7289c31566901459bd421.jpg,0,ballpoint pen,plastic,193.5,140.7,0
+20260918_151919_39a7_primary.rf.473ca1e3dd88a73bb9ef7870d0c7f4e9.jpg,0,ballpoint pen,plastic,153.4,109.6,0
+20260918_151944_a74c_primary.rf.2b0ee8e86a165126f4024df14f984748.jpg,0,ballpoint pen,rubber,168.8,162.4,0
+20260918_152024_66fd_primary.rf.357c06b38baafee26f327f8d0e991090.jpg,0,ballpoint pen,rubber,186.1,133.6,0
+20260918_152042_cdd3_primary.rf.b466ed6f9242929d3c744a320d3450bf.jpg,0,ballpoint pen,rubber,180.3,124.5,0
+20260918_152124_2400_primary.rf.d165a6053462cb877e60a556bdee0dce.jpg,0,ballpoint pen,rubber,181.3,117.5,0
+20260918_152231_4f15_primary.rf.3704520ea8a99ec2ae8c307ac2ee91b3.jpg,0,ballpoint pen,plastic,190.3,155.6,0
+20260918_152328_2466_primary.rf.1c837077af9ff972a0bed17e03b5449f.jpg,0,ballpoint pen,rubber,171.2,107.2,0
+20260918_152413_f42a_primary.rf.b3c393b75d669e18de7c9150e8d3fedb.jpg,0,ballpoint pen,rubber,154.5,108.4,0
+20260918_152533_4fcc_primary.rf.7779adce07bcd52487928517e9836104.jpg,0,ballpoint pen,plastic,152.8,98.9,0
+20260918_152603_fafb_primary.rf.4ef5dbca5bde9166c8939b3ca924368e.jpg,0,ballpoint pen,plastic,188.9,115.5,0
+20260918_152728_7fe5_primary.rf.33e7cfa2b6a2b1b7cba82d704fb211e1.jpg,0,ballpoint pen,plastic,199.3,167.9,0
+20260918_152804_398b_primary.rf.e89ad9094dfcf1442798daaf2cdc9a5a.jpg,0,ballpoint pen,rubber,181.1,169.5,0
+20260918_152904_0f73_primary.rf.dc27c93a682dcf04b54ac323857e1938.jpg,0,ballpoint pen,rubber,196.5,149.1,0
+20260918_152933_51b0_primary.rf.c48399685947a0be8d09c03f965deb90.jpg,0,ballpoint pen,plastic,121.5,120.0,0
+20260918_153018_c03f_primary.rf.c5a4f1d8d74051fa0ba49b704deab2d0.jpg,0,ballpoint pen,rubber,195.2,113.4,0
+20260918_153104_0d93_primary.rf.21db9bc2d01b0477853e0ed0d8c6c26d.jpg,0,ballpoint pen,plastic,197.3,157.7,0
+20260918_153227_6796_primary.rf.85c76a37e2b0ad978e3dd93bb0e1d08f.jpg,0,ballpoint pen,plastic,184.3,114.1,0
+20260918_153307_fed2_primary.rf.de5330fd08782cfba617f054978c9271.jpg,0,ballpoint pen,rubber,175.3,157.0,0
+20260918_153418_614d_primary.rf.b8307299ad57c3df0b7971eb67edd884.jpg,0,ballpoint pen,rubber,185.1,110.6,0
+20260918_153509_b4a1_primary.rf.1aa92afc083247c0dcfba4b3e615cbc4.jpg,0,ballpoint pen,rubber,184.5,115.7,0
+20260918_153548_1cf7_primary.rf.32699ee0429bef58c715c9e901686fe0.jpg,0,ballpoint pen,rubber,156.9,110.4,0
+20260918_153632_adb1_primary.rf.8d3cdbd56073da496690f23ed9950204.jpg,0,ballpoint pen,rubber,170.9,101.3,0
+20260918_153958_0f29_primary.rf.e7f7ecfcbe90536307e08c3710b6aedf.jpg,0,retractable gel pen,rubber,165.3,9.6,0
+20260918_154017_5de3_primary.rf.116302d742936f79434a12fe9422bb03.jpg,0,retractable gel pen,plastic,62.1,119.3,1
+20260918_154057_1a49_primary.rf.f3bcc56820248af37396ad16159a28d8.jpg,0,retractable gel pen,plastic,125.0,90.4,0
+20260918_154127_d555_primary.rf.7afbcf6dd9c009417145c1390d91b56b.jpg,0,retractable gel pen,rubber,110.1,52.5,0
+20260918_154205_2494_primary.rf.3b52085b8aebe3aa1c7569f670c0b570.jpg,0,retractable gel pen,rubber,97.1,74.4,0
+20260918_154222_6c09_primary.rf.8b2b2c9f300ca459ae9a083a2d1f9a11.jpg,0,retractable gel pen,plastic,96.8,93.5,0
+20260918_154237_fd67_primary.rf.bb8955c8f19f4f57c73e46885547c9c5.jpg,0,retractable gel pen,plastic,127.2,64.4,0
+20260918_154308_5a71_primary.rf.2906f96512fb7028c95487a1a289e040.jpg,0,retractable gel pen,rubber,135.1,10.7,0
+20260918_154332_9cd1_primary.rf.fe94359164ba65e256e7534e9d3f0e20.jpg,0,retractable gel pen,plastic,106.6,31.1,0
+20260918_154355_4506_primary.rf.95cfe537b14f900dd0c3f5c300207b3a.jpg,0,retractable gel pen,plastic,161.5,54.5,0
+20260918_154421_dd36_primary.rf.d0435f00fff9daf6853d8ee81c0e76cd.jpg,0,retractable gel pen,plastic,106.8,83.4,0
+20260918_154519_affa_primary.rf.5c97306d4baaa6f93df6ca0cd9c6e686.jpg,0,retractable gel pen,rubber,156.5,5.4,0
+20260918_154539_0266_primary.rf.262b39bc69b760b52d90692fc27a16d2.jpg,0,retractable gel pen,plastic,115.3,69.7,0
+20260918_154608_8520_primary.rf.3fe8a40c4749761218118d2055eeb82d.jpg,0,retractable gel pen,plastic,89.8,50.4,0
+20260918_154635_bba4_primary.rf.64355d198b8ecd32b6774a7917b1e90c.jpg,0,retractable gel pen,rubber,109.8,98.2,0
+20260918_154706_5433_primary.rf.43277ffabda59c30064896968a51092f.jpg,0,retractable gel pen,plastic,111.6,72.5,0
+20260918_154729_16c5_primary.rf.d0bb2b85c9acca0226fe373d28983785.jpg,0,retractable gel pen,plastic,114.1,30.9,0
+20260918_154759_25b3_primary.rf.b2095c5b8346da6a4a6879ac14e30825.jpg,0,retractable gel pen,plastic,130.0,54.9,0
+20260918_154837_99f7_primary.rf.f3e17dae21537f08eb15bdfec136e988.jpg,0,retractable gel pen,rubber,159.1,80.5,0
+20260918_154953_2ec6_primary.rf.f3c465d31d4b4b1b96063665716e348a.jpg,0,retractable gel pen,rubber,79.5,68.8,0
+20260918_155031_70d9_primary.rf.3e19519fac3a0c96070e5a21409c2e96.jpg,0,retractable gel pen,plastic,129.2,64.4,0
+20260918_155052_78a6_primary.rf.3fa8ec5cb06f2db2910ca813eda7748a.jpg,0,retractable gel pen,plastic,119.8,26.6,0
+20260918_155117_0e23_primary.rf.e96ffe9f2ea360d12e77eb9cda7e2e15.jpg,0,retractable gel pen,rubber,172.6,122.0,0
+20260918_155146_dc14_primary.rf.8c44753faa0d253f3a27ca11c4211980.jpg,0,retractable gel pen,rubber,165.8,99.6,0
+20260918_155217_9104_primary.rf.b875e913e7ab183033ac3c8158f63dc4.jpg,0,retractable gel pen,rubber,161.5,106.3,0
+20260918_155247_7626_primary.rf.286e06bba54cc423157966e9cada8111.jpg,0,retractable gel pen,plastic,125.4,17.4,0
+20260918_155312_7149_primary.rf.4443cef484fb10bff2935f7efaee74c9.jpg,0,retractable gel pen,rubber,148.6,36.2,0
+20260918_155349_883a_primary.rf.5bb4096889d1cbe82e3e9df89d762da4.jpg,0,retractable gel pen,plastic,106.4,57.6,0
+20260918_155422_4867_primary.rf.e5235720315d82be3d83f896420153f8.jpg,0,retractable gel pen,plastic,144.5,130.2,0
+20260918_155453_daaf_primary.rf.ed0c1bf77584c80a6fe7f19fad4d196e.jpg,0,retractable gel pen,plastic,131.6,63.6,0
+20260918_155532_d86b_primary.rf.504d7f11f6a0d2e9568e72b11f1351d5.jpg,0,retractable gel pen,plastic,43.4,1.2,0
+20260918_155843_736b_primary.rf.80d4726465a47d401a82c01494df7920.jpg,0,precision screwdriver,rubber,184.3,137.4,0
+20260918_155934_7848_primary.rf.ff39686fe6c86b56cee455c8a2a9aa28.jpg,0,precision screwdriver,rubber,169.9,81.2,0
+20260918_155954_1116_primary.rf.5ddbb50885b3b308517e1d8eca780c50.jpg,0,precision screwdriver,rubber,169.1,137.7,0
+20260918_160033_9d43_primary.rf.32592f8a381697a6ec4388d2fb5d0747.jpg,0,precision screwdriver,rubber,172.4,139.4,0
+20260918_160046_0931_primary.rf.7795629f2693926a57a2758b68f32d79.jpg,0,precision screwdriver,rubber,159.2,162.2,0
+20260918_160102_dc44_primary.rf.6d8381fb52026c8bb16ed8199dece78c.jpg,0,precision screwdriver,metal,156.3,146.7,0
+20260918_160115_e197_primary.rf.6081dd8f98457cac552920b504040017.jpg,0,precision screwdriver,metal,85.4,127.1,0
+20260918_160257_40f7_primary.rf.73462410ce48b1ae765a659031118bc7.jpg,0,precision screwdriver,rubber,195.6,166.3,0
+20260918_160344_c9a7_primary.rf.a78e0e6fccc3549f05e02b8f993c79dd.jpg,0,precision screwdriver,rubber,153.5,107.2,0
+20260918_160417_268c_primary.rf.9aab2a4a453b523ab08f22c9766389e7.jpg,0,precision screwdriver,rubber,157.8,154.1,0
+20260918_160512_c29b_primary.rf.fef4f72eb9d7283dd2a529a83a67a418.jpg,0,precision screwdriver,rubber,177.7,122.4,0
+20260918_160542_f8c6_primary.rf.f5eb8e1667156fb7439b830a8a9b44c7.jpg,0,precision screwdriver,metal,166.2,128.5,0
+20260918_160604_b6e0_primary.rf.03f6884335303fcc182d6c4724d24004.jpg,0,precision screwdriver,metal,88.4,129.0,0
+20260918_160620_195d_primary.rf.a9641d00b96fa8e32174a8138105d70b.jpg,0,precision screwdriver,metal,174.5,92.6,0
+20260918_160640_04e8_primary.rf.939735815f479787cd867e3011c392e1.jpg,0,precision screwdriver,metal,169.1,133.6,0
+20260918_160712_e359_primary.rf.b8942ee78be984c9c7899faac2cd4c02.jpg,0,precision screwdriver,rubber,140.9,91.0,0
+20260918_160758_7e77_primary.rf.2aa11387979f32e99fac383e7e7d0e78.jpg,0,precision screwdriver,rubber,118.8,130.7,0
+20260918_160827_4c00_primary.rf.d3f007511b651f02b8918137d2ee7714.jpg,0,precision screwdriver,rubber,161.1,121.3,0
+20260918_160852_cf30_primary.rf.8d9b58cf483346a041ad66b1d26853c2.jpg,0,precision screwdriver,rubber,153.2,84.7,0
+20260918_160903_cb0e_primary.rf.60cd0906e3a36d81434e876cb0cf5dcb.jpg,0,precision screwdriver,rubber,148.8,76.7,0
+20260918_160915_7fb6_primary.rf.b1df9911b21a904b8d76f2786219cf31.jpg,0,precision screwdriver,rubber,157.4,53.6,0
+20260918_160928_7264_primary.rf.61f9b3fbb64dc3f7b7ff1cb7a83f2786.jpg,0,precision screwdriver,rubber,168.1,111.5,0
+20260918_160950_907a_primary.rf.60c48de41daff3acb60f16c5fa77e4fd.jpg,0,precision screwdriver,metal,121.5,76.1,0
+20260918_161008_1e2c_primary.rf.6b41e067798df572b0b692906281a4e1.jpg,0,precision screwdriver,metal,131.2,57.5,0
+20260918_161021_2c47_primary.rf.fa49aea068aa4eb32c44d64c3e4e3611.jpg,0,precision screwdriver,metal,102.8,96.8,0
+20260918_161147_9363_primary.rf.1f003805deeab9e32f116ba6d7492e36.jpg,0,precision screwdriver,metal,103.7,106.5,0
+20260918_161213_4850_primary.rf.0cfe6d9e091596c6f5631051d6aced70.jpg,0,precision screwdriver,metal,82.9,110.4,0
+20260918_161257_b3d7_primary.rf.f9cd8105a1c641f3882626ee0df1311d.jpg,0,precision screwdriver,metal,95.0,119.0,0
+20260918_161336_d4c7_primary.rf.c0ee45d0b6fb451a76f27304a06d20ca.jpg,0,precision screwdriver,metal,106.1,89.1,0
+20260918_161408_83f1_primary.rf.038f48784b0b88aeec37d7cea96c21d4.jpg,0,precision screwdriver,metal,93.9,81.1,0
+20260918_161439_e081_primary.rf.39aa0a01f64f852e76d267c20c2b1b53.jpg,0,precision screwdriver,rubber,101.6,64.5,0
+20260918_161459_3294_primary.rf.40ef181d675a30e515208924cd4920a9.jpg,0,precision screwdriver,rubber,120.9,66.4,0
+20260918_161526_4b40_primary.rf.0482558e677171150e1cc7f51c78cfc0.jpg,0,precision screwdriver,rubber,126.7,122.5,0
+20260918_161551_228e_primary.rf.9c8db06433971a28377df0b28b1ec281.jpg,0,precision screwdriver,rubber,178.1,121.7,0
+20260918_161615_f38d_primary.rf.f7dd0525e52b51d0a47f8d4ec38daad8.jpg,0,precision screwdriver,rubber,147.6,74.7,0
+20260918_161637_6863_primary.rf.d3021e7c2d317647103b51b370ec6dd7.jpg,0,precision screwdriver,rubber,123.1,55.9,0
+20260918_161659_5ab7_primary.rf.6e749b58e3bf698cb183dc5dcc21a542.jpg,0,precision screwdriver,rubber,152.2,94.6,0
+20260918_161727_4eb9_primary.rf.5b6c099bff88cf885d099defd209aa87.jpg,0,precision screwdriver,rubber,79.8,63.0,0
+20260918_163011_8ed7_primary.rf.61c3e84077a85349bd550118683f7943.jpg,0,scissors,metal,131.4,117.9,0
+20260918_163029_76a1_primary.rf.2bff12ba824638846a54e5c933f02c43.jpg,0,scissors,metal,36.5,115.7,1
+20260918_163057_82a3_primary.rf.9ec52528cded192aa8106e7a77e31a2c.jpg,0,scissors,plastic,196.0,151.9,0
+20260918_163155_a198_primary.rf.36eb082d409680fc03dd1b2acb5db28e.jpg,0,scissors,metal,84.0,89.0,0
+20260918_163208_3662_primary.rf.e00d7e1912cbc6a6fef8baa279c65580.jpg,0,scissors,metal,92.4,132.6,0
+20260918_163219_2c5f_primary.rf.f83dff75f80d0b891829875a77866a84.jpg,0,scissors,plastic,198.4,138.0,0
+20260918_163230_8526_primary.rf.becc91db4ccced81f367b3c722b402c7.jpg,0,scissors,plastic,207.4,142.7,0
+20260918_163242_a6a2_primary.rf.a69a369ddd1530d3c67c0741c984ee40.jpg,0,scissors,plastic,202.8,149.3,0
+20260918_163253_d2a0_primary.rf.272a1d07f3f9b746f8f57bf4997acdc5.jpg,0,scissors,plastic,190.9,143.1,0
+20260918_163304_582d_primary.rf.e0120966fb4482cec9124066db4f7a43.jpg,0,scissors,metal,34.5,125.6,1
+20260918_163324_fbde_primary.rf.e7c857a104384ddc315d65aefe607695.jpg,0,scissors,metal,87.6,117.7,0
+20260918_163339_abb5_primary.rf.5930971ff97c34a20081f29a4cbfd549.jpg,0,scissors,plastic,197.3,151.2,0
+20260918_163352_60ee_primary.rf.ede3036f51573d8784944f7f1af2acbb.jpg,0,scissors,metal,93.8,115.9,0
+20260918_163456_e19f_primary.rf.08b3427b6b7a3085d880bc06a5c390e3.jpg,0,scissors,metal,123.0,128.2,0
+20260918_163512_4cce_primary.rf.e5fde51a8143a69b512513ce25f84667.jpg,0,scissors,plastic,188.9,125.2,0
+20260918_163529_bdac_primary.rf.72020d70d7d748b48c8f8b796110ebf1.jpg,0,scissors,metal,125.9,129.2,0
+20260918_163540_3a06_primary.rf.a747bae40b23564b4b80b6d69ca080d8.jpg,0,scissors,plastic,182.1,182.6,0
+20260918_163551_75b1_primary.rf.1211c784f2c0608023654911296a06d2.jpg,0,scissors,plastic,187.9,134.6,0
+20260918_163600_7a49_primary.rf.4d4a8df964b0d4278d19a3e3470e29f5.jpg,0,scissors,metal,126.8,83.5,0
+20260918_163737_f198_primary.rf.2e80a51ffded1e7d209aa02e16a09a11.jpg,0,scissors,metal,103.4,129.4,0
+20260918_163737_f198_primary.rf.2e80a51ffded1e7d209aa02e16a09a11.jpg,1,scissors,metal,103.4,58.2,0
+20260918_163805_909c_primary.rf.1323a33e07311d457384b55c19ca076f.jpg,0,scissors,plastic,195.2,181.4,0
+20260918_163820_c381_primary.rf.0c3cb50076f4154019a6fa871d8d6127.jpg,0,scissors,plastic,179.9,137.0,0
+20260918_163838_c91e_primary.rf.56837ff588a6b79bac498be705692ba6.jpg,0,scissors,plastic,192.1,148.4,0
+20260918_163910_42dd_primary.rf.197eb67f58db7b61c8fada9452b1853d.jpg,0,scissors,metal,133.2,49.3,0
+20260918_163925_19ff_primary.rf.2af3551944aecbe4a9fb90c3b6563135.jpg,0,scissors,metal,94.6,56.5,0
+20260918_163941_a7f9_primary.rf.eb4b01c9210b4b5f3899bfd6f63a189e.jpg,0,scissors,plastic,186.7,142.5,0
+20260918_164020_cb86_primary.rf.32d213859831ce0d0b6620bb9dc6e052.jpg,0,scissors,plastic,195.1,176.7,0
+20260918_164035_95dc_primary.rf.30e2d69f2e9438966f52ddaa627be0e0.jpg,0,scissors,plastic,176.9,135.7,0
+20260918_164114_c975_primary.rf.f9da65b8594b5d6f87d532ebad9a4eab.jpg,0,scissors,metal,77.8,126.7,1
+20260918_164133_f683_primary.rf.00d3575b952e15cb51153dbeed893c71.jpg,0,scissors,metal,115.2,75.3,0
+20260918_164200_5e34_primary.rf.c0b04f4ec6e44692bca46ff657f8bf6f.jpg,0,scissors,plastic,194.8,161.4,0
+20260918_164242_2198_primary.rf.65158b7461268d658b056939a15584b8.jpg,0,scissors,plastic,198.9,147.9,0
+20260918_164405_6bee_primary.rf.bc671c8339486c08f5a97f33d1fb367f.jpg,0,scissors,metal,130.1,97.7,0
+20260918_164439_199b_primary.rf.9d6ce7956951d90bd2b70325c49263d5.jpg,0,scissors,plastic,196.9,198.2,0
+20260918_164517_5d17_primary.rf.6aa79aad7b3d3727645c4897975148fa.jpg,0,scissors,plastic,201.6,146.0,0
+20260918_164603_723f_primary.rf.a6336b9aa75bef82e3ec34512e48b51a.jpg,0,scissors,plastic,188.1,121.9,0
+20260918_164625_e52c_primary.rf.224b1a293242f14b9d210341c8046767.jpg,0,scissors,metal,189.3,118.7,0
+20260918_171032_2d9a_primary.rf.2a0f990b5c1c35c6be814cd712bb3f8a.jpg,0,cardboard shipping box,plastic,49.2,33.5,0
+20260918_171055_4c5a_primary.rf.7af51de8692d3d3c186fe1e7aba35e93.jpg,0,cardboard shipping box,composite,147.3,77.3,0
+20260918_171105_c029_primary.rf.7962bea612cfecc7eb9b0afe07b8b113.jpg,0,cardboard shipping box,composite,147.4,47.4,0
+20260918_171114_6104_primary.rf.2e8adb395b6751af4e18c56d16cb155b.jpg,0,cardboard shipping box,plastic,146.0,39.8,0
+20260918_171224_6754_primary.rf.61f0ca66f609ce670fe449aeca88a808.jpg,0,cardboard shipping box,composite,152.4,73.5,0
+20260918_171357_c09a_primary.rf.883b38a48f515df0c03fd4ee9166371d.jpg,0,cardboard shipping box,composite,142.9,47.1,0
+20260918_171414_2202_primary.rf.0cb853f9b2579e50c652face021cdc99.jpg,0,cardboard shipping box,composite,145.5,48.7,0
+20260918_171445_5ec0_primary.rf.576f24ee737910462f84191c1f00eb47.jpg,0,cardboard shipping box,composite,145.8,52.1,0
+20260918_171522_eb98_primary.rf.e8026ca0f30deca01ccf45281e7bbd33.jpg,0,cardboard shipping box,composite,156.5,106.0,0
+20260918_171600_2a5e_primary.rf.29b3ab724d57efcd2c60d2fde9534b8a.jpg,0,cardboard shipping box,plastic,114.2,39.8,0
+20260918_171621_ff5f_primary.rf.8fb1fb5bf1feafa02181369b0a84c7e9.jpg,0,cardboard shipping box,plastic,57.2,3.5,0
+20260918_171648_8285_primary.rf.1917434beefe60294c805c07efc64fb0.jpg,0,cardboard shipping box,composite,161.0,152.3,0
+20260918_171735_c8af_primary.rf.084e9a8b3cd6feab4d900c008d0e4b39.jpg,0,cardboard shipping box,composite,138.1,106.4,0
+20260918_171751_a9c0_primary.rf.8db9e5bd7aaa47a24e649a31e3d29f44.jpg,0,cardboard shipping box,composite,138.5,130.7,0
+20260918_171832_11e5_primary.rf.e5522c767c9f1f0a42e10237b9f2f3ea.jpg,0,cardboard shipping box,composite,164.2,66.7,0
+20260918_171850_51e5_primary.rf.63a12911d787855d5eb3af7ec41a233e.jpg,0,cardboard shipping box,composite,155.9,104.0,0
+20260918_172000_8037_primary.rf.f5d1e65dc9d756ebec017f04fcfb60d5.jpg,0,cardboard shipping box,plastic,112.9,33.9,0
+20260918_172020_0169_primary.rf.52c0eaf51eb3c3107f1a2ec58d3a27a0.jpg,0,cardboard shipping box,composite,139.3,105.1,0
+20260918_172048_f864_primary.rf.3b33eb691e1da38fb5f059588b0d1ff2.jpg,0,cardboard shipping box,composite,160.2,80.1,0
+20260918_172120_4852_primary.rf.1e4bc282ea9952a5c902c6f8764977ed.jpg,0,cardboard shipping box,composite,130.9,127.8,0
+20260918_172152_2cb6_primary.rf.77d41521f63b87553467f2cb0410c71b.jpg,0,cardboard shipping box,composite,159.3,66.0,0
+20260918_172316_d247_primary.rf.159066ade0f8d9c302dbe592292fcd16.jpg,0,cardboard shipping box,composite,151.8,58.4,0
+20260918_172335_f8d8_primary.rf.bfa4c619c475219d48022e57ca45ea66.jpg,0,cardboard shipping box,composite,115.2,54.4,0
+20260918_172418_a198_primary.rf.2195891ad2c31b28ec1acd04d93b113f.jpg,0,cardboard shipping box,composite,130.0,66.9,0
+20260918_172536_3d69_primary.rf.01a545d508c4ea0aa0af9ee424b39f24.jpg,0,cardboard shipping box,composite,167.5,52.1,0
+20260918_172552_c612_primary.rf.260e19bfebfe74fb9437879977fab403.jpg,0,cardboard shipping box,composite,128.5,95.5,0
+20260918_172650_abf6_primary.rf.d6a4162893d4211a90fdc81ed1fd888d.jpg,0,cardboard shipping box,plastic,151.1,47.6,0
+20260918_172734_a620_primary.rf.fa2d966890ae40317b4f25e4c4f9483c.jpg,0,cardboard shipping box,plastic,74.8,81.8,0
+20260918_172811_a148_primary.rf.6b559081c650802ca4b1635ccbfa4769.jpg,0,cardboard shipping box,composite,139.3,99.7,0
+20260918_172842_e4f7_primary.rf.9290bee55010f1aee2533fcf010dbe23.jpg,0,cardboard shipping box,composite,159.7,41.2,0
+20260918_172927_ab4b_primary.rf.1a25a41d7bb21a9b8966ec1a9fb8c738.jpg,0,cardboard shipping box,composite,153.1,66.6,0
+20260918_172945_3974_primary.rf.d476aa19372838ea40938ecdf01ff6c7.jpg,0,cardboard shipping box,composite,129.0,48.4,0
+20260918_173038_4e89_primary.rf.df60223ca62331338bc2630eec9ce0cf.jpg,0,cardboard shipping box,composite,129.7,99.4,0
+20260918_173106_e2d0_primary.rf.25925aecd6fb1ffe7119581ed0f63509.jpg,0,cardboard shipping box,composite,149.4,41.5,0
+20260918_173131_0dab_primary.rf.c5262b1b8d3507e58a0a3b8aee4b144e.jpg,0,cardboard shipping box,composite,144.9,72.2,0
+20260918_173146_8bad_primary.rf.ce43cb8a489d9aaaa6cb71e025dda792.jpg,0,cardboard shipping box,composite,116.6,52.0,0
+20260918_173158_d2d8_primary.rf.edba89880d8bc60b48bc75d03beb1a6b.jpg,0,cardboard shipping box,composite,128.1,114.9,0
+20260918_173213_3b5c_primary.rf.d1e6ac42550212a6715c775f22e72729.jpg,0,cardboard shipping box,composite,134.2,48.6,0
+20260918_173245_7a93_primary.rf.fd0d9f4121042252b4623cc66b744172.jpg,0,cardboard shipping box,composite,139.6,111.6,0
+20260918_173305_efc7_primary.rf.2e659a1fc8f73d67210d129cffb5e83c.jpg,0,cardboard shipping box,composite,123.1,48.1,0
+20260918_173321_5024_primary.rf.19036f479fbdc776f06126cbcd19df77.jpg,0,cardboard shipping box,plastic,84.6,39.9,0
+20260918_173333_ce1a_primary.rf.7ecff897bd7ea6d2c3064a6742c14fce.jpg,0,cardboard shipping box,composite,147.6,41.9,0
+20260918_173342_ab51_primary.rf.b35fb71e56c40f0043abac4912d71c74.jpg,0,cardboard shipping box,plastic,113.2,38.7,0
+20260918_173351_feae_primary.rf.935ce437cdb37c7bde14f20ee39c6b09.jpg,0,cardboard shipping box,composite,150.4,62.5,0
+20260918_174810_7c49_primary.rf.e169cfe2ceaf4164d446e0af5ec0004f.jpg,0,car key fob with keyring,plastic,62.2,8.4,0
+20260918_174820_7618_primary.rf.f6f8b61e986c64b3498ae58f95758d53.jpg,0,car key fob with keyring,plastic,110.2,14.0,0
+20260918_174843_707e_primary.rf.836f78f2ec89a339a3886acc45e469ad.jpg,0,car key fob with keyring,plastic,61.5,3.0,0
+20260918_174909_0443_primary.rf.84bfee56ede75a51ed41a9cbac41281f.jpg,0,car key fob with keyring,plastic,120.7,22.3,0
+20260918_174920_50d3_primary.rf.4d05a67d32ca5322a4460af94fcc3aa1.jpg,0,car key fob with keyring,plastic,87.8,5.0,0
+20260918_174930_a84c_primary.rf.3424c15f2c39b9976c4ffee5b065e69e.jpg,0,car key fob with keyring,plastic,79.5,14.6,0
+20260918_174940_9615_primary.rf.d5a0f504a91ec7f2177b262557a99a7a.jpg,0,car key fob with keyring,plastic,144.4,11.5,0
+20260918_174957_6e99_primary.rf.bad09f1d63b952459d63af503828c3f1.jpg,0,car key fob with keyring,plastic,93.6,18.9,0
+20260918_175007_3231_primary.rf.875bdbe1be4bf88cc8d2fa65632561ba.jpg,0,car key fob with keyring,plastic,71.2,9.4,0
+20260918_175017_5455_primary.rf.10e66bb3a7246f98b5c3680f06f797e1.jpg,0,car key fob with keyring,plastic,100.5,13.3,0
+20260918_175056_c8f2_primary.rf.e2f92202af132f5c4eeea189f4743629.jpg,0,car key fob with keyring,plastic,117.2,4.2,0
+20260918_175110_b877_primary.rf.63acb5dc8f25865c4ace5e2f504a2d9f.jpg,0,car key fob with keyring,plastic,103.7,11.9,0
+20260918_175141_bafd_primary.rf.fa82f104184e96229bbbd0e5096ca03a.jpg,0,car key fob with keyring,plastic,102.8,11.2,0
+20260918_175157_af33_primary.rf.f05253bfdecf6a80b86c3e015b70e45f.jpg,0,car key fob with keyring,plastic,143.0,42.8,0
+20260918_175223_dd8d_primary.rf.b1e656cc42f608345f08808fba6563ee.jpg,0,car key fob with keyring,plastic,130.9,41.4,0
+20260918_175303_d57a_primary.rf.ec761b2d2a4e17bf15791a8083874b09.jpg,0,car key fob with keyring,plastic,49.0,108.1,1
+20260918_175335_bafc_primary.rf.62a48f1604ad37a818fdacd6fc88ceb1.jpg,0,car key fob with keyring,plastic,123.9,49.0,0
+20260918_175448_3ecf_primary.rf.3c8d44253e7f48189d0baa96f7dc7955.jpg,0,car key fob with keyring,metal,129.0,74.4,0
+20260918_175505_9a68_primary.rf.71cb0aeb9e86cc0187e1afb6fcbcbfe3.jpg,0,car key fob with keyring,plastic,116.2,79.6,0
+20260918_175544_d053_primary.rf.afee31c8077c317fd713cc11f15a586d.jpg,0,car key fob with keyring,plastic,63.6,87.4,0
+20260918_175653_abb8_primary.rf.db9bc2c3bbb4246cfd633a5ed705d1bd.jpg,0,car key fob with keyring,plastic,146.0,37.6,0
+20260918_175725_08da_primary.rf.f11e2e73f5dc5cc4bdbed5ee81ae7186.jpg,0,car key fob with keyring,plastic,145.8,28.8,0
+20260918_175743_3294_primary.rf.9bc53bcab06af3835c4f31f37b7853ee.jpg,0,car key fob with keyring,plastic,111.7,13.6,0
+20260918_175803_8a0b_primary.rf.1e9403cda3f866c1c10867b86d17551f.jpg,0,car key fob with keyring,plastic,72.1,10.8,0
+20260918_175830_f59d_primary.rf.f1eb1f2eaccb911fd14a7ff816afca40.jpg,0,car key fob with keyring,plastic,100.2,45.2,0
+20260918_175857_cf84_primary.rf.3950267b37b1b3d3e425bd5d3d93c932.jpg,0,car key fob with keyring,plastic,90.7,7.2,0
+20260918_175921_7bb1_primary.rf.09be475f8264e5db11a619553e5b2728.jpg,0,car key fob with keyring,plastic,110.3,8.1,0
+20260918_175944_1a54_primary.rf.b26f795f95a2ea8449042b82d1f6431a.jpg,0,car key fob with keyring,plastic,58.6,4.8,0
+20260918_180004_be53_primary.rf.97df9ed512cd3bf1a4fcfe4efcf36a8f.jpg,0,car key fob with keyring,plastic,86.1,25.4,0
+20260918_180035_815d_primary.rf.a36b4fab752c84136be75830d75ee8df.jpg,0,car key fob with keyring,plastic,109.0,16.3,0
+20260918_180058_0e44_primary.rf.172d162d895e8d5e0e38eb868fb6d6d9.jpg,0,car key fob with keyring,plastic,95.2,26.8,0
+20260918_180117_2926_primary.rf.71bf444a90893354ec70ea1ca5096abf.jpg,0,car key fob with keyring,plastic,82.5,14.2,0
+20260918_180148_61ef_primary.rf.93ba0de318a6e3149d161a4b3f5b2885.jpg,0,car key fob with keyring,plastic,36.9,106.0,1
+20260918_180202_78f7_primary.rf.9c0ac3e969a9651489b3813374a29203.jpg,0,car key fob with keyring,plastic,163.4,35.4,0
+20260918_180246_aefb_primary.rf.260a83467ffd370929f1bdf488d091bf.jpg,0,car key fob with keyring,plastic,168.7,32.7,0
+20260918_180306_accc_primary.rf.188c9bc3b7de2c10fba1ecb0a5b57ae9.jpg,0,car key fob with keyring,plastic,162.3,78.8,0
+20260918_180402_2eb8_primary.rf.7a6ee1313ef76bc6094195f31b652bbf.jpg,0,car key fob with keyring,plastic,169.2,22.6,0
+20260918_180459_6d0d_primary.rf.40da0c18617cf79b571ccdccee49ba5c.jpg,0,car key fob with keyring,plastic,97.3,10.3,0
+20260918_180537_a347_primary.rf.ea2175259b524b1d6541913dd560ca1b.jpg,0,car key fob with keyring,plastic,65.8,6.6,0
+20260918_180605_da43_primary.rf.3a0b936604db0c120b86d570467f17ce.jpg,0,car key fob with keyring,plastic,78.4,6.9,0
+20260918_180645_3672_primary.rf.786b5c070f753f4ef37563d86a123c36.jpg,0,car key fob with keyring,plastic,147.6,9.7,0
+20260918_180720_a061_primary.rf.19cc9b1f6345b80d2ca5a623a768712d.jpg,0,car key fob with keyring,plastic,90.8,10.1,0
+20260918_180737_0019_primary.rf.928558263166c781ddf5142364cf0fd0.jpg,0,car key fob with keyring,plastic,72.6,32.8,0
+20260918_181024_9583_primary.rf.5bb2439541e4d6e1938feaa9e3403527.jpg,0,rubber duck,rubber,126.2,6.9,0
+20260918_181045_5d7a_primary.rf.0d77791db3c2f7a408924fe3b4c59f31.jpg,0,rubber duck,rubber,140.5,88.9,0
+20260918_181108_184b_primary.rf.1bf12e50b0814f8fc401a7822bc29d96.jpg,0,rubber duck,rubber,137.8,102.2,0
+20260918_181125_28d3_primary.rf.3a6ce5a97f42e60ad2ec61564e7566bb.jpg,0,rubber duck,rubber,145.2,111.3,0
+20260918_181142_9752_primary.rf.e9a6aa2fe1b14628448ebd88d1bc4a0e.jpg,0,rubber duck,rubber,155.8,56.0,0
+20260918_181205_4836_primary.rf.677a68015b19e8e14656fba3f6bb40d6.jpg,0,rubber duck,rubber,157.9,51.5,0
+20260918_181226_fe46_primary.rf.08d574a3758aa66da639b181ab4094a0.jpg,0,rubber duck,rubber,150.7,85.2,0
+20260918_181250_b638_primary.rf.866fec355fb682baf85c0fc25c88518f.jpg,0,rubber duck,rubber,156.9,99.1,0
+20260918_181301_dbb2_primary.rf.42c0ba92f96d58961bac7756a7bf5de5.jpg,0,rubber duck,rubber,96.8,5.1,0
+20260918_181313_19bf_primary.rf.c5a85aa255b9928ae365014299de53de.jpg,0,rubber duck,rubber,136.0,4.8,0
+20260918_181333_8a67_primary.rf.35a6fde3dd3f81ed0b98f5e3b911488d.jpg,0,rubber duck,rubber,120.1,69.7,0
+20260918_181400_f255_primary.rf.a3e837011bc1da1182f3bf34db2e840c.jpg,0,rubber duck,rubber,113.2,91.1,0
+20260918_181410_f046_primary.rf.21751a71339349149e293ec34bf3edb8.jpg,0,rubber duck,rubber,123.7,98.3,0
+20260918_181423_5489_primary.rf.d6227ad9f04d79cbcd9596e01cabc726.jpg,0,rubber duck,rubber,124.6,97.7,0
+20260918_181439_fd07_primary.rf.125a2a9a7856d6d02bd3d8ef3f933161.jpg,0,rubber duck,rubber,138.6,32.8,0
+20260918_181450_5773_primary.rf.eeb1d32f986333548025ea1b0447769d.jpg,0,rubber duck,rubber,119.7,90.5,0
+20260918_181707_0c10_primary.rf.5e5b735628acbe133627beb0a28b6628.jpg,0,rubber duck,rubber,126.6,78.2,0
+20260918_181720_de33_primary.rf.2f60f6e2e024a42692fbe21be047edbc.jpg,0,rubber duck,rubber,132.3,100.4,0
+20260918_181810_9f25_primary.rf.0f5049c6ef126dd6de7c87cf7ad27d9a.jpg,0,rubber duck,rubber,131.8,102.5,0
+20260918_181820_8b57_primary.rf.b9866bcffa030a0a9d9bf45643692b6c.jpg,0,rubber duck,rubber,164.4,5.5,0
+20260918_181830_fece_primary.rf.e21b797d584d9c70e49a9c2879b5e188.jpg,0,rubber duck,rubber,127.7,105.6,0
+20260918_181916_a5ff_primary.rf.cffb31e83634015c7d47776392ab8ec8.jpg,0,rubber duck,rubber,124.9,42.2,0
+20260918_181936_8af3_primary.rf.9cf592edb43138957f7e02c22ab7b539.jpg,0,rubber duck,rubber,172.5,59.2,0
+20260918_182200_a7c9_primary.rf.427a07536b7afa9c838fd495faac4cf2.jpg,0,rubber duck,rubber,144.8,91.2,0
+20260918_182211_09c9_primary.rf.0b8d6b321097758a24af0ea993c09008.jpg,0,rubber duck,rubber,129.4,17.2,0
+20260918_182228_d79f_primary.rf.4b4fc5235d80410a16daf9482b8ff4c8.jpg,0,rubber duck,rubber,61.4,69.8,0
+20260918_182239_16ad_primary.rf.cb986b97483734e928252409319bc1e3.jpg,0,rubber duck,rubber,144.1,37.2,0
+20260918_182248_5e47_primary.rf.7b1222a6de05222919fad3d183b2e8b2.jpg,0,rubber duck,rubber,151.5,11.6,0
+20260918_182301_2b2e_primary.rf.06a025a693ec5f305b342784e57d7a46.jpg,0,rubber duck,rubber,118.5,82.0,0
+20260918_182333_6f5d_primary.rf.0d2753b911506de7e207ed0b69bfd3fe.jpg,0,rubber duck,rubber,111.5,6.1,0
+20260918_182404_da5c_primary.rf.f734d7c2a47cda7250dbe400cf411bb3.jpg,0,rubber duck,rubber,145.5,88.7,0
+20260918_182416_c742_primary.rf.f5db142cc4a6512b2dc7f42bb1877da6.jpg,0,rubber duck,rubber,124.8,37.9,0
+20260918_182427_0834_primary.rf.bd519240266324040258472c90ffd225.jpg,0,rubber duck,rubber,121.0,7.0,0
+20260918_182449_f8e7_primary.rf.fcb6c814dc9ac25ddfc68caf7db285ee.jpg,0,rubber duck,rubber,137.6,11.2,0
+20260918_182505_6c69_primary.rf.f504f8f3c299c3806de05e0cc3ea19f0.jpg,0,rubber duck,rubber,121.0,48.6,0
+20260918_182516_a010_primary.rf.3fcb8123acc7fc1052752e4e097e1e78.jpg,0,rubber duck,rubber,126.8,88.2,0
+20260918_182548_b817_primary.rf.c37d57f0ca89f0b7ac89472fcbe88a33.jpg,0,rubber duck,rubber,156.0,153.3,0
+20260918_182701_bc22_primary.rf.d2691c2170aee3782d2692213d4c9f82.jpg,0,rubber duck,rubber,140.4,114.9,0
+20260918_182740_0b44_primary.rf.aea1004c313a571301f378cd1e3ab810.jpg,0,rubber duck,rubber,143.9,117.4,0
+20260918_182753_ffe5_primary.rf.62ed4ddb39934fd3bd8b9984658fdea6.jpg,0,rubber duck,rubber,142.1,120.2,0
+20260918_182812_dd01_primary.rf.c4ef95216fd152b3e7e7dd6326970801.jpg,0,rubber duck,rubber,137.2,110.1,0
+20260918_182844_6421_primary.rf.41fdf6826626deecf5ac877fafb55693.jpg,0,rubber duck,rubber,182.3,114.5,0
+20260918_182901_c64d_primary.rf.962d9af194b834515f22c8f1818b3db4.jpg,0,rubber duck,rubber,131.0,91.0,0
+20260918_182932_f6f4_primary.rf.a854abc62657f37004cdbfa9742e26eb.jpg,0,rubber duck,rubber,127.3,95.6,0
+20260918_183003_691b_primary.rf.891eabfa9f4820c4de1bc82fb9467835.jpg,0,rubber duck,rubber,138.1,90.6,0
+20260921_142157_bcc5_primary.rf.949b21baedd023c4af9be9dbd27f8741.jpg,0,bifold wallet,leather,196.5,23.9,0
+20260921_142212_5164_primary.rf.efcb474b006fdb2f58372f90d2159249.jpg,0,bifold wallet,leather,189.1,76.0,0
+20260921_142223_34d7_primary.rf.d624e1d33d4c1dd9840d32a68ebc25f2.jpg,0,bifold wallet,leather,197.0,33.0,0
+20260921_142237_f3f1_primary.rf.7e8b848c6ab84e8df24847d859b53382.jpg,0,bifold wallet,leather,193.8,36.4,0
+20260921_142249_1c9d_primary.rf.d1f8cbba778d500182538753c216b60e.jpg,0,bifold wallet,leather,195.7,34.8,0
+20260921_142301_5fc3_primary.rf.2ef07a3951d1304f0c35b53cddd1afb4.jpg,0,bifold wallet,leather,191.0,26.3,0
+20260921_142312_139b_primary.rf.4153b0715ce7c26039e2c50ae3ce042d.jpg,0,bifold wallet,leather,193.2,22.4,0
+20260921_142324_87b4_primary.rf.b504984660ffd0feea04636845f12c55.jpg,0,bifold wallet,leather,191.6,24.2,0
+20260921_142338_bf2a_primary.rf.e85f3e0df24505e4ca210a2f7d10d4b4.jpg,0,bifold wallet,leather,183.0,40.8,0
+20260921_142417_7f6d_primary.rf.384d10443b5abc99d4096d9ba9c4241a.jpg,0,bifold wallet,leather,162.2,33.2,0
+20260921_142455_8734_primary.rf.0b1e294788d16f7dc3433c8adfa24b45.jpg,0,bifold wallet,leather,183.3,24.5,0
+20260921_142509_a584_primary.rf.eeb0f25442c47647b8e93bfa85a6a4e8.jpg,0,bifold wallet,leather,166.9,29.0,0
+20260921_142522_f7bd_primary.rf.d6da771d33d4860e040a01df94e668ad.jpg,0,bifold wallet,leather,146.1,16.6,0
+20260921_142534_abca_primary.rf.0c59c489f6d9a3090131bc59761712cd.jpg,0,bifold wallet,leather,160.8,23.2,0
+20260921_142546_4bb1_primary.rf.7eb019053c8e431c1f2f1fa4ec073171.jpg,0,bifold wallet,leather,157.4,24.8,0
+20260921_142558_4e5b_primary.rf.1c89c80b8cfff5544b3842d71cbfda4b.jpg,0,bifold wallet,leather,180.9,26.5,0
+20260921_142821_8d41_primary.rf.8143bf129a2f7deb21b56ef9b997933e.jpg,0,bifold wallet,leather,172.6,43.0,0
+20260921_142834_8bca_primary.rf.d6cb1f2c162fba26469b89af0abadf17.jpg,0,bifold wallet,leather,186.4,33.2,0
+20260921_142847_542b_primary.rf.6d96180df045df8351ab4652c220a231.jpg,0,bifold wallet,leather,188.8,31.8,0
+20260921_142901_78f4_primary.rf.e135d75e12d2f7ce6b9398a5b3bfdcfd.jpg,0,bifold wallet,leather,185.1,35.0,0
+20260921_142913_f6af_primary.rf.21dd773f98f03cee35ad5d63422cac1f.jpg,0,bifold wallet,leather,178.5,33.1,0
+20260921_142959_6f6a_primary.rf.224c1c10985914f7bc6c06d58b9391b0.jpg,0,bifold wallet,leather,192.5,102.6,0
+20260921_143024_23b3_primary.rf.fb6b68f054c6dec33ae73adb48370b66.jpg,0,bifold wallet,leather,43.7,97.3,1
+20260921_143038_bbb4_primary.rf.912cb26037d3498679261b9762c33f8d.jpg,0,bifold wallet,leather,72.2,85.4,0
+20260921_143050_59e7_primary.rf.2a99c3c482eba67031ac3192c121e8ce.jpg,0,bifold wallet,leather,136.6,106.7,0
+20260921_143140_37bd_primary.rf.1dd8c3559fe3e9ba848628a133e03c86.jpg,0,bifold wallet,leather,91.6,39.6,0
+20260921_143216_3b72_primary.rf.f0f06ac764bf028bd517964c297ae1f4.jpg,0,bifold wallet,leather,119.2,60.8,0
+20260921_143227_c990_primary.rf.c3905584c29d6c37a5158fc42daf64b2.jpg,0,bifold wallet,leather,192.9,72.9,0
+20260921_143238_2d50_primary.rf.c8f097fc016e8c33dd37c2bcd7d00d1c.jpg,0,bifold wallet,leather,117.8,30.6,0
+20260921_143250_527a_primary.rf.d364c05dcab1c50100f5cef1ea609b3d.jpg,0,bifold wallet,leather,177.5,51.9,0
+20260921_143330_72d4_primary.rf.2a5e052c2898e8b440118593f7d56efa.jpg,0,bifold wallet,leather,178.9,37.4,0
+20260921_143545_88a6_primary.rf.582def28c3abfebdbf8d4b0c8a0521a3.jpg,0,wire spool,plastic,186.9,137.5,0
+20260921_143603_4892_primary.rf.9447c6b31b16b9eca2d3f5b6620c73e7.jpg,0,wire spool,plastic,207.6,182.5,0
+20260921_143709_0395_primary.rf.3b1f203383d816088e74497f6e24c67c.jpg,0,wire spool,plastic,177.4,165.4,0
+20260921_143801_b07f_primary.rf.b2f334d1ae3c86901c013c74a7e363ba.jpg,0,wire spool,plastic,195.7,151.3,0
+20260921_143846_0b13_primary.rf.6d9fa39ace197643584113b9bf0ddf98.jpg,0,wire spool,plastic,121.8,128.2,0
+20260921_143906_7154_primary.rf.44bdb9c9a59d79be17908b91a9bf7290.jpg,0,wire spool,plastic,167.1,137.8,0
+20260921_143944_0eca_primary.rf.8c13448f0ccade3b7223895d30bdcd28.jpg,0,wire spool,plastic,207.1,172.9,0
+20260921_144013_f0a2_primary.rf.cbbcc85d64b5cfb16ec51b3941b82459.jpg,0,wire spool,plastic,183.9,171.8,0
+20260921_144106_a579_primary.rf.00281fcd43049744ceca6a080ed6282d.jpg,0,wire spool,plastic,165.0,125.9,0
+20260921_144137_4640_primary.rf.cdbcbf8ffb1251bd639c455dbb0ede71.jpg,0,wire spool,plastic,197.5,141.9,0
+20260921_144208_6d8b_primary.rf.d56f8af3c6dbbf27aa5c9c592126fca9.jpg,0,wire spool,rubber,194.7,142.0,0
+20260921_144236_a8b1_primary.rf.301afaee797a73c4027e2070ceed88f8.jpg,0,wire spool,rubber,183.9,182.7,0
+20260921_144328_0587_primary.rf.5f1d560f564d1eef0c2784ffe827dd6f.jpg,0,wire spool,rubber,196.8,142.8,0
+20260921_144347_8192_primary.rf.4d03a5d7f9bbb6d83a5b13e01ce73d0d.jpg,0,wire spool,rubber,173.3,163.7,0
+20260921_144414_b066_primary.rf.d07585aae04bbe9b7a7911a8dd44d51c.jpg,0,wire spool,rubber,189.8,136.7,0
+20260921_144503_fbb8_primary.rf.00a0859cb1d2c9687d5207a7cfde778e.jpg,0,wire spool,rubber,176.5,143.0,0
+20260921_144525_4535_primary.rf.cecf367d7ae50ba005a807481a4b7c11.jpg,0,wire spool,rubber,194.8,157.9,0
+20260921_144559_d98d_primary.rf.e49afe397c1a49df32949bf0755b78f1.jpg,0,wire spool,rubber,185.8,141.5,0
+20260921_144657_8089_primary.rf.171d3ac0d3cfd450875d7cd3ef4f03fb.jpg,0,wire spool,rubber,197.8,169.2,0
+20260921_144730_26c3_primary.rf.80c8123a5311b67ac210ac88f0a459c5.jpg,0,wire spool,rubber,186.3,142.2,0
+20260921_144823_1cf3_primary.rf.be8e796e160e474537d980d2fae82c5c.jpg,0,wire spool,rubber,160.1,139.7,0
+20260921_144843_82bf_primary.rf.8e6ae1fe3834263c853468dce169b228.jpg,0,wire spool,rubber,191.6,173.6,0
+20260921_145001_aad4_primary.rf.ce655243eee54b6c3bf8cf100d8b330b.jpg,0,wire spool,rubber,191.4,146.5,0
+20260921_145035_3c49_primary.rf.3d5d515fd6bc8f185d58f620fd965c94.jpg,0,wire spool,rubber,178.3,161.1,0
+20260921_145109_8947_primary.rf.53d1372a9134c5892f07941c2fe6c63b.jpg,0,wire spool,rubber,195.7,185.6,0
+20260921_145156_8afd_primary.rf.28f9eb75e88be805193b3de149fbf849.jpg,0,wire spool,plastic,186.0,183.3,0
+20260921_145332_08c1_primary.rf.e48a949293172f638512b45240869b18.jpg,0,wire spool,plastic,182.3,150.5,0
+20260921_145432_f102_primary.rf.fff6ee8ba033390e765623731c546ac3.jpg,0,wire spool,plastic,204.9,172.6,0
+20260921_145457_96dc_primary.rf.8e81a9980e7f3ea80de096bd7ca3b54a.jpg,0,wire spool,rubber,190.6,178.5,0
+20260921_145527_c040_primary.rf.39e82484c229ad181ad74b25c843edbe.jpg,0,wire spool,rubber,204.7,140.7,0
+20260921_145629_7353_primary.rf.11d788c9f9d0fdb3d7cb6983c6095110.jpg,0,wire spool,plastic,175.0,137.6,0
+20260921_145646_b19f_primary.rf.b0091e58de78b527e909018268b6bb0f.jpg,0,wire spool,rubber,193.3,179.9,0
+20260921_145735_dc2f_primary.rf.6e41e42e280c531656c86a72428015a1.jpg,0,wire spool,rubber,199.7,186.9,0
+20260921_145808_c08c_primary.rf.2f37bc7158ff3c8442041f4307df6149.jpg,0,wire spool,plastic,200.5,175.0,0
+20260921_145828_b766_primary.rf.b77a3399363313cdcf5e1b8341984b44.jpg,0,wire spool,plastic,200.4,185.5,0
+20260921_145858_e599_primary.rf.84bccc10e84f31ec6427aa0b97751760.jpg,0,wire spool,plastic,208.1,205.4,0
+20260921_145920_256d_primary.rf.07c861ff74fabce1db89b0d013fd80b0.jpg,0,wire spool,plastic,161.4,135.1,0
+20260921_145959_0b29_primary.rf.f4a6b4977846bf1cfc66217ab824ea15.jpg,0,wire spool,plastic,199.3,179.1,0
+20260921_145959_0b29_primary.rf.f4a6b4977846bf1cfc66217ab824ea15.jpg,1,wire spool,rubber,179.7,137.0,0
+20260921_150016_13f5_primary.rf.06b7b15efa4fe7d4182f50d934c59864.jpg,0,wire spool,plastic,188.1,152.0,0
+20260921_150048_1aad_primary.rf.44eda7b7cb8c22a10cc4a88cb4196b37.jpg,0,wire spool,rubber,203.6,177.2,0
+20260921_150104_e9a4_primary.rf.95480b145eb795512fbff9dcc60f7abf.jpg,0,wire spool,rubber,197.6,153.9,0
+20260921_151759_bc4c_primary.rf.995c1cb3c22e34fb50df6aa9065c12f8.jpg,0,microfiber cleaning cloth,fabric,152.3,1.4,0
+20260921_151812_38b2_primary.rf.add0a73d3bc8cce08fc908102b830ed9.jpg,0,microfiber cleaning cloth,fabric,103.8,2.0,0
+20260921_151822_67ab_primary.rf.8b4929a5f542a83cac10f5b7ad0b1207.jpg,0,microfiber cleaning cloth,fabric,102.5,2.0,0
+20260921_151834_5026_primary.rf.c95de6bb31e5819a236b2c625f36f088.jpg,0,microfiber cleaning cloth,fabric,142.6,4.3,0
+20260921_152404_3154_primary.rf.352a1c892d8c5777fc5dd832bf7adeba.jpg,0,microfiber cleaning cloth,fabric,178.7,3.2,0
+20260921_152429_322b_primary.rf.da4e2159535395a79580d524b477125c.jpg,0,microfiber cleaning cloth,fabric,70.2,3.2,0
+20260921_152457_ac53_primary.rf.17b43fdb319061926102eacfd93f2fbf.jpg,0,microfiber cleaning cloth,fabric,120.4,3.1,0
+20260921_152514_bec9_primary.rf.a3c3dd45d16e5953aed547844a92219c.jpg,0,microfiber cleaning cloth,fabric,176.0,2.4,0
+20260921_152548_6d60_primary.rf.eae020e8b0bce4c43b8a95cf251c0583.jpg,0,microfiber cleaning cloth,fabric,167.6,3.9,0
+20260921_152602_f9a5_primary.rf.fbaca0a75419587b3abff96e6d085675.jpg,0,microfiber cleaning cloth,fabric,151.4,3.8,0
+20260921_152623_4f1d_primary.rf.37b2fb27de2ca956897ba3b1aa8a1f4f.jpg,0,microfiber cleaning cloth,fabric,95.5,3.6,0
+20260921_152640_f76a_primary.rf.02692d3dab7a76b734bb296887791bef.jpg,0,microfiber cleaning cloth,fabric,117.8,2.2,0
+20260921_152653_2b9d_primary.rf.f15247af38fdac58573335a4f2df6b7a.jpg,0,microfiber cleaning cloth,fabric,169.3,10.5,0
+20260921_152707_e77b_primary.rf.54fdd922b5d7b61afd7db4cafb7661bc.jpg,0,microfiber cleaning cloth,fabric,157.9,48.2,0
+20260921_152726_3d9e_primary.rf.ec610c8d79a4f202f13f630b60df85ea.jpg,0,microfiber cleaning cloth,fabric,86.7,4.0,0
+20260921_152742_44ff_primary.rf.b4ae71c667c0874cf5676644af04638e.jpg,0,microfiber cleaning cloth,fabric,122.0,3.8,0
+20260921_152937_731a_primary.rf.441ea13938a6c79aa3e2132380a29c94.jpg,0,microfiber cleaning cloth,fabric,127.0,16.3,0
+20260921_152950_97ea_primary.rf.27e870329aebfc514728116db19121ae.jpg,0,microfiber cleaning cloth,fabric,181.8,38.7,0
+20260921_153008_f8d8_primary.rf.1d6b66aa62134a3b61c4c567296684ed.jpg,0,microfiber cleaning cloth,fabric,179.5,40.2,0
+20260921_153019_9685_primary.rf.0cb45391cb8b730dffbb392fe3214c65.jpg,0,microfiber cleaning cloth,fabric,63.9,3.7,0
+20260921_153030_1649_primary.rf.d6aa709e0695705c4105984d75e720f6.jpg,0,microfiber cleaning cloth,fabric,157.1,9.4,0
+20260921_153043_336e_primary.rf.7b2634f35f94eb65d3e850f4e9e2453d.jpg,0,microfiber cleaning cloth,fabric,118.5,28.5,0
+20260921_153158_3e5b_primary.rf.2115f35f2ac91f73502a59be1cd6d9d5.jpg,0,microfiber cleaning cloth,fabric,166.1,3.7,0
+20260921_153228_5acf_primary.rf.658b07a54222a6af13afd49ca47203d8.jpg,0,microfiber cleaning cloth,fabric,98.4,4.8,0
+20260921_153312_c88f_primary.rf.9dd0121b5d29bceb256e3150e5712307.jpg,0,microfiber cleaning cloth,fabric,97.8,2.2,0
+20260921_153500_8c8c_primary.rf.c54af7c90b9fc11b4eccffa0b570acec.jpg,0,microfiber cleaning cloth,fabric,144.1,5.7,0
+20260921_153517_eb06_primary.rf.ca0e25a0607ed571b2826a487070ccbb.jpg,0,microfiber cleaning cloth,fabric,100.4,2.9,0
+20260921_153604_f871_primary.rf.8951046651d89ed525cd30a672edf9ba.jpg,0,microfiber cleaning cloth,fabric,112.9,2.7,0
+20260921_153619_bf54_primary.rf.d9b0c5923add5cb3d448cd1c99cdb89c.jpg,0,microfiber cleaning cloth,fabric,88.9,11.5,0
+20260921_153638_7a29_primary.rf.75149ffc8499d0ac60b08d5960bab1ee.jpg,0,microfiber cleaning cloth,fabric,152.5,10.5,0
+20260921_153700_da6b_primary.rf.123ce569b0daf879f8255ff5448c839b.jpg,0,microfiber cleaning cloth,fabric,99.1,4.4,0
+20260921_153715_7be3_primary.rf.ad85a32a191af8c34943f9bb016dcbdc.jpg,0,microfiber cleaning cloth,fabric,116.3,28.0,0
+20260921_153734_aa25_primary.rf.6ec03c37de1edce71a79fb9ac5b17155.jpg,0,microfiber cleaning cloth,fabric,128.7,6.2,0
+20260921_154030_2eaa_primary.rf.9ea180051216707caf308662b4ef5af3.jpg,0,microfiber cleaning cloth,fabric,171.3,2.1,0
+20260921_154044_3a76_primary.rf.e14e549bd7db1bedc319cbe7da35a1c2.jpg,0,microfiber cleaning cloth,fabric,153.3,3.3,0
+20260921_154058_625d_primary.rf.959277464ac421f5f1664f62f87f264d.jpg,0,microfiber cleaning cloth,fabric,155.3,2.9,0
+20260921_154112_5077_primary.rf.66d000fc5376ba2b7631aee9821250e5.jpg,0,microfiber cleaning cloth,fabric,170.6,2.6,0
+20260921_154129_e482_primary.rf.4dd0fc3607fe378b046ecb93dfb05718.jpg,0,microfiber cleaning cloth,fabric,143.1,3.2,0
+20260921_154147_8799_primary.rf.63995c80f9c8148cfc9e08e1dda0c938.jpg,0,microfiber cleaning cloth,fabric,130.6,6.5,0
+20260921_154203_4b97_primary.rf.83cc6da51d6c03e1e62da8fe51a959f6.jpg,0,microfiber cleaning cloth,fabric,143.9,2.8,0
+20260921_154426_4ed3_primary.rf.9bc672d6a0574397a34bd78ddd39d52e.jpg,0,extruded aluminum profile,metal,98.9,11.5,0
+20260921_154525_b03d_primary.rf.0ac57453202abe012eaf6aa48566cdab.jpg,0,extruded aluminum profile,metal,91.4,8.6,0
+20260921_154543_4f79_primary.rf.863ccf971b5d3d2f0a80830048c47375.jpg,0,extruded aluminum profile,metal,87.6,45.5,0
+20260921_154600_95a7_primary.rf.5c25ffc70ac0d0e2951fb23f0daa4598.jpg,0,extruded aluminum profile,metal,118.0,50.0,0
+20260921_154615_a2a9_primary.rf.7ffa166a0292278c1725b4a930115ad4.jpg,0,extruded aluminum profile,metal,99.7,48.6,0
+20260921_154630_243e_primary.rf.a2d988ab1ea6c8960e7eefe1eea3d68e.jpg,0,extruded aluminum profile,metal,82.6,9.1,0
+20260921_154704_ba3b_primary.rf.bc9483ab4cbedb0c986ca08cf9492cd0.jpg,0,extruded aluminum profile,metal,88.1,19.5,0
+20260921_154741_bb7c_primary.rf.7c5568006c6dbebb8e99a32b1650efa4.jpg,0,extruded aluminum profile,metal,87.7,99.5,0
+20260921_154814_531b_primary.rf.7e016222bafb74e56f744b5f31c9d643.jpg,0,extruded aluminum profile,metal,50.5,65.5,0
+20260921_154835_cf56_primary.rf.0bf7f822f006ba2e5674790d0fe2dc8d.jpg,0,extruded aluminum profile,metal,57.6,20.7,0
+20260921_155010_1c05_primary.rf.64740ae1f3fa16346e14b7e38385f272.jpg,0,extruded aluminum profile,metal,59.1,18.4,0
+20260921_155027_5b22_primary.rf.0c5d1912b556304f7d8ca0b4606f5c1d.jpg,0,extruded aluminum profile,metal,132.6,75.6,0
+20260921_155041_0081_primary.rf.d56e4fdc4e323e3ee5b65b3cdadc348a.jpg,0,extruded aluminum profile,metal,98.4,92.2,0
+20260921_155053_5fbf_primary.rf.49a6a0cfac69d2d131c3a7429426d1b7.jpg,0,extruded aluminum profile,metal,94.8,38.3,0
+20260921_155103_9439_primary.rf.df6c553de6b0c5522b7d8f1238a3d418.jpg,0,extruded aluminum profile,metal,93.3,34.3,0
+20260921_155130_39d7_primary.rf.0612e25245ddad68f89fe67f3c06e6b9.jpg,0,extruded aluminum profile,metal,94.8,51.6,0
+20260921_155149_5fd5_primary.rf.d8020c8aceaaf096192900c5b12a5396.jpg,0,extruded aluminum profile,metal,79.8,36.1,0
+20260921_155203_9f49_primary.rf.472517a6ccdb6ec54d22b6f1256b5fc7.jpg,0,extruded aluminum profile,metal,73.2,82.4,0
+20260921_155220_c041_primary.rf.8d993a8c76474af3457d1f55b015a006.jpg,0,extruded aluminum profile,metal,87.8,86.6,0
+20260921_155236_5f05_primary.rf.c4cee39edc92d55be2c7ec7220c5bd9a.jpg,0,extruded aluminum profile,metal,71.2,21.9,0
+20260921_155250_3122_primary.rf.14a56a34fca1d38a69863b399da5b16a.jpg,0,extruded aluminum profile,metal,57.0,18.2,0
+20260921_155315_8402_primary.rf.df874a1267775528ba0311171150b0cc.jpg,0,extruded aluminum profile,metal,63.2,67.7,0
+20260921_155336_6220_primary.rf.ef2de936740aa568cb561cc4a4dfe497.jpg,0,extruded aluminum profile,metal,67.5,44.3,0
+20260921_155355_204d_primary.rf.b2c09a7b9da8773a45906b896d31d955.jpg,0,extruded aluminum profile,metal,47.6,21.3,0
+20260921_155732_b82b_primary.rf.e68ac5eea83bd07dcade369273ae201e.jpg,0,extruded aluminum profile,metal,104.9,40.0,0
+20260921_155811_df16_primary.rf.96cfb4d4a3d1d0246dd51a3ae1dec0b8.jpg,0,extruded aluminum profile,metal,56.8,5.4,0
+20260921_155825_dbc1_primary.rf.94646c99f3046c4ea02141d0d38027f4.jpg,0,extruded aluminum profile,metal,111.2,23.3,0
+20260921_155849_e170_primary.rf.63aeda08abc91dd0399030b5ae0a72c3.jpg,0,extruded aluminum profile,metal,114.0,9.5,0
+20260921_155925_1109_primary.rf.89068ccfa6ba8dbf0ba00e33a8aaa6f0.jpg,0,extruded aluminum profile,metal,115.9,72.3,0
+20260921_155941_e632_primary.rf.ab7c4d1ace47aac67c8af8967ce78402.jpg,0,extruded aluminum profile,metal,105.5,29.4,0
+20260921_160125_6d37_primary.rf.8cc78b5ba5a8f2fab53c488d581dd722.jpg,0,extruded aluminum profile,metal,119.2,38.7,0
+20260921_160153_4240_primary.rf.5645c49380d89a33c0c6e641825d1371.jpg,0,extruded aluminum profile,metal,45.4,23.9,0
+20260921_160210_ecbb_primary.rf.3731e2c98f2eb6e40d8aa7730d41ce5d.jpg,0,extruded aluminum profile,metal,63.1,27.5,0
+20260921_160254_4641_primary.rf.739ece8e95cea3f2924e1c9c24f7b6d2.jpg,0,extruded aluminum profile,metal,79.5,42.3,0
+20260921_160319_1724_primary.rf.e7d276531aac2e66f7361ed96267d67e.jpg,0,extruded aluminum profile,metal,66.3,8.6,0
+20260921_160342_6ca0_primary.rf.c25d99ba18fd9184dd7528e880f6d5c8.jpg,0,extruded aluminum profile,metal,96.2,47.7,0
+20260921_160402_2385_primary.rf.3a3afd5c79a16ce2c2ee57123442d2dc.jpg,0,extruded aluminum profile,metal,81.9,37.8,0
+20260921_160437_82c0_primary.rf.63ed06abd0d697dc05b663e5df0836d4.jpg,0,extruded aluminum profile,metal,106.9,15.2,0
+20260921_160454_c5ea_primary.rf.e016d34ebbdd7b36baa7ee295cc41172.jpg,0,extruded aluminum profile,metal,92.2,41.3,0
+20260921_160508_0256_primary.rf.c863d8373ccf0e0a06be0989c321bbe5.jpg,0,extruded aluminum profile,metal,116.4,31.2,0
+20260921_160523_bf32_primary.rf.b7caf9c327ec7db86703ed43ece3c248.jpg,0,extruded aluminum profile,metal,109.6,69.4,0
+20260925_140653_a423_primary.rf.41dd4a941b7b77cacd679008ad048949.jpg,0,desktop tape dispenser,plastic,126.4,97.8,0
+20260925_140708_367d_primary.rf.33ae43bbf079eece6bf84d4f2fce7bca.jpg,0,desktop tape dispenser,plastic,110.3,67.8,0
+20260925_140721_a2a0_primary.rf.c5bca06e33594209ad22db3ca5a5f6f5.jpg,0,desktop tape dispenser,plastic,122.8,50.1,0
+20260925_140737_b998_primary.rf.8b2cc62726e6a04bcb6d679402cf53c6.jpg,0,desktop tape dispenser,plastic,103.0,63.1,0
+20260925_140805_f44c_primary.rf.4004307c641007ef2485f9d1e7d9a09c.jpg,0,desktop tape dispenser,plastic,111.2,103.3,0
+20260925_140849_895a_primary.rf.7fdbf18fcca51a0c35ef84e487e74256.jpg,0,desktop tape dispenser,plastic,120.7,116.7,0
+20260925_140928_b145_primary.rf.26d7c52dd8e26fe68bbba6839119dbf9.jpg,0,desktop tape dispenser,plastic,141.9,140.8,0
+20260925_141004_7b59_primary.rf.e7a266a59a9a4863f29f2cf1edf38b94.jpg,0,desktop tape dispenser,plastic,83.3,71.2,0
+20260925_141041_579e_primary.rf.5578a74423a8bc4673ea6f068faedbf7.jpg,0,desktop tape dispenser,plastic,128.8,55.0,0
+20260925_141206_a2c2_primary.rf.d80616509cd0986877072eaa633ef556.jpg,0,desktop tape dispenser,plastic,143.3,11.6,0
+20260925_141231_e77b_primary.rf.0cb3f4f57733597939c9c4177d0751ca.jpg,0,desktop tape dispenser,plastic,145.5,29.6,0
+20260925_141256_a901_primary.rf.51b2ddde4ebe788859b918007a9b9843.jpg,0,desktop tape dispenser,plastic,69.8,8.2,0
+20260925_141331_b1eb_primary.rf.66b78ad3c521fefc76e31a52dad2831f.jpg,0,desktop tape dispenser,plastic,64.6,15.4,0
+20260925_141420_b4fa_primary.rf.561b00e299d9374e4a9afd670748a603.jpg,0,desktop tape dispenser,plastic,72.7,26.7,0
+20260925_141456_eeb9_primary.rf.0f5ae7d11260d59bcc05234d211c9434.jpg,0,desktop tape dispenser,plastic,57.2,4.8,0
+20260925_141526_9e06_primary.rf.d5eb483544e8319d27cf04bf4a7cf92f.jpg,0,desktop tape dispenser,plastic,98.4,8.3,0
+20260925_141556_dbd0_primary.rf.2d81e32f78df6b708116b4229b2faa91.jpg,0,desktop tape dispenser,plastic,107.6,3.3,0
+20260925_141630_b97a_primary.rf.4a0993fb51bc22b6cb538cf4c5b6de44.jpg,0,desktop tape dispenser,plastic,53.1,1.6,0
+20260925_141724_88fb_primary.rf.533064694ba7ccbda948a5e53ee38041.jpg,0,desktop tape dispenser,plastic,152.9,10.6,0
+20260925_141803_a620_primary.rf.56c327f92e4eaf975d8fc52c6d9e2e6e.jpg,0,desktop tape dispenser,plastic,52.7,2.4,0
+20260925_141835_0e3d_primary.rf.62c5c2acee2e076d8438b2b553c170d0.jpg,0,desktop tape dispenser,plastic,37.5,71.0,1
+20260925_141855_932d_primary.rf.3b8a2e4484f4cd80a912191d161d07e2.jpg,0,desktop tape dispenser,plastic,82.7,13.8,0
+20260925_141938_3b4b_primary.rf.12f93a8ba5b03ed4b958e5e29a78719c.jpg,0,desktop tape dispenser,plastic,81.5,78.8,0
+20260925_142005_2667_primary.rf.baeec74b503c232b09d8837892219140.jpg,0,desktop tape dispenser,plastic,68.1,2.1,0
+20260925_142021_fe10_primary.rf.72e00b1b21bcea5bba4e1a7f32d9b7b8.jpg,0,desktop tape dispenser,plastic,100.3,31.0,0
+20260925_142046_4666_primary.rf.87ccce441406c24be86a4a20d8a8edf5.jpg,0,desktop tape dispenser,plastic,80.1,2.1,0
+20260925_142116_e62e_primary.rf.8f4f2242dd3791903593c11f555b50e7.jpg,0,desktop tape dispenser,plastic,86.6,24.9,0
+20260925_142134_fba5_primary.rf.a81c54d2c76cf271af4dbfae7cb6b11c.jpg,0,desktop tape dispenser,plastic,60.6,8.0,0
+20260925_142207_2ddd_primary.rf.0bc255aceef5368f4981159b19af1a3c.jpg,0,desktop tape dispenser,plastic,40.1,8.0,0
+20260925_142320_b80d_primary.rf.a8e0bfdef9f134b8cba6544b867ed3d8.jpg,0,desktop tape dispenser,plastic,124.0,13.7,0
+20260925_142407_c4f5_primary.rf.e1e78b784962694b8abf3c3de9819deb.jpg,0,desktop tape dispenser,plastic,29.6,10.0,0
+20260925_142457_e11e_primary.rf.ed657ed92a616516658b7427d7a0ad25.jpg,0,desktop tape dispenser,plastic,59.3,3.6,0
+20260925_142520_2043_primary.rf.61b7836661694232efefc9dafaf17d2d.jpg,0,desktop tape dispenser,plastic,26.8,101.4,1
+20260925_142617_9307_primary.rf.0bb66e66c29649cd7c0091e6f023d98a.jpg,0,desktop tape dispenser,plastic,95.7,10.6,0
+20260925_142719_19b6_primary.rf.5bdf7691a1a366fd981d42fb3356625a.jpg,0,desktop tape dispenser,plastic,59.7,3.2,0
+20260925_142807_dd6f_primary.rf.46dfb2c027fb1655e9b2ed303c6f5c31.jpg,0,desktop tape dispenser,plastic,43.7,5.1,0
+20260925_142849_724f_primary.rf.db409e98699fccf6a9e44c9aee534eec.jpg,0,desktop tape dispenser,plastic,68.9,7.2,0
+20260925_142921_c9e6_primary.rf.678e5582a958a0ef62f1ea0df7606dc0.jpg,0,desktop tape dispenser,plastic,147.5,5.1,0
+20260925_142956_5844_primary.rf.3211a03e67ad56f33b12b5408f1142d2.jpg,0,desktop tape dispenser,plastic,58.6,53.7,0
+20260925_143012_9652_primary.rf.25781226b4ba90a2c7c2b4ca0aa4cf8f.jpg,0,desktop tape dispenser,plastic,131.6,21.2,0
+20260925_143117_1037_primary.rf.a364fec747d1a8ea6879e002ef3a0355.jpg,0,desktop tape dispenser,plastic,68.6,12.7,0
+20260925_143514_fa06_primary.rf.0697b34ee34f99a6973e494f85b2bea5.jpg,0,toy football,foam,119.6,1.8,0
+20260925_143532_5c2e_primary.rf.3b7159fae32532fbe5f92172d32d2425.jpg,0,toy football,foam,106.4,2.6,0
+20260925_143545_6d9c_primary.rf.fd74e7dc5405e456f27ef34937962efc.jpg,0,toy football,foam,114.8,2.5,0
+20260925_143558_207f_primary.rf.89381e43de6f4cde60250f75a426da00.jpg,0,toy football,foam,113.1,1.4,0
+20260925_143629_7013_primary.rf.1a19375c0c5ca59d2841e9db09c3955e.jpg,0,toy football,foam,110.0,2.4,0
+20260925_143655_995a_primary.rf.a8faa3d6fc097539cd6412611ed04938.jpg,0,toy football,foam,70.7,3.8,0
+20260925_143724_6500_primary.rf.2a957cba609bb77917c006da9a812040.jpg,0,toy football,foam,89.4,53.2,0
+20260925_143751_6df8_primary.rf.a6bc125c7b91bcbd1546120ba7d1a98d.jpg,0,toy football,foam,119.1,1.3,0
+20260925_143811_0123_primary.rf.6fb8745740ac1b78fb9cb0301e7ce084.jpg,0,toy football,foam,121.9,3.8,0
+20260925_143850_40e2_primary.rf.eac30cc16939141130c37ca6a1e3cf1f.jpg,0,toy football,foam,83.9,3.1,0
+20260925_143903_59d3_primary.rf.248e95e641cbe632ba0594c4ee1d4df8.jpg,0,toy football,foam,49.0,3.7,0
+20260925_144024_ca68_primary.rf.2912ae82a320d2f127a3c64f785d5c2d.jpg,0,toy football,foam,99.7,36.0,0
+20260925_144042_d776_primary.rf.574edd9378f9cea58b6c02f3fca3c58e.jpg,0,toy football,foam,124.6,5.8,0
+20260925_144105_32b3_primary.rf.b34b9f45ecf630a53391fd7b23dc73eb.jpg,0,toy football,foam,88.5,6.1,0
+20260925_144128_a268_primary.rf.ccacbb5e45d9a806da2498cf5893a9bb.jpg,0,toy football,foam,92.5,3.7,0
+20260925_144213_5536_primary.rf.d8ba7063e5ab4d8726deee97cee07e1b.jpg,0,toy football,foam,115.6,7.7,0
+20260925_144234_bf01_primary.rf.d3d44b46204e12cae6d4b125d894bac1.jpg,0,toy football,foam,83.5,6.0,0
+20260925_144330_fd35_primary.rf.38746cec12d28d077644d69ee3ca4efe.jpg,0,toy football,foam,106.4,5.8,0
+20260925_144409_d7d3_primary.rf.ffda11987c205c794ed489d7f20020c6.jpg,0,toy football,foam,87.7,11.5,0
+20260925_144447_211d_primary.rf.baa37bc499944d14b69b71868460e09c.jpg,0,toy football,foam,91.6,4.5,0
+20260925_144513_4756_primary.rf.917a62ac217753da9de8b58ba6dd603c.jpg,0,toy football,foam,65.1,2.8,0
+20260925_144540_b8a2_primary.rf.2f75c96a35f31c8c2f5eb658da3a01ec.jpg,0,toy football,foam,61.6,9.3,0
+20260925_144623_fc48_primary.rf.e75ec9a643145fbbbad5c5f905e0b8c9.jpg,0,toy football,foam,36.8,5.6,0
+20260925_144710_f2ca_primary.rf.c8609889a6a5dfe76b1f4d676f8117f0.jpg,0,toy football,foam,69.1,8.7,0
+20260925_144733_ef81_primary.rf.bc91214e88b5d26406486e9c80ca2da1.jpg,0,toy football,foam,52.5,1.8,0
+20260925_144749_5d38_primary.rf.38f745ad2a2fbaefd9f3ad6e875dbdc7.jpg,0,toy football,foam,87.3,4.3,0
+20260925_145122_5846_primary.rf.6457fa11aeadf4293db395c873ac4e02.jpg,0,toy football,foam,120.2,4.5,0
+20260925_145136_3e97_primary.rf.50fe6a31eb132a2d9ce3fa3ebc7b4e5e.jpg,0,toy football,foam,112.9,5.8,0
+20260925_145157_899a_primary.rf.9464f3f64b8088e1bc616fbf0ff167d0.jpg,0,toy football,foam,37.6,5.0,0
+20260925_145218_d224_primary.rf.ed8d1b8dc51a7a7a9c0556ba763af883.jpg,0,toy football,foam,32.5,40.9,0
+20260925_145237_ef51_primary.rf.1945cf02b798ab2345889207a768bd5a.jpg,0,toy football,foam,61.4,4.8,0
+20260925_145254_d2b8_primary.rf.a2d18a6edabeb57b241ff18b78c3091e.jpg,0,toy football,foam,105.1,4.9,0
+20260925_145317_924b_primary.rf.245039109e75da9277cee2707399da6e.jpg,0,toy football,foam,75.6,40.3,0
+20260925_145336_b09f_primary.rf.0ea7e49f463822c6bc2f5b1a75d7d5db.jpg,0,toy football,foam,121.8,4.6,0
+20260925_145411_daf7_primary.rf.82d167f334021621ac955124b428e13d.jpg,0,toy football,foam,68.1,123.6,1
+20260925_145434_52f1_primary.rf.87bb5def188a546d5855cebb5d929883.jpg,0,toy football,foam,39.3,16.4,0
+20260925_145454_3626_primary.rf.25e0dcbd7c1452593dd6419c8c0df86b.jpg,0,toy football,foam,26.0,1.9,0
+20260925_145515_7007_primary.rf.c8dfdc68abe98bb96e0179f9059bfcf0.jpg,0,toy football,foam,65.6,7.9,0
+20260925_145532_730a_primary.rf.1e2acd14a017788b60297bd3b6a9aebb.jpg,0,toy football,foam,71.9,6.6,0
+20260925_145619_5d24_primary.rf.2c5e687e66a1e176eca2af16b6b7c679.jpg,0,toy football,foam,47.9,2.9,0
+20260925_150200_705a_primary.rf.4b43bfb171274fa499863bec8298504c.jpg,0,breadboard,plastic,59.1,28.8,0
+20260925_150227_a957_primary.rf.306169a448c3fe9def7746be401dadb2.jpg,0,breadboard,plastic,61.9,35.3,0
+20260925_150301_a7a1_primary.rf.a49446a06c7c2ddecac077b4c4bb43c4.jpg,0,breadboard,plastic,54.5,25.0,0
+20260925_150310_bdf0_primary.rf.e14f09cd188e16dc659e0a644b17003f.jpg,0,breadboard,plastic,55.9,41.0,0
+20260925_150320_a194_primary.rf.758c331ee1737af18981345fda8180c4.jpg,0,breadboard,plastic,59.1,26.6,0
+20260925_150332_3417_primary.rf.921a9b5f11643ee122574a0f870b0902.jpg,0,breadboard,plastic,63.1,52.9,0
+20260925_150421_3225_primary.rf.7a7b5a3737b62b1066023dbd3ffc8b5f.jpg,0,breadboard,plastic,65.5,39.6,0
+20260925_150435_b66d_primary.rf.d6c467b7a4a3b3aa41612da8be08fb90.jpg,0,breadboard,plastic,65.5,23.3,0
+20260925_150503_7e7c_primary.rf.bb0fbcb580ff0181519f0fb2535de1b0.jpg,0,breadboard,plastic,67.5,26.5,0
+20260925_150527_182f_primary.rf.3a77fd3f7a8feddfa3e68beaa7127664.jpg,0,breadboard,plastic,57.6,24.4,0
+20260925_150541_06b7_primary.rf.2d7573f26fd11de753f83d23eab1dd02.jpg,0,breadboard,plastic,53.3,24.5,0
+20260925_150604_e43b_primary.rf.7f54ddeae2ff97f9fa525beaaa3ec2e8.jpg,0,breadboard,plastic,69.3,25.8,0
+20260925_150634_e3bb_primary.rf.7491893503bf1405843fed102866de11.jpg,0,breadboard,plastic,73.9,37.9,0
+20260925_150705_4d22_primary.rf.5b788a3ef62e9c3c3848e85fecfc453a.jpg,0,breadboard,plastic,99.8,27.1,0
+20260925_150749_afa1_primary.rf.b788a2a65091290ff78b49f695355f2e.jpg,0,breadboard,plastic,86.6,34.1,0
+20260925_150839_dbec_primary.rf.b95b4f1490dda490635437594357c3af.jpg,0,breadboard,plastic,90.3,30.0,0
+20260925_150929_58ec_primary.rf.137adc65393d427fc7e2d58949cc5319.jpg,0,breadboard,plastic,77.6,53.3,0
+20260925_151019_bb94_primary.rf.107623ab34db4a4ace8b51fd6b8b680a.jpg,0,breadboard,plastic,74.6,25.5,0
+20260925_151130_8376_primary.rf.d4683e8ce928afed97bd9e2e377f9366.jpg,0,breadboard,plastic,50.1,27.1,0
+20260925_151229_bf65_primary.rf.1a8ba117c3902a7845a4e8507d2b1400.jpg,0,breadboard,plastic,66.0,21.0,0
+20260925_151253_277b_primary.rf.89295649c6979a90a0a7f665e6eef5f0.jpg,0,breadboard,plastic,93.2,36.6,0
+20260925_151350_0f12_primary.rf.fd95cdca4aa72240034ed2ad6f749c3a.jpg,0,breadboard,plastic,66.9,38.5,0
+20260925_151624_b4a7_primary.rf.4aa013291ad6b669eb71c695a1fda0c3.jpg,0,breadboard,plastic,94.7,33.7,0
+20260925_151657_0f97_primary.rf.ba71fbdc39b95fce5b63fc9eb3e3876a.jpg,0,breadboard,plastic,87.3,21.6,0
+20260925_151844_e261_primary.rf.9605e469787ff03a994b0478f1ede2c5.jpg,0,breadboard,plastic,94.6,43.1,0
+20260925_151921_0110_primary.rf.44fcca16ddcb7057a5c450d430c8991c.jpg,0,breadboard,plastic,79.8,24.9,0
+20260925_151949_4d86_primary.rf.950b4734b32b2d402639b41d2fd21795.jpg,0,breadboard,plastic,73.4,81.4,0
+20260925_152034_5f1a_primary.rf.9aec6100c8d3b81f372219910d6627b8.jpg,0,breadboard,plastic,76.3,64.6,0
+20260925_152103_bad1_primary.rf.467c0f9f4f5a4d60b9f5ee8a8f1742cd.jpg,0,breadboard,plastic,82.2,32.1,0
+20260925_152125_d35b_primary.rf.35bd4d185a50a23768bc300a3280b1a2.jpg,0,breadboard,plastic,82.2,35.6,0
+20260925_152202_6bd0_primary.rf.113da05749a458a90295395637a80bbe.jpg,0,breadboard,plastic,75.9,41.2,0
+20260925_152216_cc25_primary.rf.94b2b4f45e51f956e7bac1637711df3a.jpg,0,breadboard,plastic,70.4,66.2,0
+20260925_152228_80ff_primary.rf.212457d24289f5acdb194c8f5cb23f15.jpg,0,breadboard,plastic,73.1,30.0,0
+20260925_152246_86fa_primary.rf.2d1b2cde1df4af7d169a2f690202a1c9.jpg,0,breadboard,plastic,79.4,27.3,0
+20260925_152258_08d2_primary.rf.05737e889830eb731458bbde7ba7cae9.jpg,0,breadboard,plastic,74.1,37.0,0
+20260925_152331_0ba4_primary.rf.af008782fe6fd36bb9d83935e18de0b2.jpg,0,breadboard,plastic,81.4,67.5,0
+20260925_152412_506d_primary.rf.7b3201c0e54da66a2a9ab735944737a3.jpg,0,breadboard,plastic,78.7,31.6,0
+20260925_152451_a394_primary.rf.8f365f4275b04c903f839c32234b1520.jpg,0,breadboard,plastic,79.1,35.1,0
+20260925_152550_06a7_primary.rf.8339edcbff64d92d62ea74e55832e57a.jpg,0,breadboard,plastic,79.6,27.9,0
+20260925_152612_40bd_primary.rf.2e06308c902a4c0dc3c99fc995a6b940.jpg,0,breadboard,plastic,75.3,61.8,0
+20260925_152629_42c0_primary.rf.26001899bc0ebff11b7869956442a4d8.jpg,0,breadboard,plastic,75.7,25.5,0
+20260925_153618_8a5d_primary.rf.b3fb13fe5aed29e2289fcda92a6ab479.jpg,0,claw hammer,metal,132.2,15.3,0
+20260925_153645_ca53_primary.rf.c9435cede4fb46622fb9e9135cb92eaa.jpg,0,claw hammer,metal,159.7,21.4,0
+20260925_153658_5d47_primary.rf.383e893e44762520cc0ea65deac5738e.jpg,0,claw hammer,metal,173.2,18.9,0
+20260925_153716_9c94_primary.rf.ce4e0d5c88b6ed6093ed9ed580b4e5d7.jpg,0,claw hammer,metal,145.9,20.3,0
+20260925_153802_2a6f_primary.rf.8244c62b41001e723956cac1ad4c38e5.jpg,0,claw hammer,metal,144.8,19.8,0
+20260925_153835_bda2_primary.rf.7a0bbda4b2e07b6bc80b3dcee1238dda.jpg,0,claw hammer,metal,150.5,20.4,0
+20260925_153849_3a95_primary.rf.b91faf065c6fe6e1413efd1596dbe943.jpg,0,claw hammer,metal,110.2,26.9,0
+20260925_153902_3ee1_primary.rf.69f11f3f6ca1840142966f0511a8ad71.jpg,0,claw hammer,metal,128.7,20.0,0
+20260925_153918_4dd1_primary.rf.0c02c74e3ce8d5f729c6ef78087ab2c9.jpg,0,claw hammer,metal,169.0,22.9,0
+20260925_153931_b926_primary.rf.cb374daaf7a4f5fa8bb56a1ecde82a73.jpg,0,claw hammer,metal,128.8,60.3,0
+20260925_154000_ff9e_primary.rf.bf7895954ba1f92da4ee418d26ab65e4.jpg,0,claw hammer,metal,174.4,22.3,0
+20260925_154020_5c5c_primary.rf.de35f0ee2124114c256b8a1d859f58a1.jpg,0,claw hammer,metal,31.4,7.3,0
+20260925_154033_1f47_primary.rf.51a0a243b68ecee0a955ab17a2b2bf14.jpg,0,claw hammer,metal,54.3,36.8,0
+20260925_154048_f846_primary.rf.749ff8b94b86c8818c717b769109b72e.jpg,0,claw hammer,metal,100.1,16.8,0
+20260925_154108_28aa_primary.rf.cb98a1f533c262d6a8c4934cbe888a18.jpg,0,claw hammer,metal,68.6,17.8,0
+20260925_154128_5608_primary.rf.cd938389647cec19719f111ab34cb3ec.jpg,0,claw hammer,metal,53.5,13.1,0
+20260925_154148_b117_primary.rf.8115b888e4b042cd04995924dc28d87a.jpg,0,claw hammer,metal,79.3,19.8,0
+20260925_154203_a061_primary.rf.5a0c7d6e739b070c89f93d78d99d681f.jpg,0,claw hammer,metal,74.1,65.9,0
+20260925_154219_34f2_primary.rf.abbe0f20adf4b2d566cbfd26427d1429.jpg,0,claw hammer,metal,69.3,3.2,0
+20260925_154247_2e89_primary.rf.257388aa3ecc1a6f5b83d0c439e66655.jpg,0,claw hammer,metal,26.0,16.4,0
+20260925_154300_6c04_primary.rf.c81d78e7e7a14249f0df538d29a94a7c.jpg,0,claw hammer,metal,43.7,5.0,0
+20260925_154312_8b39_primary.rf.faf9377f3f47d1facbfd674b2004c2f3.jpg,0,claw hammer,metal,89.8,21.1,0
+20260925_154323_4519_primary.rf.c2e7dbc53fa16add8a4b7fbdfe6d8c14.jpg,0,claw hammer,metal,86.9,19.3,0
+20260925_154341_5b6d_primary.rf.4154505b9ec31e29077591583167553b.jpg,0,claw hammer,metal,101.7,8.0,0
+20260925_154356_c605_primary.rf.2a41ac0173be722cfe181e66f3105849.jpg,0,claw hammer,metal,95.3,57.5,0
+20260925_154422_823d_primary.rf.fa0c22e2233708cc8d97217e8acf2d3b.jpg,0,claw hammer,metal,80.2,20.0,0
+20260925_154441_a94f_primary.rf.85f1e29e0ec57c161c407064ec2146e6.jpg,0,claw hammer,metal,36.2,16.5,0
+20260925_154441_e5db_primary.rf.e40df10ab87729b1642dd12b50212074.jpg,0,claw hammer,metal,35.7,15.5,0
+20260925_154505_76f1_primary.rf.31fc0e0ecb5a69486545464f76e68616.jpg,0,claw hammer,rubber,107.0,3.5,0
+20260925_154516_26c9_primary.rf.f2546c1c234ba4c1394ca87fdfb584f4.jpg,0,claw hammer,rubber,112.3,1.2,0
+20260925_154528_a84a_primary.rf.6a8982824a8f4fdb676c1711bdf26e6c.jpg,0,claw hammer,rubber,164.2,13.2,0
+20260925_154539_bf57_primary.rf.ec1ac2e6c5e420b334e45e04b96db07a.jpg,0,claw hammer,rubber,99.8,4.8,0
+20260925_154553_43e4_primary.rf.4bba5dc2cccc118972c060f2becf446f.jpg,0,claw hammer,rubber,104.6,1.8,0
+20260925_154605_d291_primary.rf.062742a3ca44be35b3f53c076e825e82.jpg,0,claw hammer,rubber,115.7,2.5,0
+20260925_154623_4c90_primary.rf.bb8df3babeeea71682cbe711f669b931.jpg,0,claw hammer,rubber,132.8,4.8,0
+20260925_154635_f689_primary.rf.9f251bad0da672f054b730b510846787.jpg,0,claw hammer,rubber,137.1,29.4,0
+20260925_154648_5aee_primary.rf.62f9b47615ad7850958b999838001dad.jpg,0,claw hammer,rubber,106.5,2.2,0
+20260925_154718_2987_primary.rf.bbd66aaaba1d6c18c3bcc652b4927c5f.jpg,0,claw hammer,rubber,77.1,3.1,0
+20260925_154731_f41a_primary.rf.a423db839493a41b8fd98caa38979d3b.jpg,0,claw hammer,rubber,148.7,2.8,0
+20260925_154749_5b43_primary.rf.9d55c894a933f0d381c4cf8ef953bdac.jpg,0,claw hammer,rubber,156.4,13.4,0
+20260925_154805_8c13_primary.rf.61df95a74d7e96806e4cdb3453d94aea.jpg,0,claw hammer,rubber,118.5,28.2,0
+20260925_154820_bc9d_primary.rf.693cbc185afa61fa8da86d6cc21bbaa6.jpg,0,claw hammer,rubber,154.2,3.4,0
+20260925_154838_a081_primary.rf.104f12f022f49b3f113c33b3bd585a2b.jpg,0,claw hammer,rubber,171.7,3.4,0
+20260925_154852_80ef_primary.rf.4e4a07c5b57c6390823649618c565b50.jpg,0,claw hammer,rubber,110.2,3.2,0
+20260925_154909_221f_primary.rf.d737f3ab2ca5e58673adce226592ecc3.jpg,0,claw hammer,rubber,110.1,2.0,0
+20260925_160038_bdba_primary.rf.200e8294d68c69854b5782091193461a.jpg,0,white rectangular foam block,foam,52.7,35.7,0
+20260925_160052_e058_primary.rf.e8f5984b293b6c619232ab7bf8f82789.jpg,0,white rectangular foam block,foam,44.5,28.5,0
+20260925_160112_d10f_primary.rf.64de819182e482c4616238a8fac4356f.jpg,0,white rectangular foam block,foam,47.8,36.2,0
+20260925_160201_90e8_primary.rf.eba2ef8007686167a14ee86bc9576157.jpg,0,white rectangular foam block,foam,71.2,21.1,0
+20260925_160213_ad97_primary.rf.ecaab2578422b266edabcc03c1847f6e.jpg,0,white rectangular foam block,foam,47.4,19.0,0
+20260925_160224_b3e2_primary.rf.e20a6318072b59accdc649a14d3a9702.jpg,0,white rectangular foam block,foam,39.1,15.2,0
+20260925_160254_c019_primary.rf.90b30ce55980a897e6ce281c19d281cf.jpg,0,white rectangular foam block,foam,60.0,13.4,0
+20260925_160315_5a08_primary.rf.98e042fd40cf51b6f633df312affab87.jpg,0,white rectangular foam block,foam,57.0,30.8,0
+20260925_160329_1b49_primary.rf.2ec4cd8267b4ced6cec86e754be396de.jpg,0,white rectangular foam block,foam,42.7,13.1,0
+20260925_160340_fe3c_primary.rf.75f37b64bbc2c5ccb52112bbebdccd7a.jpg,0,white rectangular foam block,foam,34.9,13.8,0
+20260925_160354_09fc_primary.rf.8997f49379fa79d8fefc05d2ca21ad33.jpg,0,white rectangular foam block,foam,32.5,22.8,0
+20260925_160434_9adf_primary.rf.1e0a5ec04507cef593a97f591b6ef2ab.jpg,0,white rectangular foam block,foam,39.4,17.4,0
+20260925_160450_4e63_primary.rf.f62d91955925b82a2a6a83ca0036baeb.jpg,0,white rectangular foam block,foam,42.5,21.3,0
+20260925_160504_2a85_primary.rf.a1fa90e482033341007e1ccf2940b11f.jpg,0,white rectangular foam block,foam,61.1,17.4,0
+20260925_160535_46ab_primary.rf.17d121ea7830a120e434aaf38dadce69.jpg,0,white rectangular foam block,foam,45.6,17.6,0
+20260925_160547_e7e3_primary.rf.e77ac760c9e27689a57bdb56587ca97b.jpg,0,white rectangular foam block,foam,42.1,17.9,0
+20260925_160614_92f2_primary.rf.02d9eaf33d5769013e6554ac149ca61f.jpg,0,white rectangular foam block,foam,62.4,51.5,0
+20260925_160648_75e4_primary.rf.97528bb4cf6c87fc604e8fc9d223a02e.jpg,0,white rectangular foam block,foam,69.9,33.4,0
+20260925_160711_d684_primary.rf.935ffde5ea06b2ae2a17a237f463e870.jpg,0,white rectangular foam block,foam,64.7,19.6,0
+20260925_160744_3bfe_primary.rf.f74f06d81a3d7ae68d25d280dabd8b62.jpg,0,white rectangular foam block,foam,55.2,22.3,0
+20260925_160819_3352_primary.rf.62e62752dd6f7bf698a1243b0b9ed633.jpg,0,white rectangular foam block,foam,68.5,25.9,0
+20260925_160838_6a19_primary.rf.0749a3a23bd39572d59807a6422868b8.jpg,0,white rectangular foam block,foam,58.0,23.1,0
+20260925_160902_77d5_primary.rf.dbab0b3de10b6a42c9cd903a43fab237.jpg,0,white rectangular foam block,foam,38.2,25.5,0
+20260925_160936_89a4_primary.rf.00cd54bbf19de732598932eeb205f58f.jpg,0,white rectangular foam block,foam,44.3,13.7,0
+20260925_160951_a817_primary.rf.2d6eaf43a2cee4c46b34dfb1af1ba9d7.jpg,0,white rectangular foam block,foam,65.2,33.5,0
+20260925_161003_4749_primary.rf.c087375e46012f46f301746e9bfe1661.jpg,0,white rectangular foam block,foam,67.6,35.8,0
+20260925_161015_21f5_primary.rf.166756bd16694f23ca57e68a9fefeb03.jpg,0,white rectangular foam block,foam,66.2,14.1,0
+20260925_161037_395f_primary.rf.d2f4b69e3a356ee14309cb2d52d8f7cc.jpg,0,white rectangular foam block,foam,54.2,23.7,0
+20260925_161135_85ed_primary.rf.848bf166fa05685372d6a404c85ea4ce.jpg,0,white rectangular foam block,foam,48.8,22.3,0
+20260925_161151_9c1f_primary.rf.e5c14d0599b2b2747ef16e865d5e9fd7.jpg,0,white rectangular foam block,foam,39.6,36.2,0
+20260925_161238_63b9_primary.rf.58e6716f1dbfde93399888538b575069.jpg,0,white rectangular foam block,foam,57.7,22.8,0
+20260925_161306_5845_primary.rf.c2dd20eae3d65fad163f334ff68c6271.jpg,0,white rectangular foam block,foam,57.9,30.6,0
+20260925_161345_5863_primary.rf.0e5225d8ab41f3b8692da0c460371bb0.jpg,0,white rectangular foam block,foam,67.5,20.0,0
+20260925_161356_a084_primary.rf.7630ff004401deb19fe499191eb42f6f.jpg,0,white rectangular foam block,foam,59.8,48.6,0
+20260925_161413_7af0_primary.rf.7523c2d5edd7ff943077fc83294c4dda.jpg,0,white rectangular foam block,foam,67.9,25.1,0
+20260925_161618_f133_primary.rf.0912419d1d6d654a49e5c62282d4fd3f.jpg,0,white rectangular foam block,foam,46.9,40.7,0
+20260925_161632_961d_primary.rf.0ad77497f56679b1ab7419014bf7308a.jpg,0,white rectangular foam block,foam,53.7,21.5,0
+20260925_161647_45fa_primary.rf.07051532e43dd05868149f518dcfedb8.jpg,0,white rectangular foam block,foam,46.4,24.8,0
+20260925_161706_7450_primary.rf.7bb970ead39895a59a45c362fde1587b.jpg,0,white rectangular foam block,foam,37.0,11.1,0
+20260925_161726_cbd3_primary.rf.b31b9315f1001828309c267fe9e5e66f.jpg,0,white rectangular foam block,foam,40.9,10.1,0
+20260925_161849_1009_primary.rf.be35020445c861f370257a6ecf46e3e0.jpg,0,robotic gripper finger assembly,plastic,54.3,24.2,0
+20260925_161849_1009_primary.rf.be35020445c861f370257a6ecf46e3e0.jpg,1,robotic gripper finger assembly,plastic,105.2,34.5,0
+20260925_161851_7c88_primary.rf.8895f077ae7c812706872e51a3a1399f.jpg,0,robotic gripper finger assembly,plastic,63.8,78.9,0
+20260925_161851_7c88_primary.rf.8895f077ae7c812706872e51a3a1399f.jpg,1,robotic gripper finger assembly,plastic,78.9,37.6,0
+20260925_161904_9014_primary.rf.f067d7669627296b40de3e079a008a9f.jpg,0,robotic gripper finger assembly,plastic,58.8,9.2,0
+20260925_161910_4854_primary.rf.529cace1ea52927ee101819c7465228b.jpg,0,robotic gripper finger assembly,plastic,30.2,5.6,0
+20260925_161934_3242_primary.rf.824af2e358cc50487bf77fe232cb6b0e.jpg,0,robotic gripper finger assembly,plastic,6.0,15.3,0
+20260925_162027_6310_primary.rf.9b2228c62c7b57259d96e872efcecfc7.jpg,0,robotic gripper finger assembly,plastic,56.0,7.1,0
+20260925_162057_ebe2_primary.rf.fa1fb22b0988d554698bee167f95a0f3.jpg,0,robotic gripper finger assembly,plastic,70.7,80.5,0
+20260925_162114_c63a_primary.rf.ec6f780c6be5ad0e129ab68f72838183.jpg,0,robotic gripper finger assembly,plastic,49.3,12.5,0
+20260925_162134_f274_primary.rf.31c0686d3b69df33060cb89e1753ee18.jpg,0,robotic gripper finger assembly,metal,63.3,46.8,0
+20260925_162146_719c_primary.rf.b113ee03af1439e29dc10ea4cf1027db.jpg,0,robotic gripper finger assembly,metal,99.3,31.2,0
+20260925_162201_988b_primary.rf.3926e1cfb900c84a0a42a780ab7fb079.jpg,0,robotic gripper finger assembly,plastic,62.0,6.7,0
+20260925_162213_3e2c_primary.rf.f684a89e780df2fcef4fa60eef50b84c.jpg,0,robotic gripper finger assembly,plastic,66.2,50.6,0
+20260925_162227_ae61_primary.rf.2a3db292a1a3e9baea64598e52efb421.jpg,0,robotic gripper finger assembly,plastic,67.7,12.1,0
+20260925_162240_c312_primary.rf.6d07c7371b05a65b106705252a6c2a07.jpg,0,robotic gripper finger assembly,plastic,80.4,9.3,0
+20260925_162255_5c15_primary.rf.c7fda84c1bcb3da28c1d9bec92aee552.jpg,0,robotic gripper finger assembly,metal,81.1,82.6,0
+20260925_162321_a1c3_primary.rf.ae4bdce0a42ab034b8d503da273c838a.jpg,0,robotic gripper finger assembly,metal,102.0,21.1,0
+20260925_162445_1546_primary.rf.c909586f0da20c3fc58bdac67ea1fa2d.jpg,0,robotic gripper finger assembly,plastic,40.1,75.6,1
+20260925_162503_5eb6_primary.rf.f1126b9ae188aef65a25e2c45a5bbff7.jpg,0,robotic gripper finger assembly,plastic,29.7,59.7,1
+20260925_162527_6fef_primary.rf.8d261b83fc407908b244310c5f60ab97.jpg,0,robotic gripper finger assembly,metal,97.5,48.2,0
+20260925_162551_5ee0_primary.rf.714ae88ad29d9e71ed2a8899e555de45.jpg,0,robotic gripper finger assembly,plastic,87.5,9.2,0
+20260925_162607_e2b7_primary.rf.240c88f47a934531b45cc21d9e2383e5.jpg,0,robotic gripper finger assembly,plastic,80.9,8.8,0
+20260925_162626_c12a_primary.rf.e23bdd095b5a57a67774ec415716c44f.jpg,0,robotic gripper finger assembly,metal,107.1,41.5,0
+20260925_162659_5b23_primary.rf.582bb03f472713b3830cc4c66295ef46.jpg,0,robotic gripper finger assembly,plastic,75.7,15.9,0
+20260925_162728_41e5_primary.rf.62f76c7bb6a721437b41bcfb0a4ba1b1.jpg,0,robotic gripper finger assembly,metal,88.1,14.7,0
+20260925_162753_4987_primary.rf.5017e505d1962c454f96ef6e8304ef7e.jpg,0,robotic gripper finger assembly,plastic,29.1,10.6,0
+20260925_162807_84e4_primary.rf.13de72bfb133b8568f0cd5a05a89358b.jpg,0,robotic gripper finger assembly,plastic,65.8,14.0,0
+20260925_162822_173a_primary.rf.d7141044963452d05daf8717d4b5c426.jpg,0,robotic gripper finger assembly,plastic,84.0,15.8,0
+20260925_162920_4c6a_primary.rf.889c36f09808a2ffd1e9d223dd7c904e.jpg,0,robotic gripper finger assembly,plastic,87.4,5.3,0
+20260925_162936_33ef_primary.rf.0063072319ea4fc39835a7bb9a63d18b.jpg,0,robotic gripper finger assembly,metal,121.8,22.0,0
+20260925_163008_7980_primary.rf.ba430a03b9f4aa0f8f919abacc6791cf.jpg,0,robotic gripper finger assembly,plastic,80.5,7.8,0
+20260925_163041_987e_primary.rf.7574457eb54bfb51578ffa749669aa7f.jpg,0,robotic gripper finger assembly,plastic,50.6,62.7,0
+20260925_163048_9a1f_primary.rf.383102c6d6c7fa25aef99e32e84d0a71.jpg,0,robotic gripper finger assembly,metal,121.1,14.8,0
+20260925_163052_397d_primary.rf.e7ca8c83d29a91c37b45b3bb03a7ea2a.jpg,0,robotic gripper finger assembly,metal,60.7,14.2,0
+20260925_163058_69dd_primary.rf.c6c3ba264d42d5bcbc85931bf0741eaa.jpg,0,robotic gripper finger assembly,plastic,61.3,51.6,0
+20260925_163927_ec15_primary.rf.e47a44aab8b82c916626b15e58f1e1b6.jpg,0,book,paper,177.9,98.0,0
+20260925_163940_f8ba_primary.rf.f6b0165d82020740fdf9bb14eb07d2dd.jpg,0,book,paper,194.4,106.6,0
+20260925_163945_4a8f_primary.rf.6895dcc2faf672de32f07f330a174698.jpg,0,book,paper,194.4,113.5,0
+20260925_163952_4289_primary.rf.8572c274ac0906cae3d7df47b19b14b4.jpg,0,book,paper,190.9,119.3,0
+20260925_164010_4abc_primary.rf.eb3b32af25ec103f666b6d2b6d8b93bd.jpg,0,book,paper,179.7,115.2,0
+20260925_164019_7877_primary.rf.b2326f32e8f5625e9b1ab09262774da3.jpg,0,book,paper,179.6,110.5,0
+20260925_164041_e88d_primary.rf.05ef372c9258638357ab7e25a530a690.jpg,0,book,paper,192.2,154.5,0
+20260925_164054_421a_primary.rf.7b0329c4eaaaced0f56d15fe97ef726c.jpg,0,book,paper,190.5,108.0,0
+20260925_164145_9541_primary.rf.4b0c9fc1eeba329cb8794c4fa0b6bb3f.jpg,0,book,paper,168.5,113.1,0
+20260925_164202_120e_primary.rf.53512ecfb8a9df4c4c56fe679fca08cf.jpg,0,book,paper,177.9,113.1,0
+20260925_164210_9fdc_primary.rf.6f15280c595d80cdbbf8442423c9ce67.jpg,0,book,paper,193.2,110.3,0
+20260925_164233_013a_primary.rf.3cac0063fa96670ddd02ce2166ba97a3.jpg,0,book,paper,175.4,110.1,0
+20260925_164313_af69_primary.rf.613bb7d0fc2a5900dc12a6fd6d9305fb.jpg,0,book,paper,181.7,111.2,0
+20260925_164400_af08_primary.rf.71a9d2c867fb0b72855d73d74421a8ee.jpg,0,book,paper,180.4,109.5,0
+20260925_164426_d506_primary.rf.ee9b0bcf696ead49d5d8758516a3916b.jpg,0,book,paper,181.8,113.7,0
+20260925_164434_143b_primary.rf.d7d0839e7a840c642ec2da011c8e805f.jpg,0,book,paper,169.4,109.6,0
+20260925_164439_edd3_primary.rf.8c6288946c258b611ed707d424b55058.jpg,0,book,paper,159.6,105.1,0
+20260925_164447_e4b2_primary.rf.504f3b549989aadf534c1c6084d43b97.jpg,0,book,paper,174.9,149.1,0
+20260925_164503_bcfa_primary.rf.8c2cbe11fb490ff53f6600771e76ebcd.jpg,0,book,paper,202.6,202.0,0
+20260925_164514_3c4e_primary.rf.ce0fac426359af215658f6ff845e46a6.jpg,0,book,paper,170.8,101.5,0
+20260925_164529_75c0_primary.rf.e4af8af068a9c01a3f4868334774a2cb.jpg,0,book,paper,176.5,109.3,0
+20260925_164534_0923_primary.rf.fa62e1287918f161e4e72858bd427e60.jpg,0,book,paper,121.4,104.9,0
+20260925_164637_07ab_primary.rf.cbf4c3bf45f27c6b3f9a25cbbbc16fe6.jpg,0,book,paper,199.2,97.9,0
+20260925_164644_677e_primary.rf.a4a670637f9e068bfa148a2f66a54456.jpg,0,book,paper,133.4,69.8,0
+20260925_164710_6354_primary.rf.98cab16a7b6cdefc65fa807d9021c71c.jpg,0,book,paper,122.3,105.7,0
+20260925_164733_8b5a_primary.rf.0dca2b460253d8411908e6ece3090917.jpg,0,book,paper,184.8,112.4,0
+20260925_164901_2b85_primary.rf.849f56da11a6e00d4c54a3f330e531f0.jpg,0,book,paper,182.1,97.7,0
+20260925_164927_cef7_primary.rf.4681a2c615d27f357ee96be3c068d23c.jpg,0,book,paper,184.2,117.5,0
+20260925_164938_d2a1_primary.rf.2583a3aec23a4c92a40ebd5d6023bf85.jpg,0,book,paper,173.5,110.2,0
+20260925_164951_b56f_primary.rf.68ce0b28955f9f5aca88eb5822fbf949.jpg,0,book,paper,168.1,109.7,0
+20260925_164959_7f82_primary.rf.04c657a09eff1336ebe1e47027625378.jpg,0,book,paper,174.4,113.0,0
+20260925_165005_37b4_primary.rf.91b8f7068ca808a2b9f813f52736abb2.jpg,0,book,paper,170.4,159.5,0
+20260925_165010_a512_primary.rf.65f9f5c12c03ac52f099e1fc3db942e5.jpg,0,book,paper,164.1,107.3,0
+20260925_165013_8642_primary.rf.169d9ecd40344bde122734c27e0a240a.jpg,0,book,paper,193.0,113.9,0
+20260925_165017_d177_primary.rf.7a40bbf73d5ba0596bfa4714ed7a0061.jpg,0,book,paper,182.1,121.4,0
+20260925_165121_06fe_primary.rf.a5872f9b96ba3dfe4ed9de13617dc371.jpg,0,book,paper,178.3,110.7,0
+20260925_165202_dd17_primary.rf.36604ef4473447919e8b7c56f3d4bbe0.jpg,0,book,paper,36.4,77.1,1
+20260925_165206_e588_primary.rf.ed07c548b769ee1eb4f6e67973f75e2e.jpg,0,book,paper,193.9,98.0,0
+20260925_165211_a90e_primary.rf.6e2d748ddd1b16e5551f0e4c1c96cab0.jpg,0,book,paper,95.8,100.1,0
+20260925_165214_4635_primary.rf.1c23f34688d8b39af8e10f1b5f9e2cd4.jpg,0,book,paper,193.1,105.0,0
+20260925_165614_27c1_primary.rf.b9c849514a3bc1b059cb0023c893d1b8.jpg,0,screw packaging box,paper,59.8,9.7,0
+20260925_165618_5151_primary.rf.8500a1349dff7e94b0aa15c8a434d471.jpg,0,screw packaging box,paper,64.6,8.6,0
+20260925_165624_d73a_primary.rf.3575ae5fd6757d267d68a6b2c59e195f.jpg,0,screw packaging box,paper,51.1,7.8,0
+20260925_165633_7efd_primary.rf.d948113b0a75587148d30f30512b7eef.jpg,0,screw packaging box,paper,47.3,6.2,0
+20260925_165642_000a_primary.rf.9aad4af26d836031eafbcab218348da4.jpg,0,screw packaging box,paper,32.2,6.1,0
+20260925_165652_429e_primary.rf.e8eecda1bc212e75268301729ee05208.jpg,0,screw packaging box,paper,48.1,9.1,0
+20260925_165702_544f_primary.rf.682511059c6428b144ec817593587510.jpg,0,screw packaging box,paper,38.5,8.9,0
+20260925_165740_8332_primary.rf.748e1dc3b0defd79de75b0a0f60fdd5e.jpg,0,screw packaging box,paper,47.4,13.7,0
+20260925_165819_2e5d_primary.rf.6aa4f706b73acf5c4a324df795fb05cf.jpg,0,screw packaging box,paper,131.7,51.8,0
+20260925_165827_809f_primary.rf.76eb91ef53c3cad5dc6af7defe6048bc.jpg,0,screw packaging box,paper,106.1,83.7,0
+20260925_165836_590a_primary.rf.57b2c030aa3ca7419baea6d05f896399.jpg,0,screw packaging box,paper,38.4,31.9,0
+20260925_165848_9c1e_primary.rf.85968ff11477c3616948eabd999bb8e2.jpg,0,screw packaging box,paper,85.7,7.5,0
+20260925_165916_fbe5_primary.rf.0ad5ad8e1002c1fad3244ee920152e1c.jpg,0,screw packaging box,paper,127.9,80.0,0
+20260925_165935_f883_primary.rf.0bc877f82ec6bc7597f64a4b1a137ecc.jpg,0,screw packaging box,paper,53.0,28.9,0
+20260925_165954_1e2b_primary.rf.ef3a9118d77df0c128e77b8bccfc3026.jpg,0,screw packaging box,paper,109.6,6.9,0
+20260925_170021_02fd_primary.rf.417e70ad7a6712c1a81b20baf2459920.jpg,0,screw packaging box,paper,24.5,24.3,0
+20260925_170043_027c_primary.rf.72d7dbf11e5afd6571cd53db82238e89.jpg,0,screw packaging box,paper,96.6,15.1,0
+20260925_170048_4939_primary.rf.fa1690cdf8168cf805c6861a1bfb9737.jpg,0,screw packaging box,paper,81.8,15.2,0
+20260925_170109_59a3_primary.rf.a161a6da4be249ef86229a0dad03c9bc.jpg,0,screw packaging box,paper,59.6,47.2,0
+20260925_170146_e274_primary.rf.159e3092e797296d2511664aee56654e.jpg,0,screw packaging box,paper,91.7,11.1,0
+20260925_170206_d711_primary.rf.14cba671485a0b9898b95f50d526356b.jpg,0,screw packaging box,paper,90.7,12.9,0
+20260925_170224_bc4e_primary.rf.5b6791503fc27cbd5c98bc266ae7eb8d.jpg,0,screw packaging box,paper,110.6,12.3,0
+20260925_170236_2d3c_primary.rf.90b2cadfce211b45f38bc3f7653a711e.jpg,0,screw packaging box,paper,61.9,16.9,0
+20260925_170337_641f_primary.rf.2bac491b1f95571cee264a8fa75f0ac4.jpg,0,screw packaging box,paper,24.8,24.3,0
+20260925_170406_d610_primary.rf.0350439bd79a72a91d6242808b081271.jpg,0,screw packaging box,paper,82.4,10.0,0
+20260925_170425_0772_primary.rf.69cd240cc75452f8355a263bd3f95167.jpg,0,screw packaging box,paper,35.1,25.1,0
+20260925_170457_53ec_primary.rf.bbe21631e205d58b29dc0b3ef15bf318.jpg,0,screw packaging box,paper,91.6,40.0,0
+20260925_170611_76c9_primary.rf.8b6dbaeb61ed3f335371a9f7e54928da.jpg,0,screw packaging box,paper,91.5,60.4,0
+20260925_170620_2f04_primary.rf.10974273c034ab1d3227dfb10f87ea86.jpg,0,screw packaging box,paper,80.0,65.6,0
+20260925_170654_7fba_primary.rf.d17e08d870175b245a10674b6bb2aff2.jpg,0,screw packaging box,paper,96.9,57.7,0
+20260925_170703_a159_primary.rf.01556aee35b0e549df9f9949b90a5c2b.jpg,0,screw packaging box,paper,17.4,18.8,0
+20260925_170712_5fd6_primary.rf.a7ecb1f83ee448c048e411327dfba2ba.jpg,0,screw packaging box,paper,20.9,20.6,0
+20260925_170757_4c7b_primary.rf.fe601cb5fa55fd47e53a8f77bb7c7ef6.jpg,0,screw packaging box,paper,113.7,29.3,0
+20260925_170837_80a3_primary.rf.d3f2dbb7d72366a0a127f398a1f520e3.jpg,0,screw packaging box,paper,66.3,11.2,0
+20260925_170944_e5d7_primary.rf.abdbb1c2939de45bf632ad13616b0ccd.jpg,0,screw packaging box,paper,129.0,5.1,0
+20260925_171022_6fd6_primary.rf.92c22dd8e9df4db43bce8d8f56c4bd58.jpg,0,screw packaging box,paper,128.1,6.2,0
+20260925_171120_3ce2_primary.rf.0c6ec9ef8150af4075b5f87e6722c8fe.jpg,0,screw packaging box,paper,94.5,7.1,0
+20260925_171126_9ee1_primary.rf.d512bd13c83daefe9d8f8038d94ac719.jpg,0,screw packaging box,paper,83.0,9.3,0
+20260925_171135_ce4f_primary.rf.3600d4807f69b64a248480f65171dc82.jpg,0,screw packaging box,paper,75.1,54.5,0
+20260925_171143_31a2_primary.rf.842153be2f89c781eaaa8698efc20be0.jpg,0,screw packaging box,paper,113.2,29.8,0
+20260925_171155_2dc0_primary.rf.ca8261b65d7b64566c7720ac0de834ac.jpg,0,screw packaging box,paper,40.4,29.1,0
+20260925_171211_765f_primary.rf.d3fa71988a87bedb74df23d220aa8c2e.jpg,0,screw packaging box,paper,69.8,25.0,0
+20260925_171227_4455_primary.rf.f951c3707ff1c83d0d51a48bf6e3bbb3.jpg,0,screw packaging box,paper,67.6,5.6,0
+20260925_171316_d16b_primary.rf.1912eef44ec6f80e0421d481180769cd.jpg,0,screw packaging box,paper,62.0,5.1,0
+20260925_171337_10d4_primary.rf.d752cf61ef1ed8f87e15b7a330c3b7a1.jpg,0,screw packaging box,paper,64.8,59.5,0
+20260925_171433_dcc5_primary.rf.47d3448d80736b01b9f6f4dc042f2e1a.jpg,0,graphing calculator slide case,plastic,53.1,2.7,0
+20260925_171440_ff95_primary.rf.9b0f6cd3d77929993dcb63f206d4489f.jpg,0,graphing calculator slide case,plastic,57.3,2.1,0
+20260925_171453_8b5d_primary.rf.9cb257b2d8614289928520a8a9940cc3.jpg,0,graphing calculator slide case,plastic,62.3,4.6,0
+20260925_171602_bdf4_primary.rf.1520b35207a940213adb849ab3f1cf3a.jpg,0,graphing calculator slide case,plastic,61.7,3.8,0
+20260925_171629_74b3_primary.rf.4da3433c74d0ef141fefab83ed67b4f3.jpg,0,graphing calculator slide case,plastic,53.6,2.6,0
+20260925_171640_6da1_primary.rf.a330d7e85feb7ba5a2303d6c66a3806d.jpg,0,graphing calculator slide case,plastic,54.6,2.6,0
+20260925_171653_8d32_primary.rf.b022970ac65ca71b3d8fdbe15c7db44f.jpg,0,graphing calculator slide case,plastic,53.7,2.9,0
+20260925_171813_6653_primary.rf.9e2b0ad26f8f2965dc7019fa7323ac06.jpg,0,graphing calculator slide case,plastic,88.3,65.2,0
+20260925_171831_eddb_primary.rf.a1b3b0387fb2ef163b4c5b2ee6fe8e69.jpg,0,graphing calculator slide case,plastic,147.7,42.4,0
+20260925_171842_c81f_primary.rf.945e981124a03749a9b71fb20362ac10.jpg,0,graphing calculator slide case,plastic,69.5,86.4,0
+20260925_171850_3830_primary.rf.f463aa4705359adab548e070972d277f.jpg,0,graphing calculator slide case,plastic,167.9,103.7,0
+20260925_171900_47ae_primary.rf.8b702901fa1c5353cc1a5cad35d6da7f.jpg,0,graphing calculator slide case,plastic,95.5,5.9,0
+20260925_171909_4afa_primary.rf.666cd404c1daf287a119ad7c7679ce5c.jpg,0,graphing calculator slide case,plastic,165.8,92.3,0
+20260925_171928_47ea_primary.rf.4f93a971cf181fdcd3e89a08a65919be.jpg,0,graphing calculator slide case,plastic,49.4,1.9,0
+20260925_171939_f3d4_primary.rf.4e81fa94c6063d5e0430d1a280d5c68a.jpg,0,graphing calculator slide case,plastic,63.3,2.3,0
+20260925_171959_c0a8_primary.rf.9237439bf034e3cf2ee4d94328373101.jpg,0,graphing calculator slide case,plastic,66.8,3.7,0
+20260925_172030_f4e0_primary.rf.504c2514a1178acc0fc412fa43cf82db.jpg,0,graphing calculator slide case,plastic,58.1,3.1,0
+20260925_172044_adbd_primary.rf.92202df51e8556fff886946b4be547fa.jpg,0,graphing calculator slide case,plastic,45.8,2.1,0
+20260925_172055_0975_primary.rf.dbe4f0aef1e15ab72eca0640c33cc03f.jpg,0,graphing calculator slide case,plastic,54.8,2.4,0
+20260925_172104_f240_primary.rf.42d23bf15ef1e9d35af07a13b6d06307.jpg,0,graphing calculator slide case,plastic,56.1,1.9,0
+20260925_172110_dd7e_primary.rf.e94693cd3d5527922026dd545691297d.jpg,0,graphing calculator slide case,plastic,50.6,2.4,0
+20260925_172121_6f5c_primary.rf.3947c0e554ac39c91b16df261024d5a9.jpg,0,graphing calculator slide case,plastic,67.3,2.3,0
+20260925_172132_654d_primary.rf.2f0354cee42e100332e1f445301194b7.jpg,0,graphing calculator slide case,plastic,53.0,2.9,0
+20260925_172143_2e95_primary.rf.03dacf3947d50eac52e33c424a7a3fa0.jpg,0,graphing calculator slide case,plastic,61.4,4.2,0
+20260925_172153_0fa7_primary.rf.cfdd88fdb478aa38575593a54bd50425.jpg,0,graphing calculator slide case,plastic,54.5,3.3,0
+20260925_172202_8d00_primary.rf.4f0be26de11d8427ee7174724610527e.jpg,0,graphing calculator slide case,plastic,106.9,3.4,0
+20260925_172212_56c3_primary.rf.0be9c2c613579a4030eb57f23b516c03.jpg,0,graphing calculator slide case,plastic,56.4,2.0,0
+20260925_172224_f631_primary.rf.733ed1181cd9046682381f45184cb2ef.jpg,0,graphing calculator slide case,plastic,112.2,13.5,0
+20260925_172236_25e3_primary.rf.b5230108fecd8ab4b55a185afdc6c34b.jpg,0,graphing calculator slide case,plastic,41.4,4.3,0
+20260925_172349_69a7_primary.rf.0017522b6e9fb96e2ba1060a57370242.jpg,0,graphing calculator slide case,plastic,66.5,20.3,0
+20260925_172401_48fb_primary.rf.559a0f79fb6a3dcef08aa933d56ef715.jpg,0,graphing calculator slide case,plastic,68.9,5.3,0
+20260925_172409_3354_primary.rf.0eaa2bc0c9dbf7d70ca25df86f4d1b13.jpg,0,graphing calculator slide case,plastic,60.8,3.1,0
+20260925_172418_5fbd_primary.rf.bf48f31c82022fb083d7fcd07aad37c0.jpg,0,graphing calculator slide case,plastic,36.9,8.1,0
+20260925_172427_955d_primary.rf.e7ab4f998033fdd78785af3c00c7b592.jpg,0,graphing calculator slide case,plastic,39.4,2.8,0
+20260925_172442_bbe3_primary.rf.cd3b8bd4bdb7651e12d84818909d01c2.jpg,0,graphing calculator slide case,plastic,54.5,3.1,0
+20260925_172457_ba66_primary.rf.b692744e8c25f67ee040b4a59975fe55.jpg,0,graphing calculator slide case,plastic,43.1,1.9,0
+20260925_172506_c778_primary.rf.1900c51bca7d4684726712d4fa2bccd7.jpg,0,graphing calculator slide case,plastic,114.4,3.3,0
+20260925_172512_3bae_primary.rf.aaff1ce80302d9cb0934a8bea091b022.jpg,0,graphing calculator slide case,plastic,104.0,5.4,0
+20260925_172522_b6cf_primary.rf.08b05dfba741fd202f93a462d6f59f9a.jpg,0,graphing calculator slide case,plastic,59.1,22.2,0
+20260925_172558_a259_primary.rf.a33351e79aacb2032e67139431971c10.jpg,0,graphing calculator slide case,plastic,48.6,2.2,0
+20260925_172632_c8a3_primary.rf.61dd9ae26df4be8ce26ac3b7635481d3.jpg,0,graphing calculator slide case,plastic,43.9,2.5,0
+20260925_172638_ec4b_primary.rf.205e46c35724be8e5fe3b25ae3553800.jpg,0,graphing calculator slide case,plastic,58.7,2.2,0
+20260925_172644_8cf6_primary.rf.275fa1c77910c4131d83b285755d4e8c.jpg,0,graphing calculator slide case,plastic,55.2,5.1,0
+20260925_173059_0f1f_primary.rf.e11a55291b7e8c2b856592d3e6dbba00.jpg,0,plastic first aid kit,plastic,85.3,5.3,0
+20260925_173108_3d9b_primary.rf.e174ff4a98af82bd52bdae7e2b560999.jpg,0,plastic first aid kit,plastic,85.0,4.0,0
+20260925_173119_9165_primary.rf.1da2fdf9eba7363e2fc5769bb43df138.jpg,0,plastic first aid kit,plastic,78.6,5.8,0
+20260925_173151_b69a_primary.rf.0bf41580241c053473fdc014dae5cb7c.jpg,0,plastic first aid kit,plastic,89.2,18.3,0
+20260925_173203_5136_primary.rf.50c1a6afc345cfb64c730373ba840150.jpg,0,plastic first aid kit,plastic,82.0,9.5,0
+20260925_173215_f016_primary.rf.af7ba9f228559fcfc6b1b9e75293281f.jpg,0,plastic first aid kit,plastic,82.4,3.8,0
+20260925_173300_4898_primary.rf.5ddf036add8b5df84753bc3db0505121.jpg,0,plastic first aid kit,plastic,76.7,5.0,0
+20260925_173309_8922_primary.rf.667095b7b5d4d7bface434d2ca5e2e9f.jpg,0,plastic first aid kit,plastic,75.3,38.6,0
+20260925_173339_91b0_primary.rf.f98cb9f196002e7fb55c672277fd360d.jpg,0,plastic first aid kit,plastic,92.2,3.4,0
+20260925_173350_b92c_primary.rf.295a7124298438bded8ee14de75bf972.jpg,0,plastic first aid kit,plastic,58.1,3.9,0
+20260925_173415_6a86_primary.rf.96a11f587bf386a676e80a9ea405a425.jpg,0,plastic first aid kit,plastic,52.7,6.9,0
+20260925_173427_4428_primary.rf.3484c4cf783a36303d792ceec6f8dbeb.jpg,0,plastic first aid kit,plastic,55.6,5.3,0
+20260925_173438_c49c_primary.rf.b935b277c12384b06b061d833f824ad9.jpg,0,plastic first aid kit,plastic,56.1,4.0,0
+20260925_173500_d095_primary.rf.f21720d6794ca46d6359601c532bb876.jpg,0,plastic first aid kit,plastic,56.8,4.1,0
+20260925_173552_4b0f_primary.rf.375af42167a3b23b755903c8aa3449fb.jpg,0,plastic first aid kit,plastic,51.3,4.4,0
+20260925_173652_f209_primary.rf.3084b52a2f89b56c0c69ad71db5f73fe.jpg,0,plastic first aid kit,plastic,94.6,13.8,0
+20260925_173719_0554_primary.rf.4a8ea5efd874f16fead41cfc42fd87c9.jpg,0,plastic first aid kit,plastic,109.9,29.6,0
+20260925_173742_0f45_primary.rf.6807d9257e1d458d3fad535aa0169712.jpg,0,plastic first aid kit,plastic,110.6,9.5,0
+20260925_173814_b2f1_primary.rf.ceba6df6830d11287af90b60999deb8e.jpg,0,plastic first aid kit,plastic,110.4,21.0,0
+20260925_173912_7e1d_primary.rf.8e5c710d747310ec1378574a1e48d213.jpg,0,plastic first aid kit,plastic,45.5,24.4,0
+20260925_173938_25e3_primary.rf.f2066ee2105d9945a7f9849b25860fe8.jpg,0,plastic first aid kit,plastic,69.3,5.9,0
+20260925_173945_62a6_primary.rf.689bb4c70855692df62cc82a943432aa.jpg,0,plastic first aid kit,plastic,58.9,3.9,0
+20260925_173958_f506_primary.rf.6f053b4c37f052c47d2aa3ef7c375e9f.jpg,0,plastic first aid kit,plastic,42.2,6.9,0
+20260925_174025_ce7e_primary.rf.9281b11b23df7f408029d51fd9882360.jpg,0,plastic first aid kit,plastic,50.0,3.1,0
+20260925_174035_0f9d_primary.rf.1d05718bcd653a683d8392926d1db173.jpg,0,plastic first aid kit,plastic,40.4,5.0,0
+20260925_174049_12ac_primary.rf.9c8047e6e8bfaf2bc2868ea0a6483374.jpg,0,plastic first aid kit,plastic,39.9,8.0,0
+20260925_174102_1a3c_primary.rf.ae646163a81e08dd4d672cc7356aa87b.jpg,0,plastic first aid kit,plastic,54.9,4.3,0
+20260925_174121_f146_primary.rf.793fa026cb1149da0c1cf5756f662131.jpg,0,plastic first aid kit,plastic,54.6,4.3,0
+20260925_174146_a0bc_primary.rf.0e3447257eb31579173226477ae991d8.jpg,0,plastic first aid kit,plastic,70.3,3.3,0
+20260925_174227_9fde_primary.rf.6e370479991d34641a7f23f4e60e74de.jpg,0,plastic first aid kit,plastic,53.6,5.4,0
+20260925_174318_2bc4_primary.rf.354371279c570569891a80b5e8db3d4f.jpg,0,plastic first aid kit,plastic,88.6,6.7,0
+20260925_174324_f95d_primary.rf.da4112991a36c6e622b3de09b5acbdb7.jpg,0,plastic first aid kit,plastic,82.1,9.0,0
+20260925_174335_b571_primary.rf.a38c625a776a2e1b258ea3c83a5f7158.jpg,0,plastic first aid kit,plastic,80.7,5.5,0
+20260925_174418_9fff_primary.rf.4341ac151bc495692b8f456d6c1c9025.jpg,0,plastic first aid kit,plastic,69.1,4.0,0
+20260925_174428_139f_primary.rf.66cb5b953be1593236bdc79418282b69.jpg,0,plastic first aid kit,plastic,82.6,5.5,0
+20260925_174440_60a6_primary.rf.141027c7aba5ea5e7d804e1ab0ad10f3.jpg,0,plastic first aid kit,plastic,82.9,2.9,0
+20260925_174449_e52a_primary.rf.7c91ea8f32cdcf7ac988c37233b25899.jpg,0,plastic first aid kit,plastic,92.4,4.1,0
+20260925_174502_00d3_primary.rf.3697a24cc8805dd5fd78ed7e60c8dda2.jpg,0,plastic first aid kit,plastic,84.4,3.7,0
+20260925_174700_39b5_primary.rf.7d90bbd52a9a14d2ee2abb265a6341e0.jpg,0,wireless earbud charging case,plastic,38.7,30.8,0
+20260925_174712_1666_primary.rf.c0d3b997e88626976217970c99de628f.jpg,0,wireless earbud charging case,plastic,51.1,29.5,0
+20260925_174722_0507_primary.rf.a862be44a60c407ced51cbe1e863b6ea.jpg,0,wireless earbud charging case,plastic,34.0,23.9,0
+20260925_174732_7372_primary.rf.b0af8357425ee7b52e0da9d5a62dca27.jpg,0,wireless earbud charging case,plastic,39.6,36.1,0
+20260925_174741_2155_primary.rf.43912bf4c0fc518ea9a53bb04c04bb0c.jpg,0,wireless earbud charging case,plastic,35.4,21.3,0
+20260925_174751_1627_primary.rf.ad5d50fe810016f18cd7d66bdb3cc077.jpg,0,wireless earbud charging case,plastic,34.2,9.5,0
+20260925_174801_5c16_primary.rf.905c4722f69b597cfa0f7eedaf9709d2.jpg,0,wireless earbud charging case,plastic,33.2,30.6,0
+20260925_174812_ac35_primary.rf.3160dbc2469cd1b5b2db39bdd459ebed.jpg,0,wireless earbud charging case,plastic,33.9,22.1,0
+20260925_174825_cc40_primary.rf.0b91661d8c644d97107389f8f0723e4a.jpg,0,wireless earbud charging case,plastic,63.5,87.2,0
+20260925_174839_52f0_primary.rf.61c2a7acfb1f8b73a4dd2523aaed9ee0.jpg,0,wireless earbud charging case,plastic,75.8,31.3,0
+20260925_174852_ed70_primary.rf.6b944ea758155e41331feec381412535.jpg,0,wireless earbud charging case,plastic,51.7,83.2,1
+20260925_174901_f4d0_primary.rf.81390017ee239cbb82138b350c3c5969.jpg,0,wireless earbud charging case,plastic,64.3,84.5,0
+20260925_174919_6d7a_primary.rf.511558d78b377ac27f366632023b7a62.jpg,0,wireless earbud charging case,plastic,81.2,80.6,0
+20260925_174928_151b_primary.rf.06c80efca31f6f1928db5a9c9ddf58c9.jpg,0,wireless earbud charging case,plastic,87.6,71.2,0
+20260925_174939_84b4_primary.rf.0c675b8f201d809009708d5c74a80088.jpg,0,wireless earbud charging case,plastic,75.3,82.7,0
+20260925_174946_82bd_primary.rf.7359d6db4e4452b5e020885ce2e808a0.jpg,0,wireless earbud charging case,plastic,70.5,81.2,0
+20260925_175000_b674_primary.rf.4388723fb202c9c3a05733fafdec3088.jpg,0,wireless earbud charging case,plastic,34.3,8.2,0
+20260925_175009_2454_primary.rf.4465509a418bd6bfa02565ef64e88032.jpg,0,wireless earbud charging case,plastic,50.4,18.5,0
+20260925_175015_d906_primary.rf.12b0e0be371a16a4fc4c7bf8d3d13f7c.jpg,0,wireless earbud charging case,plastic,47.7,33.8,0
+20260925_175022_cf72_primary.rf.68388394807da97006b1efccfdfeeb47.jpg,0,wireless earbud charging case,plastic,49.3,26.9,0
+20260925_175028_e495_primary.rf.e73501987292df38af6b11c3940f61ea.jpg,0,wireless earbud charging case,plastic,34.2,13.2,0
+20260925_175035_0867_primary.rf.c7285edf4951e87848f77262001d0796.jpg,0,wireless earbud charging case,plastic,40.3,32.6,0
+20260925_175047_131c_primary.rf.6df65327cf623fcd285ddfcd4c01c2ab.jpg,0,wireless earbud charging case,plastic,39.0,13.5,0
+20260925_175057_eff6_primary.rf.cad4fb84f88702acfb42cc2e0b4143f1.jpg,0,wireless earbud charging case,plastic,44.5,10.1,0
+20260925_175155_8a85_primary.rf.379220e6d81ac64fc6a3a9bb6ba7ec69.jpg,0,wireless earbud charging case,plastic,83.6,29.5,0
+20260925_175205_e637_primary.rf.a2dd44b0a9ab216600da93acce1577e8.jpg,0,wireless earbud charging case,plastic,80.0,41.5,0
+20260925_175216_fd3f_primary.rf.a3a2718f7f4b4463c6eafbde55e88453.jpg,0,wireless earbud charging case,plastic,70.6,31.6,0
+20260925_175227_41be_primary.rf.5d4413319a4ec7f2b3931783a87c1fe1.jpg,0,wireless earbud charging case,plastic,96.0,70.8,0
+20260925_175237_7c94_primary.rf.1bc77ff43faef8cf9aaf115b0238dabb.jpg,0,wireless earbud charging case,plastic,87.6,26.8,0
+20260925_175247_0a92_primary.rf.a33d22596d1adf612aef43fdcc5b0451.jpg,0,wireless earbud charging case,plastic,98.2,33.9,0
+20260925_175311_3d4c_primary.rf.6fbae761f7f9608dd57d40c5c68f938b.jpg,0,wireless earbud charging case,plastic,91.7,17.7,0
+20260925_175345_8794_primary.rf.33cb6543c600bdaedc4c4ececcefe9cf.jpg,0,wireless earbud charging case,plastic,73.5,42.7,0
+20260925_175354_4462_primary.rf.c4db8618c5cfef88cd095d6c9d3bab67.jpg,0,wireless earbud charging case,plastic,106.9,20.4,0
+20260925_175404_479a_primary.rf.2b61f8725540675839c94bd25f55df46.jpg,0,wireless earbud charging case,plastic,84.3,90.1,0
+20260925_175417_d0ba_primary.rf.ee068866f9c641704f53db941810a66d.jpg,0,wireless earbud charging case,plastic,91.1,95.4,0
+20260925_175432_e087_primary.rf.ffb809f0aeb3eb0e23643581acff90b9.jpg,0,wireless earbud charging case,plastic,94.9,34.9,0
+20260925_175458_2bda_primary.rf.32d4db0966e401c4b0e84a88aa18833c.jpg,0,wireless earbud charging case,plastic,96.6,32.5,0
+20260925_175533_b768_primary.rf.114324b6f39fb1a4157232ffc7917846.jpg,0,wireless earbud charging case,plastic,101.4,61.5,0
+20260925_175745_592b_primary.rf.b62af5ded12efddbdffb2933d44d4952.jpg,0,plastic container lid,plastic,188.8,123.2,0
+20260925_175840_5c19_primary.rf.e1ea539f4ae1439ee228d383a6a59831.jpg,0,plastic container lid,plastic,188.7,121.2,0
+20260925_175848_f026_primary.rf.8c908159fbc182eefcf53a9fcc5ee568.jpg,0,plastic container lid,plastic,190.2,128.5,0
+20260925_175932_de47_primary.rf.fcf7a08244063952a645ffcf0105061b.jpg,0,plastic container lid,plastic,180.3,126.4,0
+20260925_175940_923f_primary.rf.ff9835ad169132ce09d874ac7c5541d4.jpg,0,plastic container lid,plastic,186.9,143.0,0
+20260925_175956_7a51_primary.rf.d3236a0bfad75dad6c1aee574cf69110.jpg,0,plastic container lid,plastic,150.4,122.7,0
+20260925_180009_4dc6_primary.rf.f5ebdc34d219c860b55dfad5999511b2.jpg,0,plastic container lid,plastic,187.3,142.9,0
+20260925_180036_7aaa_primary.rf.232207ec824e07efa39ef628010495ab.jpg,0,plastic container lid,plastic,190.1,146.5,0
+20260925_180058_6602_primary.rf.2d5174d11d694fe821e3bbb3856e6beb.jpg,0,plastic container lid,plastic,196.2,159.6,0
+20260925_180133_2b00_primary.rf.e53e527d8fce440696bfe1cf04855dce.jpg,0,plastic container lid,plastic,180.6,149.4,0
+20260925_180143_ee83_primary.rf.0841e1010548df1a70e7195fce0cf0f7.jpg,0,plastic container lid,plastic,176.0,154.5,0
+20260925_180156_474c_primary.rf.cadfa76fb0ea74dca55d18394f7fdba8.jpg,0,plastic container lid,plastic,196.4,142.8,0
+20260925_180256_808e_primary.rf.6a3653fa94a628baf6b0f0e940361f75.jpg,0,plastic container lid,plastic,193.6,146.1,0
+20260925_180308_d118_primary.rf.80653d00f675f958177e88e27ae1f7e1.jpg,0,plastic container lid,plastic,187.4,154.2,0
+20260925_180324_8df5_primary.rf.3bb0ccd5d05ec9c44264eec6113ffe8b.jpg,0,plastic container lid,plastic,186.0,135.9,0
+20260925_180341_d959_primary.rf.02b86e5f306f8a5c4cb9dab2628dad3c.jpg,0,plastic container lid,plastic,188.0,137.9,0
+20260925_180356_eab9_primary.rf.dbf8a125cad8bd123d082c420fdec891.jpg,0,plastic container lid,plastic,135.9,126.6,0
+20260925_180534_0aca_primary.rf.c2f6ea9ebec91793d5c6572156719570.jpg,0,plastic container lid,plastic,211.6,153.8,0
+20260925_180613_2144_primary.rf.8ef2fb76488a75efec50479a9a549d9d.jpg,0,plastic container lid,plastic,215.5,141.5,0
+20260925_180648_b5dd_primary.rf.2be6d2ac091ffaf6cf87d3aaad77f7dc.jpg,0,plastic container lid,plastic,208.5,203.5,0
+20260925_180711_24a2_primary.rf.c00918534c31121fa41382affbc85f6e.jpg,0,plastic container lid,plastic,201.8,165.3,0
+20260925_180711_24a2_primary.rf.c00918534c31121fa41382affbc85f6e.jpg,1,plastic container lid,plastic,161.8,201.8,0
+20260925_180757_5602_primary.rf.050d90cf650a73d554b93ee5e17a29dd.jpg,0,plastic container lid,plastic,200.2,137.9,0
+20260925_180806_a13e_primary.rf.92f60ad969b4aa8900268542002c9b74.jpg,0,plastic container lid,plastic,212.5,139.8,0
+20260925_180825_4e2e_primary.rf.2b46d5dc3ad1dd6cbd2504b82b6df2ad.jpg,0,plastic container lid,plastic,205.8,175.6,0
+20260925_180825_4e2e_primary.rf.2b46d5dc3ad1dd6cbd2504b82b6df2ad.jpg,1,plastic container lid,plastic,209.8,205.8,0
+20260925_180837_e523_primary.rf.f21b8117d5353042419575fcf0960785.jpg,0,plastic container lid,plastic,201.0,140.6,0
+20260925_180847_5021_primary.rf.e834282c52e35454b9c064fe2ed2ba71.jpg,0,plastic container lid,plastic,207.3,147.4,0
+20260925_180935_671a_primary.rf.b7cb4af02fe8951ab277367e6459bcf8.jpg,0,plastic container lid,plastic,202.1,151.1,0
+20260925_181004_0d6f_primary.rf.8f9a7c4aabdb5018c004a590eeb5c05c.jpg,0,plastic container lid,plastic,169.9,148.3,0
+20260925_181014_0500_primary.rf.89a327ba44ad9592968e1fac50e94db3.jpg,0,plastic container lid,plastic,178.6,164.2,0
+20260925_181023_2565_primary.rf.85b51c0f70e2f8d9ae4a8b0ab02e6056.jpg,0,plastic container lid,plastic,173.9,134.7,0
+20260925_181032_0239_primary.rf.99b29a62c79bbcd736c0564fbcd26d16.jpg,0,plastic container lid,plastic,167.5,163.5,0
+20260925_181119_a0ba_primary.rf.b68b4c397a700ebc338c9037fa25c8ee.jpg,0,plastic container lid,plastic,172.7,136.5,0
+20260925_181143_78bd_primary.rf.e087da0d951c43c42a13b9ca4153e89e.jpg,0,plastic container lid,plastic,175.1,144.6,0
+20260925_181242_a73b_primary.rf.c87b250e2ab30b5b2170e8252165cbe2.jpg,0,plastic container lid,plastic,175.1,138.6,0
+20260925_181255_9d64_primary.rf.9a2790c7c926ef6112c38bc8b29ed437.jpg,0,plastic container lid,plastic,194.9,183.2,0
+20260925_181310_53e5_primary.rf.45458097db42b0264b3061eae9f318c1.jpg,0,plastic container lid,plastic,186.6,158.9,0
+20260930_143843_f2ae_primary.rf.2b35d26921e779935e5a65b3f8cfe635.jpg,0,tabletop,composite,51.4,11.5,0
+20260930_143911_3601_primary.rf.eaac3f40c12c2e293f1591022650df3a.jpg,0,tabletop,composite,51.6,11.5,0
+20260930_144022_bb24_primary.rf.0a0adc399a0d7ee72bbf45ce0a580e9e.jpg,0,tabletop,composite,48.6,14.4,0
+20260930_144037_5a6f_primary.rf.68166eb7dee4d35aa9ab40a4dabb9904.jpg,0,tabletop,composite,52.1,9.9,0
+20260930_144104_755d_primary.rf.2516c29a0a91f08aa8cb7552784c14a0.jpg,0,tabletop,composite,55.0,28.4,0
+20260930_144136_c592_primary.rf.c89a84a98e13e745fc1d17c61443ff47.jpg,0,tabletop,composite,51.5,30.2,0
+20260930_144158_ea78_primary.rf.435e42f76402797a0a5ef9fb61eebc68.jpg,0,tabletop,composite,53.7,5.1,0
+20260930_144220_2b6f_primary.rf.944c73695655657de4e9409bdf9f683c.jpg,0,tabletop,composite,46.3,14.3,0
+20260930_144311_6c40_primary.rf.7df4a4306e57812d580754f451159459.jpg,0,tabletop,composite,50.8,6.6,0
+20260930_144339_f082_primary.rf.863487bec93d2b5ac06c05c257551004.jpg,0,tabletop,composite,46.3,7.7,0
+20260930_144405_4c24_primary.rf.acf229a3fc7fc31e41f9c4912ad50572.jpg,0,tabletop,composite,52.6,27.1,0
+20260930_144439_3da0_primary.rf.1cc9aa666c6dc22ef599e7df3d2cb18d.jpg,0,tabletop,composite,49.9,7.7,0
+20260930_144459_f273_primary.rf.eeaa750ac54d9957fa7a2a7981428cbb.jpg,0,tabletop,composite,50.0,10.1,0
+20260930_144525_cd6a_primary.rf.5292f80bcf9f55c531cbc7239ea3dcd7.jpg,0,tabletop,composite,47.1,2.6,0
+20260930_144547_dbe8_primary.rf.c4344173523bb845ff374234c4566733.jpg,0,tabletop,composite,45.9,2.6,0
+20260930_144625_2cdd_primary.rf.f3889611904bdd3387e57b8aa05f10a3.jpg,0,tabletop,composite,45.6,9.3,0
+20260930_144659_ef83_primary.rf.93b4408affba978e382596d3bbe9025e.jpg,0,tabletop,composite,46.3,20.5,0
+20260930_144900_c0af_primary.rf.01af19c38b1d01b6271b53ff80e89050.jpg,0,tabletop,composite,52.6,5.6,0
+20260930_144917_b2f5_primary.rf.ed5ec9b0335a6f5e0082088e335520b6.jpg,0,tabletop,composite,49.4,35.2,0
+20260930_145117_33e7_primary.rf.a5cad37c9c13ef767665393a4369e61f.jpg,0,tabletop,composite,44.8,3.8,0
+20260930_145150_f403_primary.rf.be6b8bd4a0458d3caaeddbc1a3837f4a.jpg,0,tabletop,composite,45.5,15.7,0
+20260930_145707_2dbb_primary.rf.be4895736ba34bde382d96fe0d0c23b4.jpg,0,tabletop,composite,48.8,4.0,0
+20260930_150013_f856_primary.rf.b4cc8e1a3126d76cc3b6e6fc7787952f.jpg,0,tabletop,composite,50.5,5.2,0
+20260930_150026_6e96_primary.rf.b376f477673ef008ff587b29cfe7054f.jpg,0,tabletop,composite,45.9,4.0,0
+20260930_150039_99f5_primary.rf.4e2e8ca4d55faf4cb1de2caeaeda0688.jpg,0,tabletop,composite,45.1,12.3,0
+20260930_150100_b16d_primary.rf.bc98972719a7fd2f29a8fadaa2751522.jpg,0,tabletop,composite,53.7,10.7,0
+20260930_150203_ac90_primary.rf.2c3fc59f452417b2a6749d48565d7f97.jpg,0,tabletop,composite,49.4,5.5,0
+20260930_150226_ff7d_primary.rf.8710a16df293b43253039cc8776823cf.jpg,0,tabletop,composite,50.3,4.2,0
+20260930_150252_fa0a_primary.rf.f651f98ba0a1486e816d512edc90a512.jpg,0,tabletop,composite,47.7,14.0,0
+20260930_150317_ca19_primary.rf.b27215066a75bae721eac6d2f84de080.jpg,0,tabletop,composite,48.8,2.8,0
+20260930_150328_e97c_primary.rf.df2c38c8e794c73b44200f6609fbe5aa.jpg,0,tabletop,composite,50.4,2.1,0
+20260930_150808_5373_primary.rf.173539c5ea202911a75951c34f99b63a.jpg,0,toy football,foam,82.8,7.8,0
+20260930_150839_fd5a_primary.rf.a754a10fd95ce29a46b2621d85a81da6.jpg,0,toy football,foam,79.3,8.5,0
+20260930_150956_1abb_primary.rf.a438f3495eef3c401b54df3b5b3c7e0d.jpg,0,toy football,foam,79.4,5.0,0
+20260930_151049_9e1c_primary.rf.337885d371a559910211b661c2b574f9.jpg,0,toy football,foam,96.0,18.0,0
+20260930_151138_a87c_primary.rf.256df6435bd69f25b6c77f9cefc42144.jpg,0,toy football,foam,90.3,18.1,0
+20260930_151156_94c9_primary.rf.62b64174b7cfd52541289b2c24ca5b74.jpg,0,toy football,foam,92.7,24.5,0
+20260930_151518_d60d_primary.rf.6e9811fae1700b462005855dc7ebee03.jpg,0,toy football,foam,77.7,60.8,0
+20260930_151647_2d9c_primary.rf.7cfd4cc187cb214240edc96b216bbee6.jpg,0,toy football,foam,70.0,15.7,0
+20260930_151738_d013_primary.rf.8f14079efe01ad4920cd94dca6666120.jpg,0,toy football,foam,74.6,13.5,0
+20260930_151921_3181_primary.rf.b59d7a19cba68242ea70dc359100667d.jpg,0,toy football,foam,67.6,8.6,0
+20260930_152135_b857_primary.rf.df8fb818c09eed50ab34f30f0f7f877f.jpg,0,book,paper,153.0,82.5,0
+20260930_152231_04df_primary.rf.1e9cda325e9db3a6ceb78888db8cc855.jpg,0,book,paper,167.4,87.4,0
+20260930_152240_fe15_primary.rf.e103facf92027c879b4e5cc540585926.jpg,0,book,paper,163.8,89.2,0
+20260930_152252_2622_primary.rf.4f51762654982bc0d90430e845fc20e8.jpg,0,book,paper,104.1,97.5,0
+20260930_152322_b2e4_primary.rf.5286c07d21b8382383b57970a79b7e1c.jpg,0,book,paper,154.4,103.6,0
+20260930_152341_caed_primary.rf.4109d8a9544581de5cb5fdbde3b1436a.jpg,0,book,paper,182.6,143.1,0
+20260930_152348_6399_primary.rf.3f993d441cd2723d89943b4ffe29bdc7.jpg,0,book,paper,196.1,111.9,0
+20260930_152505_5d37_primary.rf.8e4c6bf411fa3833e9248e9e79d31cf0.jpg,0,book,paper,85.0,93.6,0
+20260930_152520_1a93_primary.rf.e7de535fe2d264db65410d16e8f7b19a.jpg,0,book,paper,187.9,100.8,0
+20260930_152558_d243_primary.rf.5141ced4e94e377fce386b86693edbd0.jpg,0,book,paper,88.2,92.3,0
+20260930_152651_a563_primary.rf.aa0a2fa4048dd65729b9bda12e4df93e.jpg,0,book,paper,70.2,84.1,0
+20260930_152751_2fb3_primary.rf.67dbe41468dc5b9b088231be7cbf6755.jpg,0,book,paper,177.7,94.4,0
+20260930_152759_4bd0_primary.rf.632323e875780bf6e32f34fe332f206a.jpg,0,book,paper,174.2,97.3,0
+20260930_152913_022e_primary.rf.885cac1d73bf34f15ab0be59e0f5b20e.jpg,0,book,paper,86.4,87.0,0
+20260930_152957_f5e0_primary.rf.5c702c77a2da8e9adbaf14e36068fde8.jpg,0,book,paper,184.6,136.3,0
+20260930_153340_1ea6_primary.rf.2c9981e52980cc9305eacdcb8ffe86db.jpg,0,scissors,plastic,200.4,200.9,0
+20260930_153633_6e3b_primary.rf.7d4a3d327c42438f3ea9dd9060b9e5d6.jpg,0,scissors,plastic,200.0,189.2,0
+20260930_153733_d3b6_primary.rf.a1292931e26d7ec0d6a74d8e1dd5215d.jpg,0,scissors,plastic,196.8,142.9,0
+20260930_153809_7cdf_primary.rf.046d7feb0bda66cb80498830d5d26392.jpg,0,scissors,plastic,197.1,189.0,0
+20260930_153834_f686_primary.rf.eabc624447a5ccb218fab4d33b258686.jpg,0,scissors,plastic,197.9,170.6,0
+20260930_153931_c7de_primary.rf.6ab1f5598b18538699609379585134b5.jpg,0,scissors,plastic,182.7,153.3,0
+20260930_154009_fed2_primary.rf.ef4ffe6a8920ea0b65fdff128c489681.jpg,0,scissors,metal,46.3,112.5,1
+20260930_154052_3be8_primary.rf.dc4e8775608da9eee537bba8916cd485.jpg,0,scissors,metal,136.5,46.8,0
+20260930_154116_e3a5_primary.rf.b32e97692a8a81988a446fe9f707c989.jpg,0,scissors,metal,138.8,11.3,0
+20260930_154303_ae4f_primary.rf.fb75802cab24a1d32b85c3b2de4e31a2.jpg,0,scissors,plastic,187.3,186.3,0
+20260930_154401_5899_primary.rf.abdbc0b27923e3b6d6824662a1f530b1.jpg,0,scissors,plastic,196.2,200.8,0
+20260930_154608_2645_primary.rf.8a786cddc342c7e172592951ed3bceea.jpg,0,scissors,plastic,169.6,198.5,0
+20260930_154636_b8b3_primary.rf.196d9a2b489b29978cb7899201aa3b7d.jpg,0,scissors,metal,104.7,120.4,0
+20260930_154730_0f31_primary.rf.5859aa544e09541d025ca769e2d24010.jpg,0,scissors,metal,53.8,189.6,1
+20260930_154730_0f31_primary.rf.5859aa544e09541d025ca769e2d24010.jpg,1,scissors,plastic,189.6,132.6,0
+20260930_154824_670f_primary.rf.41c563d1d5637e1add2369faf57c8ace.jpg,0,scissors,metal,30.9,111.6,1
+20260930_155246_be43_primary.rf.bff9bd34fc9020a57c55a51def7961cc.jpg,0,precision screwdriver,rubber,144.2,126.8,0
+20260930_155331_7057_primary.rf.3762b880d920fed32f8f584df020bde8.jpg,0,precision screwdriver,rubber,161.0,129.3,0
+20260930_155406_7b1a_primary.rf.8d25c60ad9d6be219a297d4eea5ee0c0.jpg,0,precision screwdriver,rubber,167.6,125.3,0
+20260930_155443_fd42_primary.rf.91d37288e44a04be776eb3d17f7a8202.jpg,0,precision screwdriver,rubber,147.3,145.9,0
+20260930_161052_2554_primary.rf.0305f6b0c1b4c4115481623f4892915e.jpg,0,precision screwdriver,rubber,148.9,139.1,0
+20260930_161128_8206_primary.rf.2a7cabeeffcb41d57efd8e7e4c9ccdb0.jpg,0,precision screwdriver,rubber,154.7,153.3,0
+20260930_161148_a331_primary.rf.f25dbb5e52f387d3ed7af07492a651a3.jpg,0,precision screwdriver,rubber,154.9,157.4,0
+20260930_161206_5346_primary.rf.43d5505a18c32442b3b49372e7705286.jpg,0,precision screwdriver,rubber,154.6,160.5,0
+20260930_161309_eb8b_primary.rf.f7dd2a90d4ba72d8470acfda727f38cf.jpg,0,precision screwdriver,metal,155.7,121.3,0
+20260930_161342_2771_primary.rf.56a4bf68b5f9f2f777ed831b42b26906.jpg,0,precision screwdriver,metal,62.8,74.4,0
+20260930_161426_5a08_primary.rf.815a0a2d4293ffa0495f7727f0b040e0.jpg,0,precision screwdriver,metal,154.6,129.6,0
+20260930_161508_a4ca_primary.rf.2a653619bd44db8ebe25e55c34eba3ec.jpg,0,robotic gripper finger assembly,plastic,100.1,15.5,0
+20260930_161527_b9f9_primary.rf.43d8c3bbb41dc645908fc06dfe8fe165.jpg,0,robotic gripper finger assembly,metal,124.6,71.5,0
+20260930_162742_98d7_primary.rf.bb638a16c31e6159e8587cbc38ecab8a.jpg,0,ballpoint pen,rubber,180.6,113.5,0
+20260930_162850_25cb_primary.rf.1a166e2711566a3bded1b07dcb46762e.jpg,0,ballpoint pen,plastic,94.4,117.0,0
+20260930_162913_566f_primary.rf.5a2ec73f8e41033e7f4921ac6b2a9fa5.jpg,0,ballpoint pen,plastic,190.0,94.0,0
+20260930_162933_eb0b_primary.rf.6a5c2b8c60ed50c8949b0aaaf5278282.jpg,0,ballpoint pen,plastic,190.7,163.9,0
+20260930_162959_505a_primary.rf.1b2290ea5bcaaedfd232097fc0de570f.jpg,0,ballpoint pen,rubber,180.5,102.4,0
+20260930_163028_413a_primary.rf.94c15f90a0ef66da1b28723043f57d02.jpg,0,ballpoint pen,plastic,79.9,107.7,0
+20260930_163123_fd67_primary.rf.4c6039f66942977552ceb02d3609b2c6.jpg,0,ballpoint pen,plastic,181.8,114.6,0
+20260930_163143_acdb_primary.rf.08380817c8af8394fc816577b8eaee23.jpg,0,ballpoint pen,plastic,194.1,110.7,0
+20260930_163205_e939_primary.rf.a4fce93d6407673e5969697b977f0de2.jpg,0,ballpoint pen,rubber,186.4,152.0,0
+20260930_163721_d2d2_primary.rf.2d00fcd6d796d613690478f10893c623.jpg,0,rubber duck,rubber,110.4,10.0,0
+20260930_163817_5edc_primary.rf.2faf38277a9c9dc83e884ddec0576918.jpg,0,rubber duck,rubber,103.0,8.0,0
+20260930_163839_1039_primary.rf.2918521299d8ceb53c9153cfbac33354.jpg,0,rubber duck,rubber,148.7,148.4,0
+20260930_163903_5852_primary.rf.cfb92cd7a82811512d93452b6274f731.jpg,0,rubber duck,rubber,84.8,152.0,1
+20260930_164028_e7a8_primary.rf.b7d9d13b31587b18ac23aa843931448b.jpg,0,rubber duck,rubber,84.9,11.4,0
+20260930_164045_6576_primary.rf.7818f6f7365d851112a0ae8757c036a5.jpg,0,rubber duck,rubber,78.6,6.7,0
+20260930_164146_c1e0_primary.rf.515c265836d7fb358a4a4ab72e188c23.jpg,0,rubber duck,rubber,111.6,7.7,0
+20260930_164209_9c3d_primary.rf.c728e2fcda16b23a3eb48f6d9b911d9b.jpg,0,rubber duck,rubber,73.7,122.2,1
+20260930_164241_6104_primary.rf.c4e908e744a749558d2a1244f74a71e6.jpg,0,rubber duck,rubber,70.5,44.4,0
+20260930_164300_0994_primary.rf.0d8ccc5c520d5599cf4b9b0b62e2f064.jpg,0,rubber duck,rubber,94.7,15.9,0
+20260930_164328_12d9_primary.rf.ca46ea8aa6c69b10aa11d8d998ab11bc.jpg,0,rubber duck,rubber,82.2,11.8,0
+20260930_164358_a181_primary.rf.b5b8decccee5789593697de4c0c44d7c.jpg,0,rubber duck,rubber,95.8,67.9,0
+20260930_164526_6627_primary.rf.d1a7fc9c530dbe34800db86ca5dea8ce.jpg,0,rubber duck,rubber,87.7,13.2,0
+20260930_164620_4713_primary.rf.5f31c9bbf95efad7c426cd0c916eb9ab.jpg,0,rubber duck,rubber,119.1,138.1,0
+20260930_164642_5c6c_primary.rf.5c6ac203bdb4d85e7046b92f2352b874.jpg,0,rubber duck,rubber,150.8,149.2,0
+20260930_164813_f344_primary.rf.dd6500e71cf18a621b899bef10456628.jpg,0,rubber duck,rubber,84.3,56.0,0
+20260930_164845_5466_primary.rf.150e13af5c5b93e168a80f9daf827242.jpg,0,rubber duck,rubber,87.1,9.8,0
+20260930_165020_56a3_primary.rf.6c19d9b1e9635f60db9f9e36ea1a81af.jpg,0,rubber duck,rubber,95.7,137.8,0
+20260930_165111_ba68_primary.rf.f22afc01683494af8c7afe1cd9db4e74.jpg,0,rubber duck,rubber,148.1,139.0,0
+20261002_132104_4e72_primary.rf.221168024a47a1ac2d23b1b8f0eb93c4.jpg,0,protective phone case,rubber,75.6,34.3,0
+20261002_132113_06ce_primary.rf.dc7d669217fc1bc119669fef7aa0f2e3.jpg,0,protective phone case,rubber,68.2,1.6,0
+20261002_132131_c56b_primary.rf.e72153912a9fe386e5794e6fb2da4438.jpg,0,protective phone case,rubber,108.0,21.9,0
+20261002_132230_1355_primary.rf.8e0157580c952721625dc3331c40569e.jpg,0,protective phone case,rubber,104.7,9.1,0
+20261002_132254_ab3e_primary.rf.33d5564e6a3c0fedfc57b2e542888934.jpg,0,protective phone case,rubber,81.0,22.2,0
+20261002_132307_b562_primary.rf.0f89a1e6aa68a76248b22b8cc1a460d1.jpg,0,protective phone case,rubber,165.0,47.7,0
+20261002_132318_e09a_primary.rf.39e769f14dddf52a6b86271021740490.jpg,0,protective phone case,rubber,162.1,31.1,0
+20261002_132348_9908_primary.rf.8285e10bf604c15a0e71424b4e5a395e.jpg,0,protective phone case,rubber,158.5,16.4,0
+20261002_132358_b08a_primary.rf.1740417289bb1ca0f56afc7864939e9b.jpg,0,protective phone case,rubber,115.9,11.3,0
+20261002_132418_a9ef_primary.rf.69b70970ddd9c4860bee4b09ebb9e28d.jpg,0,protective phone case,rubber,71.1,18.4,0
+20261002_132432_bed2_primary.rf.014096ccac33c9b5809972db9301c9f2.jpg,0,protective phone case,rubber,100.3,14.9,0
+20261002_132453_f27e_primary.rf.61d4c951626e041027335ca151ac9cfb.jpg,0,protective phone case,rubber,80.1,11.3,0
+20261002_132506_6888_primary.rf.dfd5818759a8e0a3aea0b93bfd8b6f85.jpg,0,protective phone case,rubber,93.7,39.2,0
+20261002_132614_c881_primary.rf.36071701d65dd5300d580a41532bf22b.jpg,0,protective phone case,rubber,118.6,9.6,0
+20261002_132623_4afa_primary.rf.15c69d212d9edb230dbdaf47c7d5356e.jpg,0,protective phone case,rubber,114.1,3.6,0
+20261002_132628_a509_primary.rf.4f3c0307985be14b2d21e3a583686bbe.jpg,0,protective phone case,rubber,94.6,4.1,0
+20261002_132647_4438_primary.rf.25bac8ed8208387d20dbf684953b9377.jpg,0,protective phone case,rubber,100.1,41.8,0
+20261002_134521_4ea6_primary.rf.03e69565c57f5ad769ab97f78c250e1b.jpg,0,protective phone case,rubber,136.5,7.1,0
+20261002_134612_f47f_primary.rf.42bc4887d6726cbb96b1b2a1c8b3a63a.jpg,0,protective phone case,rubber,141.7,48.7,0
+20261002_134625_d5a9_primary.rf.6204b5c915a5bdee219ad33922466d37.jpg,0,protective phone case,rubber,159.2,5.9,0
+20261002_134644_3dba_primary.rf.be78597aa1fe045add60b9f2439aca4c.jpg,0,protective phone case,rubber,156.6,7.1,0
+20261002_134708_e2ca_primary.rf.383c4dc3cbb63b96123d95c39e98a5ed.jpg,0,protective phone case,rubber,145.0,27.0,0
+20261002_134725_89c5_primary.rf.3298c1a32e28fce2a2cf645925e52283.jpg,0,protective phone case,rubber,155.7,9.0,0
+20261002_134752_f0da_primary.rf.eb4e477c14aa7678769b777da16ef6e6.jpg,0,protective phone case,rubber,180.8,5.6,0
+20261002_134802_73fd_primary.rf.ad0201691825da3e48fb0836030eff67.jpg,0,protective phone case,rubber,162.8,19.6,0
+20261002_134814_448a_primary.rf.10769478d493bd9807364b9b52adf094.jpg,0,protective phone case,rubber,124.1,16.6,0
+20261002_134939_af6a_primary.rf.3913d5907ad3c7ac828327c9baf082da.jpg,0,protective phone case,rubber,133.3,44.3,0
+20261002_135023_5f36_primary.rf.e609eb4ef28e5b1aafb8adc6628a23f5.jpg,0,protective phone case,rubber,133.8,8.3,0
+20261002_135049_dff6_primary.rf.e347b6fb0c659f3a0bede363b29388b1.jpg,0,protective phone case,rubber,154.7,4.9,0
+20261002_135115_98db_primary.rf.f4e1455011d2698532c2a3cee43a7fa2.jpg,0,protective phone case,rubber,160.9,24.5,0
+20261002_135128_07a8_primary.rf.26355fb0c5268f767c2479e33329f348.jpg,0,protective phone case,rubber,136.9,31.9,0
+20261002_135146_c587_primary.rf.d871c6395a7f358345d2799a6c975522.jpg,0,protective phone case,rubber,163.3,77.7,0
+20261002_135215_e1b3_primary.rf.d77135026aacadef52c54fdfc4be24e9.jpg,0,protective phone case,rubber,134.9,8.5,0
+20261002_135514_0969_primary.rf.721e144f9ee2d760d8e445295ff4d7c9.jpg,0,protective phone case,rubber,162.1,8.6,0
+20261002_135549_6aa1_primary.rf.b73adfbab015570e0ead9ffc849f35a6.jpg,0,protective phone case,rubber,167.4,27.0,0
+20261002_135636_fc64_primary.rf.8b48a08d2b1d7ef5ba71d35f40420288.jpg,0,protective phone case,rubber,73.9,13.7,0
+20261002_135719_8a69_primary.rf.d0c066b89f9969241565440eb085ba7f.jpg,0,protective phone case,rubber,138.4,21.7,0
+20261002_135745_5c65_primary.rf.dd5fc973e8951f2423a3c7f756dd6090.jpg,0,protective phone case,rubber,92.3,59.2,0
+20261002_135907_6543_primary.rf.140cb84b024919c611fa2b6d5ec9e60b.jpg,0,protective phone case,rubber,140.8,11.5,0
+20261002_135943_c838_primary.rf.c5c7fb8fdde6b0f72b969e24af4c821b.jpg,0,protective phone case,rubber,77.8,8.5,0
+20261002_140012_0126_primary.rf.2c9b9c25a713c0212c25f53e1be7fb32.jpg,0,protective phone case,rubber,162.7,13.2,0
+20261002_140020_3d2e_primary.rf.4c2143256945d74abf3430a480838e72.jpg,0,protective phone case,rubber,159.3,10.6,0
+20261002_140525_eafb_primary.rf.0972449ab707aff1066ba575ea2792e5.jpg,0,protective phone case,rubber,161.7,4.8,0
+20261002_140543_3cfe_primary.rf.7b1c747c781052d502e060b9b53df632.jpg,0,protective phone case,rubber,179.7,12.6,0
+20261002_140612_1c3e_primary.rf.343f285f2ca17d191548f8667eb15b73.jpg,0,protective phone case,rubber,132.4,13.1,0
+20261002_140657_eef0_primary.rf.8fed44a9ef90a5b5418bc15239aa57c5.jpg,0,protective phone case,rubber,162.4,7.9,0
+20261002_140712_974e_primary.rf.7103fa55fe93ca787e509183b0d6f9c1.jpg,0,protective phone case,rubber,95.8,3.1,0
+20261002_140734_ed2f_primary.rf.8c2df954c7ad4eada9e6abe5b78f9b4a.jpg,0,protective phone case,rubber,143.4,13.4,0
+20261002_140833_8fc7_primary.rf.71508df87e22b01c1c83ffdd85dec46c.jpg,0,protective phone case,rubber,147.7,26.6,0
+20261002_140839_1603_primary.rf.fa88ff42ba87c98adc9e550b284451f1.jpg,0,protective phone case,rubber,166.7,13.5,0
+20261002_140849_0e55_primary.rf.5cb9803bd80acbb3159aaf3d986a71b2.jpg,0,protective phone case,rubber,184.2,13.7,0
+20261002_140855_d450_primary.rf.2c8d6475b184211bb06ae75f0785ba9f.jpg,0,protective phone case,rubber,102.6,16.1,0
+20261002_141358_5678_primary.rf.c66102180b5c67888909c95891068d2d.jpg,0,protective phone case,plastic,88.6,30.6,0
+20261002_141435_3b17_primary.rf.e6406c63f623e46e864475a08efb8b12.jpg,0,protective phone case,plastic,117.0,4.8,0
+20261002_141443_2bca_primary.rf.f96e28434e68c6956bdf88c7b0b7f013.jpg,0,protective phone case,plastic,64.2,10.2,0
+20261002_141448_bf11_primary.rf.6278984e2a711e34aa8b6b27cc4de265.jpg,0,protective phone case,plastic,61.8,2.8,0
+20261002_141528_6938_primary.rf.dc3669bc9b0ca1b07e19f861e7b6edd4.jpg,0,protective phone case,plastic,78.5,7.3,0
+20261002_141537_bcb6_primary.rf.c81d7ede1f3002244f6e3d7d8625b58f.jpg,0,protective phone case,plastic,70.5,13.7,0
+20261002_141545_9341_primary.rf.71621a6b5cd5a6de739486bc16095150.jpg,0,protective phone case,plastic,66.0,2.5,0
+20261002_141616_cce0_primary.rf.15b82da6fd9780fa97c29eac39e56c50.jpg,0,protective phone case,plastic,64.3,2.6,0
+20261002_142004_9db4_primary.rf.f492984bfb57cf6a12817896d95cb282.jpg,0,protective phone case,plastic,131.2,13.4,0
+20261002_142049_f9d0_primary.rf.e6f05bdec5ce7625f11d08fcefdde29b.jpg,0,protective phone case,plastic,136.8,17.5,0
+20261002_142116_3208_primary.rf.e3e4ed15999348c28dcebb73a33e52d8.jpg,0,protective phone case,plastic,110.1,10.0,0
+20261002_142159_8032_primary.rf.76d0cb7c7128d2bce6d9d8b1183b5b0f.jpg,0,protective phone case,plastic,38.7,10.4,0
+20261002_142219_076e_primary.rf.a89e507b78e4ff857f2f23e42ce96e98.jpg,0,protective phone case,plastic,148.6,13.2,0
+20261002_142240_cab3_primary.rf.74f82ef5c769e51182e4c15770eff401.jpg,0,protective phone case,plastic,136.0,20.7,0
+20261002_142529_7358_primary.rf.a7599ab1d08a8129725a74bcd34312cb.jpg,0,fitness tracker replacement band,rubber,82.2,28.8,0
+20261002_142854_cbb8_primary.rf.402c6555f85f71b319e9b4845acbb277.jpg,0,fitness tracker replacement band,rubber,85.4,18.8,0
+20261002_142946_246d_primary.rf.2a3ac8b0cb466a350084dfcbb2e06a03.jpg,0,fitness tracker replacement band,rubber,87.3,9.2,0
+20261002_142952_4148_primary.rf.ae64ab1eb41cde8efc99ee0fd034da5e.jpg,0,fitness tracker replacement band,rubber,85.5,20.2,0
+20261002_143003_20ba_primary.rf.44bb59f08d35f34e979b0598364fbd33.jpg,0,fitness tracker replacement band,rubber,84.7,70.5,0
+20261002_143122_8a6d_primary.rf.32c5cc3dc0a818b43687f8a1336dd089.jpg,0,fitness tracker replacement band,rubber,87.6,13.4,0
+20261002_143151_d67c_primary.rf.4cc19ec5ce66a3fe1fa1921b510925bc.jpg,0,fitness tracker replacement band,rubber,81.2,36.0,0
+20261002_143213_d600_primary.rf.db32e1407c383901b514b00d17dc1265.jpg,0,fitness tracker replacement band,rubber,79.9,7.7,0
+20261002_143219_152b_primary.rf.ac942383c27fc7ed82429ddf9f5a9251.jpg,0,fitness tracker replacement band,rubber,97.1,3.7,0
+20261002_143239_9ccd_primary.rf.e30a4f037a4f1e82d3fceb4546d1ee6e.jpg,0,fitness tracker replacement band,rubber,82.6,17.2,0
+20261002_143307_2ab1_primary.rf.99f02f1d641a2b49365b59906c01c928.jpg,0,fitness tracker replacement band,rubber,81.4,4.3,0
+20261002_143359_3868_primary.rf.cef71396c15bb5c18c7be24f8eb8b453.jpg,0,fitness tracker replacement band,rubber,80.0,2.8,0
+20261002_143434_fe73_primary.rf.d8c4324abf21a969fcbe293fe3ff573c.jpg,0,fitness tracker replacement band,rubber,100.0,8.9,0
+20261002_143501_440d_primary.rf.afca4bb0249d38c7cec9e1b43a93e317.jpg,0,fitness tracker replacement band,rubber,67.6,4.3,0
+20261002_143540_76db_primary.rf.1ea39da85d6ba9f2a0667619b3a68f6f.jpg,0,fitness tracker replacement band,rubber,88.9,3.1,0
+20261002_144336_52b4_primary.rf.84863938f71484d1b79fb78bed6dd21e.jpg,0,fitness tracker replacement band,rubber,59.8,13.7,0
+20261002_144336_52b4_primary.rf.84863938f71484d1b79fb78bed6dd21e.jpg,1,fitness tracker replacement band,rubber,163.5,59.8,0
+20261002_144414_bc90_primary.rf.bcd490ac7d65c540f6ce2324dc2dba07.jpg,0,fitness tracker replacement band,rubber,172.2,82.2,0
+20261002_144414_bc90_primary.rf.bcd490ac7d65c540f6ce2324dc2dba07.jpg,1,fitness tracker replacement band,rubber,82.2,42.9,0
+20261002_144423_4723_primary.rf.baed0e3210d8fdc75b99bfeb358bd61e.jpg,0,fitness tracker replacement band,rubber,71.8,15.9,0
+20261002_144623_ecc3_primary.rf.df3c8dd65e37c7a54f4b8f756f786d09.jpg,0,fitness tracker replacement band,rubber,107.3,93.0,0
+20261002_144655_3bfd_primary.rf.42d401e9c4becdcca376360340fc6755.jpg,0,fitness tracker replacement band,rubber,157.0,11.6,0
+20261002_144655_3bfd_primary.rf.42d401e9c4becdcca376360340fc6755.jpg,1,fitness tracker replacement band,rubber,32.4,4.9,0
+20261002_144711_af7d_primary.rf.3107ea897a0f076ab76da9ebfffde7a1.jpg,0,fitness tracker replacement band,rubber,177.1,12.0,0
+20261002_144837_eb5c_primary.rf.332625a13e96e1846b7b694964ce654e.jpg,0,fitness tracker replacement band,rubber,186.4,19.7,0
+20261002_144906_0759_primary.rf.71a2fe5c9d74755fe176d741e71621ea.jpg,0,fitness tracker replacement band,rubber,192.0,46.6,0
+20261002_144944_a3fd_primary.rf.d7df2289c9dd9f82782c58d0849ec56c.jpg,0,fitness tracker replacement band,rubber,187.2,51.6,0
+20261002_145015_03e6_primary.rf.fac018d0c6e5daef6679caaba41f0241.jpg,0,fitness tracker replacement band,rubber,182.9,40.7,0
+20261002_145036_ea52_primary.rf.fa6e7575b04070d4789d9e4042cd221a.jpg,0,fitness tracker replacement band,rubber,176.5,56.3,0
+20261002_145143_6b41_primary.rf.e8b724e75bd4e5b822451f476c43321a.jpg,0,fitness tracker replacement band,rubber,99.3,20.9,0
+20261002_145156_7dd6_primary.rf.239c44394a2a3dbde830f56d89134b36.jpg,0,fitness tracker replacement band,rubber,89.4,6.1,0
+20261002_145156_7dd6_primary.rf.239c44394a2a3dbde830f56d89134b36.jpg,1,fitness tracker replacement band,rubber,35.7,6.2,0
+20261002_145203_04b7_primary.rf.99913ab9046e7dfea027f2b33bc53bc8.jpg,0,fitness tracker replacement band,rubber,157.0,18.0,0
+20261002_145215_824d_primary.rf.a91297f1b4e6285797c750e71fea2061.jpg,0,fitness tracker replacement band,rubber,142.5,114.2,0
+20261002_145234_c3c1_primary.rf.41389e19fceedcbc724805877ef995a7.jpg,0,fitness tracker replacement band,rubber,188.9,20.0,0
+20261002_145309_a46a_primary.rf.1b03a1413cab22a5ecc010204636bbfe.jpg,0,fitness tracker replacement band,rubber,177.6,74.1,0
+20261002_145318_4c88_primary.rf.6b8e0969f5fe454de4548af343ee4e8f.jpg,0,fitness tracker replacement band,rubber,187.9,34.2,0
+20261002_145327_aa32_primary.rf.e29e0c3bfc705342ec68e740e0895983.jpg,0,fitness tracker replacement band,rubber,61.4,17.6,0
+20261002_145419_c4e2_primary.rf.fecb9da77a34c6bd5f2ef1448d45860e.jpg,0,fitness tracker replacement band,rubber,170.1,32.1,0
+20261002_145457_80b0_primary.rf.4754b17803218d5e983f4e856492481c.jpg,0,fitness tracker replacement band,rubber,156.2,40.4,0
+20261002_145505_2505_primary.rf.8a0a594774dc12559a79a63e8f447043.jpg,0,fitness tracker replacement band,rubber,136.3,25.9,0
+20261002_145642_671d_primary.rf.0f549e75e77cee52beccf38131b4136d.jpg,0,fitness tracker replacement band,rubber,101.0,24.2,0
+20261002_145758_f23c_primary.rf.46d5f6786a24c31edec7b1079d74f420.jpg,0,fitness tracker replacement band,rubber,92.6,9.9,0
+20261002_145828_fe1f_primary.rf.182a9dbe64796852e4b310859171ff2d.jpg,0,fitness tracker replacement band,rubber,119.7,7.7,0
+20261002_145840_cfc2_primary.rf.dadf414bf2e9d509ed4fd6b51baf415d.jpg,0,fitness tracker replacement band,rubber,138.8,33.8,0
+20261002_145846_ee75_primary.rf.044b5fb67402c6b368d02c604f9de134.jpg,0,fitness tracker replacement band,rubber,55.7,1.7,0
+20261002_145935_fc01_primary.rf.d0eba6b7e9888fe646b03e68702ab463.jpg,0,fitness tracker replacement band,rubber,52.3,9.7,0
+20261002_145942_81fb_primary.rf.45028e8e1d348f99f8ec6ad74da11b6b.jpg,0,fitness tracker replacement band,rubber,79.5,4.6,0
+20261002_145949_417f_primary.rf.ce8b27da3120b36ad5d87bac0dfabf14.jpg,0,fitness tracker replacement band,rubber,101.4,15.9,0
+20261002_150000_d8f3_primary.rf.8b4246003ffc710e7f53a07df5792f0d.jpg,0,fitness tracker replacement band,rubber,156.9,27.0,0
+20261002_150136_6671_primary.rf.89471e74c4570c475141c7ee3639832f.jpg,0,fitness tracker replacement band,rubber,160.1,11.6,0
+20261002_150153_a467_primary.rf.22756deedd323b53d52041015e83dd1e.jpg,0,fitness tracker replacement band,rubber,120.4,9.7,0
+20261002_150208_995b_primary.rf.ec36138ba4a94dd04ddc00a8635e3ee0.jpg,0,fitness tracker replacement band,rubber,101.4,20.4,0
+20261002_150254_2c9b_primary.rf.821f7060b403b0d731a0f703d98fb6d7.jpg,0,fitness tracker replacement band,rubber,91.6,16.7,0
+20261002_150726_db75_primary.rf.e61f2357e1e2c6e08d90bf37086f2397.jpg,0,car key fob with keyring,metal,140.3,111.7,0
+20261002_150743_70d1_primary.rf.b3c4af4f6ac85864d0de7453e6f31605.jpg,0,car key fob with keyring,metal,87.9,110.0,0
+20261002_150827_b5e2_primary.rf.0f27a5df94e0a9434037f5bc01e4f966.jpg,0,car key fob with keyring,metal,121.1,69.8,0
+20261002_150927_1adc_primary.rf.7719f6b357885e9b6dbafa41752ec88c.jpg,0,car key fob with keyring,metal,114.9,66.4,0
+20261002_151104_6609_primary.rf.d15652e9a0d5d25c1ea80276fb4c47bc.jpg,0,car key fob with keyring,metal,111.5,102.2,0
+20261005_153458_f71a_primary.rf.01245f3ef448d9328733613ea40ada75.jpg,0,ballpoint pen,plastic,232.8,208.6,0
+20261005_153542_770f_primary.rf.d53140a219f55ca8bea63c9dc2ab4388.jpg,0,ballpoint pen,plastic,223.8,227.9,0
+20261005_153605_14c5_primary.rf.65e72a2a180a6ed65538dccae652e707.jpg,0,ballpoint pen,plastic,168.8,166.1,0
+20261005_153616_f020_primary.rf.a3ae418d356d619dd08283d5f0882658.jpg,0,ballpoint pen,plastic,157.4,152.5,0
+20261005_153626_f238_primary.rf.142b7a3f99bbd51616f7a8a0e8fcfabe.jpg,0,ballpoint pen,plastic,163.8,134.1,0
+20261005_153641_7bb0_primary.rf.e1843bea79ffb698b4305b7c80b69ae6.jpg,0,ballpoint pen,plastic,163.5,136.5,0
+20261005_153652_fdd7_primary.rf.4398f9ecbf26a7be22b0b7057ad89d8e.jpg,0,ballpoint pen,rubber,220.5,168.2,0
+20261005_153702_8c56_primary.rf.4044959aa01f813f2cebec0449a8288c.jpg,0,ballpoint pen,rubber,214.3,168.2,0
+20261005_153715_4f03_primary.rf.230c62df027b106017fb637a9b9053ed.jpg,0,ballpoint pen,rubber,215.4,159.1,0
+20261005_153733_1e40_primary.rf.71c76e318026faf18ce76af926e1a392.jpg,0,ballpoint pen,rubber,227.9,220.4,0
+20261005_153812_3743_primary.rf.ade3b4cd3ee7430f5788eb239dd5f980.jpg,0,ballpoint pen,rubber,224.5,196.2,0
+20261005_153900_b850_primary.rf.7ed3f639cfbf31b7acff19501347631c.jpg,0,ballpoint pen,plastic,220.6,169.6,0
+20261005_153937_ebb3_primary.rf.943a5befd1dd5f2a823db4b0823d99bc.jpg,0,ballpoint pen,plastic,72.7,163.2,1
+20261005_153956_20b0_primary.rf.0fd6aed84dbecb2a5420e93603ca39bf.jpg,0,ballpoint pen,plastic,35.9,74.7,1
+20261005_154025_a50e_primary.rf.f0aa11b5cf3034db8304dc5f39ebecb0.jpg,0,ballpoint pen,plastic,84.8,136.1,1
+20261005_154157_4675_primary.rf.53436c422c7aecd522d5b473eda07141.jpg,0,ballpoint pen,rubber,204.8,202.3,0
+20261005_154219_da1b_primary.rf.b15c88952ecc62d7ed495920b867d9e9.jpg,0,ballpoint pen,rubber,210.1,205.0,0
+20261005_154242_6f1f_primary.rf.7b8db1a3353fd4b2f69a7c57d78c9784.jpg,0,ballpoint pen,plastic,198.0,184.1,0
+20261005_154306_4ee5_primary.rf.b2e258cda4983abf4fdaeb5778f23ba2.jpg,0,ballpoint pen,plastic,182.1,164.0,0
+20261005_154317_6dec_primary.rf.7859aa15ac9d06f82dfbcbbbe474fb0a.jpg,0,ballpoint pen,plastic,205.5,138.1,0
+20261005_154331_1391_primary.rf.ce710982347522a32fbea330d8408b61.jpg,0,precision screwdriver,rubber,205.2,203.3,0
+20261005_154355_59bc_primary.rf.7a706cb34cdee2f19234b2a832ba2461.jpg,0,ballpoint pen,plastic,167.6,165.0,0
+20261005_154415_9f4b_primary.rf.fc452cf0041796394bc2a8a190cf513d.jpg,0,ballpoint pen,plastic,224.4,209.5,0
+20261005_154627_d008_primary.rf.797ca49a3299771fd7cdac99ef326770.jpg,0,ballpoint pen,plastic,181.1,150.2,0
+20261005_154940_94e5_primary.rf.14446c0d4569524f11962db5e7f0958e.jpg,0,extruded aluminum profile,metal,173.7,103.6,0
+20261005_154958_76a4_primary.rf.65bfac319dc43a6cb605baf20fd813e3.jpg,0,extruded aluminum profile,metal,103.1,41.6,0
+20261005_155010_eca5_primary.rf.5a0fc9a69af28d44fd7752e599ca3994.jpg,0,extruded aluminum profile,metal,141.3,143.2,0
+20261005_155025_ada7_primary.rf.729f3b1b9a867e3c2d1cba0886fe24db.jpg,0,extruded aluminum profile,metal,162.1,76.4,0
+20261005_155041_4b04_primary.rf.7339377a3a4ae284c963a1a4c8cf34f3.jpg,0,extruded aluminum profile,metal,205.5,79.8,0
+20261005_155050_182e_primary.rf.5b811e75ad7ba564fa039551a1f145c6.jpg,0,extruded aluminum profile,metal,176.4,99.1,0
+20261005_155401_e6c5_primary.rf.b00187a6fe952e997e2465bf8c110bd8.jpg,0,extruded aluminum profile,metal,167.8,89.0,0
+20261005_155456_70ee_primary.rf.c451e2487f6d3e61aa67eb4c3edb64ec.jpg,0,extruded aluminum profile,metal,187.6,121.7,0
+20261005_155511_5133_primary.rf.3790249aab633d57d05f451db0c2d8b7.jpg,0,extruded aluminum profile,metal,144.8,77.4,0
+20261005_155523_7def_primary.rf.83bbf3cb5536f6a66673bdd636dd8d01.jpg,0,extruded aluminum profile,metal,133.0,43.3,0
+20261005_155619_aa7d_primary.rf.0a9dd0f6b7eb56f011a54176683605ff.jpg,0,extruded aluminum profile,metal,169.7,62.9,0
+20261005_155904_9526_primary.rf.b2e11764127775107638ecb6cd0453e0.jpg,0,desktop tape dispenser,plastic,206.3,120.8,0
+20261005_155904_9526_primary.rf.b2e11764127775107638ecb6cd0453e0.jpg,1,desktop tape dispenser,plastic,120.8,206.3,1
+20261005_155911_c78d_primary.rf.627ea6c4cdcaa0a30c76fc112bd30e4f.jpg,0,desktop tape dispenser,plastic,115.1,79.9,0
+20261005_155954_d380_primary.rf.d390665a7e52afeecd64382354709609.jpg,0,desktop tape dispenser,plastic,145.0,194.3,0
+20261005_155954_d380_primary.rf.d390665a7e52afeecd64382354709609.jpg,1,desktop tape dispenser,plastic,196.4,185.3,0
+20261005_160001_d9d7_primary.rf.464666cb7c109b70c6dcd718ed9445eb.jpg,0,desktop tape dispenser,plastic,181.8,190.7,0
+20261005_160020_236f_primary.rf.d66cdc738d334ef5f2dc57ac83a4111c.jpg,0,desktop tape dispenser,plastic,169.7,110.1,0
+20261005_160115_6d02_primary.rf.0645cf8e8588e21108c2618c3d60081b.jpg,0,desktop tape dispenser,plastic,191.0,124.4,0
+20261005_160123_ae40_primary.rf.e7c1926122f7bf6ff43f3f5c7b2a88e6.jpg,0,desktop tape dispenser,plastic,209.7,174.8,0
+20261005_160131_82f6_primary.rf.eca7c58d1fa2def4d83d011a4bc60358.jpg,0,desktop tape dispenser,plastic,157.2,136.7,0
+20261005_160142_ad30_primary.rf.3f52739c6347ac165387b09d57ae29d0.jpg,0,desktop tape dispenser,plastic,150.2,137.2,0
+20261005_160152_d5a0_primary.rf.5f740a811445e2cb0507a0c58bf60bd2.jpg,0,desktop tape dispenser,plastic,164.0,154.9,0
+20261005_160216_4659_primary.rf.8e6283b5412b9cc3e8358a7edfcbdf7a.jpg,0,desktop tape dispenser,plastic,196.2,202.2,0
+20261005_160236_807f_primary.rf.a8edbe6194ff5bc5245777bb5ec665d0.jpg,0,desktop tape dispenser,plastic,164.2,76.4,0
+20261005_160354_8ea7_primary.rf.cd5def44193d5622b4d975f7b88f21de.jpg,0,desktop tape dispenser,plastic,144.9,78.9,0
+20261005_160420_cd2e_primary.rf.175322f928d8c56d626a1a4efd88c482.jpg,0,desktop tape dispenser,plastic,210.1,88.5,0
+20261005_160446_88ea_primary.rf.e218ba950af826fd20ca865c1f567d8d.jpg,0,desktop tape dispenser,plastic,102.2,75.8,0
+20261005_160532_d859_primary.rf.2908fa5d23195d8fe3378dd438dfae5f.jpg,0,desktop tape dispenser,plastic,121.4,113.7,0
+20261005_160547_4b0d_primary.rf.3425c9df14181915227320974d083bc2.jpg,0,desktop tape dispenser,plastic,201.9,84.6,0
+20261005_160554_170e_primary.rf.c0614f4f5dc14c0b5ca073c73da461f1.jpg,0,desktop tape dispenser,plastic,196.4,58.1,0
+20261005_160636_137c_primary.rf.117cec64889f4f6ce62911c4427e0880.jpg,0,desktop tape dispenser,plastic,187.0,98.3,0
+20261005_160712_8f19_primary.rf.c6d0be013cc6d65f7000a7c7e711cce2.jpg,0,desktop tape dispenser,plastic,75.3,136.6,1
+20261005_160717_134b_primary.rf.2caecc2355da22881fdfbe31653da8fa.jpg,0,desktop tape dispenser,plastic,111.9,79.5,0
+20261005_160741_bd39_primary.rf.636768ff9c16c09d8a08ceafae03c700.jpg,0,desktop tape dispenser,plastic,200.8,76.9,0
+20261005_160750_15a4_primary.rf.082ed503f8724a919752a9bcda4193d4.jpg,0,desktop tape dispenser,plastic,199.3,50.9,0
+20261005_160848_1650_primary.rf.10667707bef98b3e1e9ad9b3190ce3ae.jpg,0,desktop tape dispenser,plastic,190.5,147.5,0
+20261005_161350_454e_primary.rf.ee72b6ca58d2d9a0604f0d98eee384c5.jpg,0,claw hammer,metal,209.8,76.8,0
+20261005_161440_8afa_primary.rf.be27abc9d51858857b66a756ed8cf701.jpg,0,claw hammer,metal,191.4,117.3,0
+20261005_161514_d9b4_primary.rf.4426ada6c5151513c83db320b61c59b1.jpg,0,claw hammer,metal,205.8,127.0,0
+20261005_161559_73bf_primary.rf.872dc113bd47d774aacdaecbf4645b44.jpg,0,claw hammer,metal,235.3,150.1,0
+20261005_161607_7ea1_primary.rf.c7e39179505a0a5c01f545a0994f82d0.jpg,0,claw hammer,metal,207.0,217.0,0
+20261005_161721_6219_primary.rf.4564f91a44be0e414e826280351d1513.jpg,0,claw hammer,metal,223.4,70.8,0
+20261005_161756_8486_primary.rf.3ad54636dc05941ab4cc70a942318331.jpg,0,claw hammer,metal,203.7,140.5,0
+20261005_162034_d7df_primary.rf.850b735eb2ed9e0ef37da25c397d7178.jpg,0,scissors,plastic,213.2,142.7,0
+20261005_162049_d921_primary.rf.51dfa6d4ef0494abdd61c19496c85048.jpg,0,scissors,plastic,238.5,153.2,0
+20261005_162055_bb18_primary.rf.018fb3f3d6b1d2d32183619e995e643c.jpg,0,scissors,plastic,239.4,155.4,0
+20261005_162145_adfb_primary.rf.e050dcc22fca4e4756abb54d918291c3.jpg,0,scissors,plastic,224.8,143.1,0
+20261005_162152_f7b8_primary.rf.8fa223db688dee23f6ab4e5562f6636b.jpg,0,scissors,plastic,167.0,204.6,0
+20261005_162209_064f_primary.rf.7edd7723928dd159781353811950f88f.jpg,0,scissors,plastic,238.0,237.7,0
+20261005_162413_ce92_primary.rf.8a43a189400a9f614a787f0b5f9d76a7.jpg,0,scissors,plastic,217.1,204.6,0
+20261005_162437_72da_primary.rf.3ad3bb843706d8d842dcb9299172fa20.jpg,0,scissors,plastic,233.9,226.9,0
+20261005_162620_9b53_primary.rf.74d5936d657234df62f76b545138adf7.jpg,0,scissors,plastic,186.4,219.1,0
+20261005_162713_407c_primary.rf.3dbd0cec0bcb807b4f5951effbac9a9d.jpg,0,scissors,plastic,201.0,141.2,0
+20261005_162745_db6a_primary.rf.db2b7c744fbb2c4f5e27c63972ee4a16.jpg,0,scissors,plastic,198.7,157.6,0
+20261005_163229_2e78_primary.rf.bc5769f41640002dd9de2c3246361fdb.jpg,0,robotic gripper finger assembly,metal,134.5,132.2,0
+20261005_163328_1a45_primary.rf.b553094462036be64d0ea48ac939791c.jpg,0,robotic gripper finger assembly,metal,144.1,122.8,0
+20261005_163426_88a6_primary.rf.43fb63397e1fcaf0d8ab09b5fb740f0c.jpg,0,robotic gripper finger assembly,metal,162.5,88.0,0
+20261005_163602_e712_primary.rf.c7ea0e829abc400c28ec33c66ff6a524.jpg,0,precision screwdriver,metal,223.6,220.0,0
+20261005_163615_c473_primary.rf.cb6e96ca2418ec7aad90765f9741bc6b.jpg,0,precision screwdriver,metal,219.3,231.9,0
+20261005_163637_1c58_primary.rf.daf13cc281a1d73ddbbcb3959e633233.jpg,0,precision screwdriver,metal,210.5,237.1,0
+20261005_163659_cc42_primary.rf.9b577df4beb0ccc327b8615979da2564.jpg,0,precision screwdriver,metal,208.1,201.4,0
+20261005_163706_0585_primary.rf.12e8af7ccb4de7704660b6f3aeb363e1.jpg,0,precision screwdriver,metal,161.1,149.3,0
+20261005_163729_34e5_primary.rf.942b79e5c479a218a168eef1715dc02f.jpg,0,precision screwdriver,metal,215.0,119.1,0
+20261005_163933_029b_primary.rf.f94f7e2712bbe12d8f4c1c76d8ece232.jpg,0,wireless earbud charging case,plastic,167.7,123.1,0
+20261005_164006_df72_primary.rf.98b6e64d4c4425056d4127f841e6970e.jpg,0,wireless earbud charging case,plastic,139.3,111.9,0
+20261005_164058_0b59_primary.rf.1ec1e1c98fc07e10af3ab3c83d923bcd.jpg,0,wireless earbud charging case,plastic,121.7,76.5,0
+20261005_164117_b920_primary.rf.dd96b5209930bb99cf34895c499fbec4.jpg,0,wireless earbud charging case,plastic,128.8,90.2,0
+20261005_164355_e03e_primary.rf.a7d9e0a7fcb8fde714f9ca9df0f5b68a.jpg,0,wireless earbud charging case,plastic,129.0,75.9,0
+20261005_164446_d12c_primary.rf.a2b2f1e63c97b111d8a4371227bf9cc2.jpg,0,wireless earbud charging case,plastic,78.4,85.3,0
+20261014_153107_28ce_primary.rf.3e5fb13abb3b82ab5dd1fc5adb0c7f81.jpg,0,stapler,metal,89.7,72.7,0
+20261014_153130_7f7e_primary.rf.8b35f65648377a7244ca56e672fc026b.jpg,0,stapler,metal,96.7,63.7,0
+20261014_153138_af2e_primary.rf.392620421e88a5d665b02c43a173fb99.jpg,0,stapler,metal,26.9,82.3,1
+20261014_153147_00c2_primary.rf.df1018bcf46e81fd54b0d9d1b9a81300.jpg,0,stapler,metal,52.4,22.7,0
+20261014_153416_eae7_primary.rf.ed56a5ca03f788f0e4a21ab25ea490b4.jpg,0,stapler,metal,59.6,11.9,0
+20261014_153421_56b1_primary.rf.a784aaae4c7370c5a91c6df91fa531e5.jpg,0,stapler,metal,143.5,60.0,0
+20261014_153502_c58d_primary.rf.b17e358257fd72a502a9229d976e0901.jpg,0,stapler,metal,54.1,45.0,0
+20261014_153556_91b1_primary.rf.d8eb27c66d043bf3c396ddf183ca7809.jpg,0,stapler,metal,93.3,18.3,0
+20261014_153803_49ec_primary.rf.73d45ea70b96be254a7f252018a4d64d.jpg,0,stapler,metal,53.4,4.5,0
+20261014_153828_27ff_primary.rf.a1909c45aed1b687d187c7b4a7e34d49.jpg,0,stapler,metal,50.9,17.3,0
+20261014_153837_1d29_primary.rf.c37bdbe404e8c8abe8a0af846065672a.jpg,0,stapler,metal,140.7,13.3,0
+20261014_153906_be2d_primary.rf.668f37298066478a237f083d3abf0ecc.jpg,0,stapler,metal,60.3,12.2,0
+20261014_154030_090c_primary.rf.05eefaac1c455f9ecc3aef335c0a2233.jpg,0,stapler,metal,64.8,13.5,0
+20261014_154104_a64b_primary.rf.5576fa1239274e4fb5c23bbe15cf01b9.jpg,0,stapler,metal,48.5,12.0,0
+20261014_154129_b43c_primary.rf.cd498590d9171911bdbbb6f462cf2b86.jpg,0,stapler,metal,102.2,13.0,0
+20261014_154440_6d2a_primary.rf.f664cdd795cf466c561470028bf649b6.jpg,0,stapler,metal,76.0,45.5,0
+20261014_154619_6b29_primary.rf.c7958ad19a98df2d1f20f8ba981b95cb.jpg,0,stapler,metal,87.9,36.3,0
+20261014_154652_4a28_primary.rf.f894c36babad4f07f1ce09d78fa50eda.jpg,0,stapler,metal,48.2,38.9,0
+20261014_154720_f26d_primary.rf.6bd0444c64b6b59c9b21f73a7985a8f8.jpg,0,stapler,metal,94.5,55.4,0
+20261014_154733_e46e_primary.rf.3f81517bc2f918864645c0a1c1ed90fc.jpg,0,stapler,metal,107.8,41.7,0
+20261014_154858_8c53_primary.rf.56f57efc2c09b6f10f6679b981f727b9.jpg,0,stapler,metal,46.4,57.0,0
+20261014_154921_2d46_primary.rf.639835b070e74457d44278c0323bc888.jpg,0,stapler,metal,110.8,27.6,0
+20261014_154939_59ee_primary.rf.92291c1532f576664ebe899eefefe692.jpg,0,stapler,metal,92.5,9.3,0
+20261014_155124_0601_primary.rf.95a3898c3603121d6cc76c3eb8c53772.jpg,0,stapler,metal,70.2,32.1,0
+20261014_155213_34e2_primary.rf.6eb58cd71282f1960772165591a7482d.jpg,0,stapler,metal,99.6,30.4,0
+20261014_155249_c7fe_primary.rf.a4cd62d7cc984a66d4aeb51b4c11ba71.jpg,0,stapler,metal,81.7,32.9,0
+20261019_162810_c89f_primary.rf.7da9894b4ad02a4e87cf3c2dd29a2d67.jpg,0,slip joint pliers,metal,101.3,20.0,0
+20261019_162846_67b2_primary.rf.1abe175f2bc6761c78d5b11bde77f8ee.jpg,0,slip joint pliers,metal,48.5,20.6,0
+20261019_162915_f2f2_primary.rf.ba8269e98798b9b013387ba6f934193c.jpg,0,slip joint pliers,metal,10.9,4.9,0
+20261019_162926_7715_primary.rf.db6a5ac58d0b5cdc6397b6eda98c3549.jpg,0,slip joint pliers,metal,58.4,81.4,0
+20261019_163005_72b3_primary.rf.ecb17bb224925d0d5360834b8174bd51.jpg,0,slip joint pliers,metal,5.5,67.5,1
+20261019_163046_c40b_primary.rf.119234f97917ed2211f0ec240b5e56a0.jpg,0,slip joint pliers,metal,81.4,89.1,0
+20261019_163114_4efe_primary.rf.1723cbef7f1792569b01a4e769b118ed.jpg,0,slip joint pliers,plastic,97.0,84.7,0
+20261019_163129_22c9_primary.rf.6546837892d990a0687260ed020c0c34.jpg,0,slip joint pliers,plastic,134.4,95.3,0
+20261019_163214_b747_primary.rf.72aace9794852614d435f3d9f56e48ab.jpg,0,slip joint pliers,plastic,116.8,100.6,0
+20261019_163223_53c9_primary.rf.65c3e8d2b9d35d6926926d7882e1f198.jpg,0,slip joint pliers,plastic,98.1,94.8,0
+20261019_163240_35b0_primary.rf.426b007fc473a264b59f1a2fe7568f8f.jpg,0,slip joint pliers,plastic,85.8,102.7,0
+20261019_163301_3352_primary.rf.3c00dd075ee1ab8525f9cd11fc5d9d0e.jpg,0,slip joint pliers,plastic,106.2,95.4,0
+20261019_163459_3cca_primary.rf.604e7d43e563308c68ea71d4ce37a932.jpg,0,slip joint pliers,metal,59.2,20.1,0
+20261019_163533_d855_primary.rf.8cd3ee64b8dae184d33abd5f72f45813.jpg,0,slip joint pliers,metal,64.1,58.2,0
+20261019_163632_71f5_primary.rf.7061b9c05aa1e0a216f4ba085115c067.jpg,0,slip joint pliers,plastic,120.0,112.4,0
+20261019_163706_b859_primary.rf.c49c4f457f7a43bfb7fe66bbe4cfd464.jpg,0,slip joint pliers,metal,44.4,114.0,1
+20261019_163723_f86a_primary.rf.88edc1c2078d10b11125d5de9c4e56a4.jpg,0,slip joint pliers,plastic,124.4,122.5,0
+20261019_163744_dd43_primary.rf.2ffc06de00b98b816ee0e2fc969c6544.jpg,0,slip joint pliers,metal,79.6,67.4,0
+20261019_163755_b81d_primary.rf.3ed5f76ab64649bf50d3ad6202b7fca0.jpg,0,slip joint pliers,plastic,121.7,115.9,0
+20261019_163808_7386_primary.rf.2586a91c79e9f3dd2a03fbd3ba78b8cc.jpg,0,slip joint pliers,metal,101.1,104.4,0
+20261019_163817_95e8_primary.rf.aabf04ae37390e62ad42639c95a5f02c.jpg,0,slip joint pliers,metal,53.0,113.3,1
+20261019_163824_ee12_primary.rf.c61c2c68bfe22d3e9757cfc2abe61d37.jpg,0,slip joint pliers,metal,42.5,70.4,1
+20261019_164322_d264_primary.rf.9548d1bf768db59c69d017ce4c7b2a67.jpg,0,slip joint pliers,metal,108.9,92.9,0
+20261019_164349_6671_primary.rf.c10f63dd243dbd9c6613d2642cd837e2.jpg,0,slip joint pliers,metal,154.1,98.0,0
+20261019_164430_c73b_primary.rf.ce4c2598d03320d9cd7450f86b534936.jpg,0,slip joint pliers,metal,152.0,59.7,0
+20261019_164441_220d_primary.rf.b939b7cb1bf482f4d9d69f7361e9d22a.jpg,0,slip joint pliers,plastic,167.7,132.9,0
+20261019_164459_1c6f_primary.rf.6c5967a827a89e528f6c70cc3160a121.jpg,0,slip joint pliers,plastic,146.8,120.1,0
+20261019_164525_8b5a_primary.rf.85d1463a95624639dfe8f2e0a2f0b7b6.jpg,0,slip joint pliers,metal,77.4,4.8,0
+20261019_164616_036d_primary.rf.1902232f706d4b6177c9477ac0050ffa.jpg,0,slip joint pliers,plastic,133.4,110.1,0
+20261019_164659_97e9_primary.rf.78a77ab4ec6019b86133eeabffccbe9d.jpg,0,slip joint pliers,plastic,150.4,121.8,0
+20261019_164721_27e3_primary.rf.4601e21d5f7068c8819e13649aac971e.jpg,0,slip joint pliers,metal,112.4,31.6,0
+20261019_164818_76d1_primary.rf.9b9078d68c0d25c2d8d2296ac9f03925.jpg,0,slip joint pliers,plastic,167.3,128.1,0
+20261019_164856_1448_primary.rf.8d0c8f2b3c3d4e41bf85ed03cd392072.jpg,0,slip joint pliers,metal,105.0,10.2,0
+20261019_165049_c081_primary.rf.52b89dae9223fa9a9971f754d3fb7ab0.jpg,0,slip joint pliers,metal,108.4,62.6,0
+20261019_165134_c538_primary.rf.34addcc5c2b3e05c1affd445fba52697.jpg,0,slip joint pliers,metal,101.1,103.0,0
+20261019_165153_a2a0_primary.rf.adac5730698cfa2ea161603d50b07d8d.jpg,0,slip joint pliers,metal,124.0,72.2,0
+20261019_165217_d406_primary.rf.07dc316ca0047d6193e1f278688a7ec6.jpg,0,slip joint pliers,plastic,169.6,128.9,0
+20261019_165244_4f79_primary.rf.0a582ed75d77b319e28d9d97e7dec906.jpg,0,slip joint pliers,metal,121.6,113.9,0
+20261019_165304_3894_primary.rf.af12480a5702d659605c6465be796571.jpg,0,slip joint pliers,metal,74.3,28.6,0
+20261019_165346_dbf7_primary.rf.65a3c04fdb9770badbbead613a173435.jpg,0,slip joint pliers,plastic,174.6,122.8,0
+20261019_165527_54a6_primary.rf.6894e954df70a82796ea150977663451.jpg,0,combination wrench,metal,127.2,74.5,0
+20261019_165540_1d33_primary.rf.768ccbffe37943a4e670b57c1243b210.jpg,0,combination wrench,metal,126.9,66.2,0
+20261019_165602_a086_primary.rf.6ccf1b7a465a0a1233300e48e478c510.jpg,0,combination wrench,metal,114.0,71.3,0
+20261019_165621_65e7_primary.rf.4a583626e9e04356daabdc8e42a3c4cb.jpg,0,combination wrench,metal,120.6,93.2,0
+20261019_165650_efa2_primary.rf.c08eff7b388c3ffb169675a9cb5b32af.jpg,0,combination wrench,metal,121.0,56.0,0
+20261019_165709_d021_primary.rf.76567f4a7a71664bf1673f4f1b429d65.jpg,0,combination wrench,metal,131.5,65.5,0
+20261019_165723_c97d_primary.rf.0138ea370872704aba97179085fbd088.jpg,0,combination wrench,metal,121.6,75.3,0
+20261019_165749_e1db_primary.rf.9a3873cb3306b33cafc2ffa8b3dc3074.jpg,0,combination wrench,metal,119.1,103.6,0
+20261019_165757_b3ba_primary.rf.079a974bc1e734e00ba7235fbf48ff97.jpg,0,combination wrench,metal,117.5,79.2,0
+20261019_165816_aff6_primary.rf.47fa0da2ea28eb0b08a6614b7ed3b816.jpg,0,combination wrench,metal,127.2,75.2,0
+20261019_165832_546d_primary.rf.ffe89dc223198f72420d03139dd1f9cb.jpg,0,combination wrench,metal,135.9,64.5,0
+20261019_165909_6712_primary.rf.be229a495aca6f9f9e6e8f5290403993.jpg,0,combination wrench,metal,115.9,80.0,0
+20261019_165909_8df4_primary.rf.4c907c9e620863900b32c87c8a73d09b.jpg,0,combination wrench,metal,112.6,77.3,0
+20261019_165937_9aa4_primary.rf.b874f3085dfb469222737703ab66c356.jpg,0,combination wrench,metal,120.4,68.8,0
+20261019_165953_ec57_primary.rf.09987933c50d3a104f630350f89d62de.jpg,0,combination wrench,metal,125.5,62.6,0
+20261019_170032_40af_primary.rf.1908ce1f42b8e25da45b081716081767.jpg,0,combination wrench,metal,126.7,67.8,0
+20261019_170103_29c1_primary.rf.a5639f3d0a064980d93f54ff3f8a6ab1.jpg,0,combination wrench,metal,118.9,68.1,0
+20261019_170151_d514_primary.rf.1dc54b1327b9b1bf8092377a29bb0b54.jpg,0,combination wrench,metal,109.0,65.8,0
+20261019_170230_28f6_primary.rf.79bba3b5a7361c1423a03c125dde2277.jpg,0,combination wrench,metal,112.8,78.3,0
+20261019_170308_ec27_primary.rf.3aa1e3fac5f2814d48894a82ffafe7e1.jpg,0,combination wrench,metal,101.8,76.5,0
+20261019_170317_ab6d_primary.rf.294ea88c01e3ba44e956e29c24d89190.jpg,0,combination wrench,metal,109.5,70.6,0
+20261019_170325_f602_primary.rf.c49bc8897150a92c75a56876962c53ca.jpg,0,combination wrench,metal,128.4,66.7,0
+20261019_170347_3d75_primary.rf.025c4bcfeacdde6e0a81ee1f970ae4a8.jpg,0,combination wrench,metal,113.9,83.4,0
+20261019_170359_ec44_primary.rf.d82a498de8d0bc80ea0f582e32401990.jpg,0,combination wrench,metal,130.1,95.4,0
+20261019_170428_ca47_primary.rf.3abbf010001752931ef22cb8d8650335.jpg,0,combination wrench,metal,124.2,115.5,0
+20261019_170536_6f9f_primary.rf.49f1786e7f4b71969ce8e5e502658f0e.jpg,0,combination wrench,metal,131.3,72.5,0
+20261019_170551_6754_primary.rf.9368be72935f4e09de2eab27cf6e6017.jpg,0,combination wrench,metal,146.7,68.2,0
+20261019_170555_4403_primary.rf.74ed3aac81e1684bb29ec6fa59079985.jpg,0,combination wrench,metal,104.0,87.5,0
+20261019_170602_00ce_primary.rf.d389c20300d6c5cbbcb03207bced7a1a.jpg,0,combination wrench,metal,121.5,77.1,0
+20261019_170643_5649_primary.rf.fc11f953678eac0b2ca33fdfd138c93b.jpg,0,combination wrench,metal,61.8,97.5,1
+20261019_170707_95c2_primary.rf.276ab82497fef12e784343638257ca46.jpg,0,combination wrench,metal,116.4,70.6,0
+20261019_170716_7e3c_primary.rf.55cd9d10967eb1ee198e64e1563a15e6.jpg,0,combination wrench,metal,112.1,73.6,0
+20261019_170736_757b_primary.rf.13645b4f41c5976a5e28a9f323a8764e.jpg,0,combination wrench,metal,121.2,85.8,0
+20261019_170826_00f1_primary.rf.2287e916a5c5d9a6842737048fb6f8de.jpg,0,car key fob with keyring,metal,128.9,67.8,0
+20261019_170832_9593_primary.rf.61146cdfe52c22722ee3847fa5499090.jpg,0,car key fob with keyring,plastic,93.0,71.1,0
+20261019_170839_5b02_primary.rf.c61f6458dfa394aadd71e101b227786e.jpg,0,car key fob with keyring,metal,101.0,104.2,0
+20261021_151144_f9bc_primary.rf.1cfe5f6a605b6bc6f93905b1b4962a5e.jpg,0,robotic gripper finger assembly,plastic,77.9,60.0,0
+20261021_151318_62f3_primary.rf.69ee61e7da8f59d13fa810a4b7430c03.jpg,0,robotic gripper finger assembly,plastic,57.9,8.5,0
+20261021_151341_1def_primary.rf.3f8c6c1467fead6fdc865dca0a8764e5.jpg,0,robotic gripper finger assembly,metal,97.0,52.1,0
+20261021_151525_61b6_primary.rf.5afac649f5d64647615841e785dca4ec.jpg,0,robotic gripper finger assembly,metal,95.0,65.0,0
+20261021_151605_9ffe_primary.rf.09900951a7cfdad7fa03892edb465ec6.jpg,0,robotic gripper finger assembly,metal,52.1,10.7,0
+20261021_151750_c1c2_primary.rf.01c252f4eba3e668af905a5154682df9.jpg,0,robotic gripper finger assembly,metal,12.5,79.5,1
+20261021_151846_ead2_primary.rf.5768ca28642334c02b025d176ed5b368.jpg,0,robotic gripper finger assembly,plastic,28.4,19.2,0
+20261021_152040_dde0_primary.rf.d215024da1def0035ad42830db305a29.jpg,0,robotic gripper finger assembly,plastic,71.4,20.6,0
+20261021_152108_d4a8_primary.rf.b83f019e4c21eeec3548ff19bd76382b.jpg,0,robotic gripper finger assembly,plastic,51.6,5.2,0
+20261021_152212_f31b_primary.rf.1b39d347603e7b3ca4fb4bb4db21219c.jpg,0,robotic gripper finger assembly,plastic,65.8,9.3,0
+20261021_152248_c31c_primary.rf.6d1058d847a87c886f4b87f7154e4071.jpg,0,robotic gripper finger assembly,metal,59.3,72.7,0
+20261021_152311_a73e_primary.rf.d6bf8ac6fe5df6ad51094476f9288fc2.jpg,0,robotic gripper finger assembly,metal,85.0,53.2,0
+20261021_152519_66fb_primary.rf.9f16ea3b87b6b9fe507c2c10d2723605.jpg,0,robotic gripper finger assembly,metal,122.6,119.3,0
+20261021_153238_5b7e_primary.rf.c18305d47544cf5c65cb242c1ff39b7e.jpg,0,tree branch,wood,180.1,103.2,0
+20261021_153303_63bd_primary.rf.e80a93d0a622cde0fb2e7327553cfd30.jpg,0,tree branch,wood,182.1,75.2,0
+20261021_153317_48bc_primary.rf.a6347278cd45f10cec98b23d3701a64c.jpg,0,tree branch,wood,183.7,66.7,0
+20261021_153403_ce0e_primary.rf.7a63d5da2535d213db509128d9e7017e.jpg,0,tree branch,wood,179.9,65.3,0
+20261021_153538_0457_primary.rf.025edecab84baeaf6506dfe84d56045c.jpg,0,tree branch,wood,149.0,42.2,0
+20261021_153647_83ea_primary.rf.0e4716de25df95e5c05f1898e373d16c.jpg,0,tree branch,wood,165.9,73.0,0
+20261021_153824_e69e_primary.rf.744b9d2605eb9f4a44d53d09a391acee.jpg,0,tree branch,wood,138.3,80.8,0
+20261021_153917_9823_primary.rf.8424151a51b19f3c3ebcf493dd1818a8.jpg,0,tree branch,wood,179.3,57.7,0
+20261021_153944_16e8_primary.rf.a63381dea8e01a24fb1a99161bdabe6c.jpg,0,tree branch,wood,156.6,93.5,0
+20261021_154108_899e_primary.rf.35c7358b9f48ff7fc496c363a5383d9a.jpg,0,tree branch,wood,157.3,94.0,0
+20261021_154128_cf4c_primary.rf.127c37548c5060271cbe615b6e5b964b.jpg,0,tree branch,wood,150.7,91.7,0
+20261021_154221_95ae_primary.rf.b3a8c75c2dfbc8f1d4b7d4e4fb35c7d0.jpg,0,tree branch,wood,115.1,53.4,0
+20261021_154246_d308_primary.rf.84dcd4a070416bb6447331a88c2250f3.jpg,0,tree branch,wood,169.4,96.8,0
+20261021_154419_e6ee_primary.rf.50c063af0e504246f18c8c6c4cb49d0a.jpg,0,tree branch,wood,148.7,79.9,0
+20261021_154646_bb11_primary.rf.14aeba16f844691067d5c3ea5f95b6e6.jpg,0,tree branch,wood,163.7,59.1,0
+20261021_154740_1317_primary.rf.74359e4c6a6bedb8c96bcb6c575c2d91.jpg,0,tree branch,wood,187.2,78.8,0
+20261021_154745_f7b4_primary.rf.811194b5a61e5a9fa1ae23a6959cccf7.jpg,0,tree branch,wood,140.4,80.9,0
+20261021_154814_09e4_primary.rf.ab8e13fedce5f3b8cbcf205424dbd86d.jpg,0,tree branch,wood,180.3,100.7,0
+20261021_154830_8a2d_primary.rf.821db6130de74c3bc2beec9b48c09e97.jpg,0,tree branch,wood,185.7,101.9,0
+20261021_154838_dee5_primary.rf.934df0fee27f3c900b2a7cf9b89378c9.jpg,0,tree branch,wood,158.2,64.2,0
+20261021_154851_a43e_primary.rf.153e9e788860614ff7e1a2d11f47497c.jpg,0,tree branch,wood,164.8,101.1,0
+20261021_154939_90a6_primary.rf.0938355216a69d6d6921c97ba5c923ea.jpg,0,tree branch,wood,190.9,55.1,0
+20261021_155010_232e_primary.rf.efb1a532a58f42a08d8f38c525472677.jpg,0,tree branch,wood,172.7,89.6,0
+20261021_155046_4ce4_primary.rf.254b983662eb222526ec59af7e4b79be.jpg,0,tree branch,wood,177.6,56.5,0
+20261021_155142_8b58_primary.rf.61985915a4c082164765285c30b5ecba.jpg,0,tree branch,wood,184.5,89.7,0
+20261021_155327_a299_primary.rf.b5b74b7a78cfeada576e3bbf54c344e5.jpg,0,tree branch,wood,143.8,79.4,0
+20261021_155339_feb9_primary.rf.61f04a28d47dc1546769a967c6e2e80f.jpg,0,tree branch,wood,190.7,79.6,0
+20261021_155417_4abe_primary.rf.89befb0e697214c2be56806857410fdd.jpg,0,tree branch,wood,169.4,54.5,0
+20261021_155620_ba06_primary.rf.26663930bbcaf1bd708a042ae21db4ad.jpg,0,tree branch,wood,135.0,66.9,0
+20261021_155710_351e_primary.rf.7a5df5d501b8fd924ff0050ade36423f.jpg,0,tree branch,wood,175.0,124.0,0
+20261021_155751_e393_primary.rf.9b1b63d407bc9aeb50c15b783e121709.jpg,0,tree branch,wood,123.6,61.9,0
+20261021_155839_d2ef_primary.rf.61c4d38a0e581a6bad09966d639a1ddd.jpg,0,tree branch,wood,118.6,64.6,0
+20261021_160128_95ee_primary.rf.fa006fc8a151d56cb30f0bf20d391731.jpg,0,rock,stone,102.1,42.2,0
+20261021_162714_0c86_primary.rf.462953b1889311369214b91441a35ec4.jpg,0,rock,stone,77.3,25.4,0
+20261021_163019_6725_primary.rf.6e2c550d8d241f23725e1137a45180f5.jpg,0,rock,stone,93.6,29.6,0
+20261021_163027_b120_primary.rf.d9479d10cebae92f5aefd4dd00998fe3.jpg,0,rock,stone,106.3,85.0,0
+20261021_163033_9ef7_primary.rf.14d7c2565c9ec38047fd8fe70b954115.jpg,0,rock,stone,108.9,44.5,0
+20261021_163115_ff9a_primary.rf.736439fc61bdada922332dd14ba98d9d.jpg,0,rock,stone,127.1,49.4,0
+20261021_163238_6cfe_primary.rf.5895d327bade90b8ed6004641158ad25.jpg,0,rock,stone,146.8,53.3,0
+20261021_163305_14d4_primary.rf.ace7b2fa1d503759d8f22f41c23c5c48.jpg,0,rock,stone,155.0,59.6,0
+20261021_163331_1ed2_primary.rf.89b39279abca4028445f073442ea82f6.jpg,0,rock,stone,102.2,84.2,0
+20261021_163443_f79b_primary.rf.ce20818e67335deacae8e82eb2752730.jpg,0,rock,stone,108.6,33.2,0
+20261021_163449_435e_primary.rf.ca8e059d821a436af0dc500efeaf8125.jpg,0,rock,stone,125.5,29.7,0
+20261021_163454_ae81_primary.rf.b9ec60abb497fd8a07c91bc2304e64f8.jpg,0,rock,stone,87.8,7.3,0
+20261021_163550_6404_primary.rf.7ce28ac21a90165b9e4c5623ec2ff41e.jpg,0,rock,stone,100.9,30.4,0
+20261021_163623_a485_primary.rf.113b0e0e2e0a3c51120dffee191bd8c6.jpg,0,rock,stone,109.7,30.7,0
+20261021_163714_eb62_primary.rf.75fbc4857aa87376ac531c49899c101f.jpg,0,rock,stone,94.0,35.6,0
+20261021_163724_18fd_primary.rf.845fe6b53b1a4cc1836bea74630874cf.jpg,0,rock,stone,96.8,40.8,0
+20261021_163809_2ee1_primary.rf.19d5acd0f8419aa0a6ba46821f58dd18.jpg,0,rock,stone,99.8,49.5,0
+20261021_163906_7943_primary.rf.5f25c493f9753f3e2b1c98a2cd96b408.jpg,0,rock,stone,121.6,54.5,0
+20261021_163920_af25_primary.rf.ec77197f2afa1d798e35e25f1624e3f3.jpg,0,rock,stone,95.1,44.6,0
+20261021_163940_2fde_primary.rf.e38d3ba50f289a1b75e679a6dcef6171.jpg,0,rock,stone,89.4,32.3,0
+20261021_164005_bbc1_primary.rf.20dbbf1fb1f1396f61c2e1da6ac8eff0.jpg,0,rock,stone,75.8,25.2,0
+20261021_164008_2297_primary.rf.262f933d48fbcec26314eef1ae002694.jpg,0,rock,stone,103.7,49.5,0
+20261021_164010_5f4c_primary.rf.d491d8fc26b0a9815b4c9d90ccb4d6ae.jpg,0,rock,stone,106.8,52.4,0
+20261021_164055_f19d_primary.rf.e3fb75fd7ad165eb6400ceed6d5b79d0.jpg,0,rock,stone,138.8,52.4,0
+20261021_164234_0702_primary.rf.4c1695c3781bfc50eeb40c2bb49328f9.jpg,0,rock,stone,131.9,52.7,0
