@@ -1,0 +1,72 @@
+scan_id,label,material_class,angle_index,pred_L_logreg,pred_A2_logreg
+00ce56e7-a315-4982-8222-2f4d548585a4,clear plastic bag,plastic,1.0,plastic,plastic
+02158ef9-f327-4d13-b754-5bad06fe2d15,white plastic 01,plastic,1.0,plastic,plastic
+0329e6dd-041e-436b-b6fb-25ef7610c270,power strip,plastic,2.0,plastic,metal
+0356c0f0-13e3-4fe1-a067-b8496cb5fd7d,paper manual,paper,1.0,cardboard,plastic
+040c14d0-93e2-4e70-870f-8ef24a3d9f44,cardboard piece 01,cardboard,2.0,plastic,metal
+049b73bd-c7bd-47f5-88b2-97c5fb504584,cardboard box,cardboard,2.0,plastic,plastic
+07e20ae1-e554-4bb5-b25d-2907a0b887ed,red plastic lid,plastic,1.0,cardboard,paper
+0a1c5737-0010-4c38-a1a6-0101f1808ad6,thermal grease tube,plastic,2.0,metal,plastic
+1065c588-8541-49cf-aa92-716d471dbd72,plastic circular container,plastic,1.0,metal,plastic
+161f658f-cdd5-4731-95f3-b817dcff41ef,clear plastic case,plastic,2.0,metal,plastic
+1927b273-ff84-42e2-a4fd-c17ccb64c7bb,electronic metal backing,metal,2.0,plastic,plastic
+1abe25e2-ed62-4647-bf0f-0a165dc27a94,shiny plastic pouch,plastic,2.0,metal,foam
+1d454012-257c-4002-89d3-65c04acf2a8a,green laser glasses,plastic,1.0,cardboard,plastic
+20695b5d-3f5b-486a-8910-968e3a4a1b81,plastic razor container,plastic,2.0,metal,plastic
+391803f6-082b-466a-aaae-3ba95ac7f332,unfinished metal block,metal,1.0,plastic,metal
+3f3a575a-4b6c-4180-93e7-3c7f550bb2d9,electronic metal backing,metal,1.0,plastic,plastic
+3f9558b6-321d-4687-934d-c9ae7b34accc,white breadboard 01,plastic,1.0,metal,metal
+4652eaed-a354-417d-8640-c19d23561f11,shiny plastic pouch,plastic,1.0,plastic,plastic
+487a6b1a-70e2-4437-bba1-52fbd3907eaa,yellow plastic mold,plastic,1.0,foam,plastic
+4d3856b4-a554-414f-bc2c-85d47b54f522,taped breadboard,foam,1.0,plastic,plastic
+4e8413c6-2a36-4911-b618-42dc49fdb905,white packing foam,foam,1.0,cardboard,plastic
+500fe62d-eda3-4497-a443-b085f65acacc,spotted paper sheet,paper,1.0,metal,plastic
+509d718e-8b93-4ca3-87be-7900503956ad,polished metal 01,metal,1.0,cardboard,paper
+50da7ffe-7dc6-4f62-b2a1-911818f99c33,thermal grease tube,plastic,1.0,plastic,plastic
+52b7cebf-542e-41c3-a775-7aa1e66063d8,metal block,metal,2.0,metal,metal
+53ac6911-4857-4449-bd7c-45e00dbe64cd,white breadboard 01,plastic,2.0,plastic,foam
+5521aa02-9490-43b4-9bba-2c1fb4efed03,white breadboard 01,plastic,2.0,plastic,metal
+66bb44b5-d227-4538-aaa0-1e25cb7b1a6d,green laser glasses,plastic,2.0,plastic,plastic
+66eb27e2-aeca-49c2-ba67-d4dd0be0be40,unfinished metal block,metal,2.0,plastic,metal
+68936b10-67b9-4be3-9631-53838b2cdb3f,taped black metal,paper,2.0,paper,plastic
+6b04ed9c-8897-44d9-8c77-27d3e44ce5cc,cardboard piece 01,cardboard,2.0,metal,plastic
+72b2d2c2-b585-4d4a-a519-351d3b824c29,white breadboard 01,plastic,,cardboard,cardboard
+76bb2b41-fa95-4955-8051-bc3b9b88240d,taped black metal,paper,1.0,paper,plastic
+79bbcd8b-3d81-4c9b-b006-4d5a2a509ef4,white packing foam,foam,2.0,plastic,plastic
+7cd17b1f-904a-4c06-885c-1c88786756ab,black plastic box,plastic,2.0,paper,paper
+853734f8-a5c7-4dc6-8108-5387ca523543,metal bar,metal,1.0,paper,metal
+88c10310-2a10-4d2d-b4cb-b8c9890a96bf,soft-touch plastic circle,plastic,2.0,plastic,plastic
+8bc645fa-da2f-4ff4-beb8-bdc1ea9f9063,taped breadboard,foam,2.0,metal,plastic
+8be7f946-c663-46ab-bbd6-830b6c698388,box cutter razors,metal,2.0,metal,metal
+8c80b613-c371-4f3d-bbb0-983e5dfeb5fa,metal block,metal,1.0,metal,metal
+8d61bd49-0793-42ab-9849-401a9b83fb64,box cutter razors,metal,1.0,metal,metal
+95ac63c9-ae27-4e6e-b360-49edf5b727ac,black plastic plate,plastic,1.0,plastic,metal
+9b65aa9b-cada-418f-9dfa-74daf5b59607,white airpods case,plastic,1.0,plastic,plastic
+9d4c8fd6-4e07-4268-90d3-2abe61b13a3e,polished metal 01,metal,1.0,metal,plastic
+9d6f900d-78a9-4727-be56-720129187996,black metal piece,metal,2.0,metal,metal
+a04d6d23-4c95-43f9-965e-6a5498756ebb,black plastic box,plastic,1.0,paper,paper
+a28c2f68-a888-4dbd-9f71-b51b3aee1e3a,polished metal 01,metal,2.0,cardboard,plastic
+a38d14e5-7c4b-4aaa-8682-3d003f025e9c,cardboard piece 01,cardboard,1.0,metal,metal
+a60bf5af-f976-4c83-ab0c-370cbe95c002,polished metal 01,metal,,plastic,cardboard
+af35f331-efe1-485a-b9c2-39d6bf966f80,metal bar,metal,2.0,metal,metal
+badfd0f9-be4c-4662-8d94-ca53819b8119,clear plastic bag,plastic,2.0,foam,plastic
+c366c620-ed3a-47a4-b2e0-a1642d2d3e9f,white breadboard 01,plastic,1.0,metal,foam
+c42793b2-13be-493b-8f7c-355fb6b256ef,plastic razor container,plastic,1.0,plastic,plastic
+c5b1fe8b-a0ea-4fe1-8fe1-1dc663086df8,yellow plastic mold,plastic,2.0,metal,foam
+c7f833bc-1057-41df-9d46-94ea2f30b370,power strip,plastic,1.0,plastic,plastic
+c8e15009-3347-4fbb-9aa3-af2b1ae932d2,polished metal 01,metal,2.0,plastic,plastic
+d3dc06bc-4e7c-45a8-aac8-d3a9e0dc52e8,white plastic 01,plastic,2.0,plastic,plastic
+d6fbed50-c8a0-4252-a4d2-50b9695bbb82,paper manual,paper,2.0,metal,plastic
+d8bb835a-0d7e-4262-b204-3af3d6daf9d4,spotted paper sheet,paper,2.0,metal,plastic
+df7b233f-cc5d-4df1-858c-4b8adecdfe67,cardboard piece 01,cardboard,1.0,plastic,plastic
+e07d8505-b4f4-40af-ba05-975265c3f560,red plastic lid,plastic,2.0,cardboard,paper
+e3effe2f-9078-489a-ad0b-367c80f8df52,black metal piece,metal,1.0,paper,metal
+e8062997-7e0d-4749-9769-ff72ad58d6b9,soft-touch plastic circle,plastic,1.0,plastic,plastic
+e92fd5c1-69df-4d9e-bcb9-8c7f9d7ad9e3,plastic circular container,plastic,2.0,plastic,plastic
+eb4a87b0-45cf-4c1f-8a5f-3bf69f971217,black plastic plate,plastic,2.0,plastic,plastic
+f06efd79-1280-4e8f-97ff-2d6b2352e39b,cardboard piece 01,cardboard,,plastic,plastic
+f1571f90-1a75-4cba-a48f-b2f096f9089f,metal pot,metal,2.0,plastic,plastic
+f56fedf2-e2c2-44ce-a2eb-c94159f89104,metal pot,metal,1.0,cardboard,plastic
+f9b20c9c-bc23-48b3-be82-43aaab7e5282,cardboard box,cardboard,1.0,metal,plastic
+ff5b4387-7dd7-43c4-8c74-b2e5a39c9db6,white airpods case,plastic,2.0,plastic,plastic
+ff5d3edb-3513-4906-acae-98caf88b40dd,clear plastic case,plastic,1.0,plastic,plastic

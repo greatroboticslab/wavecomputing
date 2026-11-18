@@ -1,0 +1,1189 @@
+{
+ "dropped_features": [],
+ "n_laser_features": 78,
+ "n_scans_laser": 80,
+ "n_scans_analysed": 79,
+ "objects_per_material": {
+  "cardboard": 2,
+  "fabric": 1,
+  "fiberglass cloth press": 1,
+  "foam": 2,
+  "metal": 8,
+  "paper": 3,
+  "plastic": 16,
+  "stone": 1,
+  "wood": 1
+ },
+ "primary_materials": [
+  "cardboard",
+  "foam",
+  "metal",
+  "paper",
+  "plastic"
+ ],
+ "leak_free": {
+  "L/logreg": {
+   "n_scans": 71,
+   "n_objects": 31,
+   "balanced_accuracy": 0.248922305764411,
+   "macro_f1": 0.24839218541439143,
+   "object_accuracy": 0.5161290322580645,
+   "object_balanced_accuracy": 0.30416666666666664,
+   "recall": {
+    "cardboard": 0.0,
+    "foam": 0.0,
+    "metal": 0.3684210526315789,
+    "paper": 0.3333333333333333,
+    "plastic": 0.5428571428571428
+   },
+   "labels": [
+    "cardboard",
+    "foam",
+    "metal",
+    "paper",
+    "plastic"
+   ],
+   "confusion": [
+    [
+     0,
+     0,
+     3,
+     0,
+     4
+    ],
+    [
+     1,
+     0,
+     1,
+     0,
+     2
+    ],
+    [
+     3,
+     0,
+     7,
+     2,
+     7
+    ],
+    [
+     1,
+     0,
+     3,
+     2,
+     0
+    ],
+    [
+     4,
+     2,
+     8,
+     2,
+     19
+    ]
+   ],
+   "balanced_accuracy_ci95": [
+    0.1461521739130435,
+    0.43097444899012227
+   ]
+  },
+  "L/rf": {
+   "n_scans": 71,
+   "n_objects": 31,
+   "balanced_accuracy": 0.21353383458646613,
+   "macro_f1": 0.18186813186813186,
+   "object_accuracy": 0.4838709677419355,
+   "object_balanced_accuracy": 0.2125,
+   "recall": {
+    "cardboard": 0.0,
+    "foam": 0.0,
+    "metal": 0.21052631578947367,
+    "paper": 0.0,
+    "plastic": 0.8571428571428571
+   },
+   "labels": [
+    "cardboard",
+    "foam",
+    "metal",
+    "paper",
+    "plastic"
+   ],
+   "confusion": [
+    [
+     0,
+     0,
+     4,
+     0,
+     3
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     4
+    ],
+    [
+     2,
+     0,
+     4,
+     0,
+     13
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     6
+    ],
+    [
+     0,
+     0,
+     5,
+     0,
+     30
+    ]
+   ],
+   "balanced_accuracy_ci95": [
+    0.16086449275362322,
+    0.3438857933837958
+   ]
+  },
+  "A1/logreg": {
+   "n_scans": 71,
+   "n_objects": 31,
+   "balanced_accuracy": 0.03333333333333333,
+   "macro_f1": 0.02222222222222222,
+   "object_accuracy": 0.0,
+   "object_balanced_accuracy": 0.0,
+   "recall": {
+    "cardboard": 0.0,
+    "foam": 0.0,
+    "metal": 0.0,
+    "paper": 0.16666666666666666,
+    "plastic": 0.0
+   },
+   "labels": [
+    "cardboard",
+    "foam",
+    "metal",
+    "paper",
+    "plastic"
+   ],
+   "confusion": [
+    [
+     0,
+     1,
+     2,
+     2,
+     2
+    ],
+    [
+     2,
+     0,
+     0,
+     0,
+     2
+    ],
+    [
+     7,
+     1,
+     0,
+     4,
+     7
+    ],
+    [
+     1,
+     0,
+     3,
+     1,
+     1
+    ],
+    [
+     3,
+     17,
+     10,
+     5,
+     0
+    ]
+   ],
+   "balanced_accuracy_ci95": [
+    0.0,
+    0.1
+   ]
+  },
+  "A1/rf": {
+   "n_scans": 71,
+   "n_objects": 31,
+   "balanced_accuracy": 0.18406015037593987,
+   "macro_f1": 0.17608909269570913,
+   "object_accuracy": 0.41935483870967744,
+   "object_balanced_accuracy": 0.1875,
+   "recall": {
+    "cardboard": 0.0,
+    "foam": 0.0,
+    "metal": 0.2631578947368421,
+    "paper": 0.0,
+    "plastic": 0.6571428571428571
+   },
+   "labels": [
+    "cardboard",
+    "foam",
+    "metal",
+    "paper",
+    "plastic"
+   ],
+   "confusion": [
+    [
+     0,
+     0,
+     7,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     4
+    ],
+    [
+     5,
+     0,
+     5,
+     2,
+     7
+    ],
+    [
+     0,
+     0,
+     4,
+     0,
+     2
+    ],
+    [
+     2,
+     2,
+     8,
+     0,
+     23
+    ]
+   ],
+   "balanced_accuracy_ci95": [
+    0.12104957160342718,
+    0.29404434974747473
+   ]
+  },
+  "A2/logreg": {
+   "n_scans": 71,
+   "n_objects": 31,
+   "balanced_accuracy": 0.23097744360902253,
+   "macro_f1": 0.22567811934900545,
+   "object_accuracy": 0.5161290322580645,
+   "object_balanced_accuracy": 0.2625,
+   "recall": {
+    "cardboard": 0.0,
+    "foam": 0.0,
+    "metal": 0.5263157894736842,
+    "paper": 0.0,
+    "plastic": 0.6285714285714286
+   },
+   "labels": [
+    "cardboard",
+    "foam",
+    "metal",
+    "paper",
+    "plastic"
+   ],
+   "confusion": [
+    [
+     0,
+     0,
+     2,
+     0,
+     5
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     4
+    ],
+    [
+     1,
+     0,
+     10,
+     1,
+     7
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     6
+    ],
+    [
+     1,
+     4,
+     4,
+     4,
+     22
+    ]
+   ],
+   "balanced_accuracy_ci95": [
+    0.15151515151515152,
+    0.3859450483091783
+   ]
+  },
+  "A2/rf": {
+   "n_scans": 71,
+   "n_objects": 31,
+   "balanced_accuracy": 0.22015037593984962,
+   "macro_f1": 0.1806930693069307,
+   "object_accuracy": 0.5806451612903226,
+   "object_balanced_accuracy": 0.25,
+   "recall": {
+    "cardboard": 0.0,
+    "foam": 0.0,
+    "metal": 0.15789473684210525,
+    "paper": 0.0,
+    "plastic": 0.9428571428571428
+   },
+   "labels": [
+    "cardboard",
+    "foam",
+    "metal",
+    "paper",
+    "plastic"
+   ],
+   "confusion": [
+    [
+     0,
+     0,
+     0,
+     0,
+     7
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     4
+    ],
+    [
+     0,
+     0,
+     3,
+     0,
+     16
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     6
+    ],
+    [
+     0,
+     0,
+     2,
+     0,
+     33
+    ]
+   ],
+   "balanced_accuracy_ci95": [
+    0.18181818181818182,
+    0.34375
+   ]
+  },
+  "L+A2/logreg": {
+   "n_scans": 71,
+   "n_objects": 31,
+   "balanced_accuracy": 0.23669172932330826,
+   "macro_f1": 0.2341027550260611,
+   "object_accuracy": 0.5483870967741935,
+   "object_balanced_accuracy": 0.275,
+   "recall": {
+    "cardboard": 0.0,
+    "foam": 0.0,
+    "metal": 0.5263157894736842,
+    "paper": 0.0,
+    "plastic": 0.6571428571428571
+   },
+   "labels": [
+    "cardboard",
+    "foam",
+    "metal",
+    "paper",
+    "plastic"
+   ],
+   "confusion": [
+    [
+     0,
+     0,
+     2,
+     1,
+     4
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     4
+    ],
+    [
+     1,
+     0,
+     10,
+     1,
+     7
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     6
+    ],
+    [
+     1,
+     3,
+     3,
+     5,
+     23
+    ]
+   ],
+   "balanced_accuracy_ci95": [
+    0.15724378881987577,
+    0.3958554536679536
+   ]
+  },
+  "L+A2/rf": {
+   "n_scans": 71,
+   "n_objects": 31,
+   "balanced_accuracy": 0.18285714285714286,
+   "macro_f1": 0.12673267326732673,
+   "object_accuracy": 0.5161290322580645,
+   "object_balanced_accuracy": 0.2,
+   "recall": {
+    "cardboard": 0.0,
+    "foam": 0.0,
+    "metal": 0.0,
+    "paper": 0.0,
+    "plastic": 0.9142857142857143
+   },
+   "labels": [
+    "cardboard",
+    "foam",
+    "metal",
+    "paper",
+    "plastic"
+   ],
+   "confusion": [
+    [
+     0,
+     0,
+     2,
+     0,
+     5
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     4
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     19
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     6
+    ],
+    [
+     0,
+     0,
+     3,
+     0,
+     32
+    ]
+   ],
+   "balanced_accuracy_ci95": [
+    0.1631578947368421,
+    0.28165229885057447
+   ]
+  }
+ },
+ "leaky": {
+  "L/logreg": [
+   0.4658270676691728,
+   0.03805167630387311
+  ],
+  "L/rf": [
+   0.3692380952380952,
+   0.027744757555015848
+  ],
+  "A2/logreg": [
+   0.7775588972431078,
+   0.04496129215195743
+  ]
+ },
+ "paired": {
+  "L-A2/logreg": {
+   "difference": 0.017944862155388458,
+   "ci95": [
+    -0.11807594797178132,
+    0.16918749999999985
+   ],
+   "mcnemar_objects": {
+    "first_only": 3,
+    "second_only": 3,
+    "p": 1.0
+   }
+  },
+  "L-A1/logreg": {
+   "difference": 0.21558897243107766,
+   "ci95": [
+    0.0696853146853147,
+    0.42319376361655764
+   ],
+   "mcnemar_objects": {
+    "first_only": 16,
+    "second_only": 0,
+    "p": 3.0517578125e-05
+   }
+  }
+ },
+ "metal_vs_not": {
+  "n_scans": 79,
+  "n_objects": 35,
+  "balanced_accuracy": 0.5438596491228069,
+  "macro_f1": 0.5305731263178072,
+  "object_accuracy": 0.6285714285714286,
+  "object_balanced_accuracy": 0.5393518518518519,
+  "recall": {
+   "metal": 0.42105263157894735,
+   "not metal": 0.6666666666666666
+  },
+  "labels": [
+   "metal",
+   "not metal"
+  ],
+  "confusion": [
+   [
+    8,
+    11
+   ],
+   [
+    20,
+    40
+   ]
+  ],
+  "object_accuracy_ci95": [
+   0.4492311641873227,
+   0.785267881885611
+  ]
+ },
+ "exploratory": {
+  "all_materials/L/logreg": {
+   "n_scans": 79,
+   "n_objects": 35,
+   "balanced_accuracy": 0.1102478418267892,
+   "macro_f1": 0.10862354892205639,
+   "object_accuracy": 0.4,
+   "object_balanced_accuracy": 0.14814814814814814,
+   "recall": {
+    "cardboard": 0.0,
+    "fabric": 0.0,
+    "fiberglass cloth press": 0.0,
+    "foam": 0.0,
+    "metal": 0.3684210526315789,
+    "paper": 0.16666666666666666,
+    "plastic": 0.45714285714285713,
+    "stone": 0.0,
+    "wood": 0.0
+   },
+   "labels": [
+    "cardboard",
+    "fabric",
+    "fiberglass cloth press",
+    "foam",
+    "metal",
+    "paper",
+    "plastic",
+    "stone",
+    "wood"
+   ],
+   "confusion": [
+    [
+     0,
+     0,
+     0,
+     0,
+     3,
+     0,
+     4,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     2,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     2,
+     0,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     2,
+     0,
+     1
+    ],
+    [
+     2,
+     0,
+     1,
+     0,
+     7,
+     1,
+     7,
+     1,
+     0
+    ],
+    [
+     1,
+     1,
+     0,
+     0,
+     1,
+     1,
+     2,
+     0,
+     0
+    ],
+    [
+     4,
+     1,
+     1,
+     2,
+     8,
+     2,
+     16,
+     0,
+     1
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     2,
+     0,
+     0,
+     0,
+     0
+    ],
+    [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0
+    ]
+   ]
+  },
+  "all_materials/A2/logreg": {
+   "n_scans": 79,
+   "n_objects": 35,
+   "balanced_accuracy": 0.14419381787802837,
+   "macro_f1": 0.1427802714124472,
+   "object_accuracy": 0.45714285714285713,
+   "object_balanced_accuracy": 0.14583333333333334,
+   "recall": {
+    "cardboard": 0.14285714285714285,
+    "fabric": 0.0,
+    "fiberglass cloth press": 0.0,
+    "foam": 0.0,
+    "metal": 0.5263157894736842,
+    "paper": 0.0,
+    "plastic": 0.6285714285714286,
+    "stone": 0.0,
+    "wood": 0.0
+   },
+   "labels": [
+    "cardboard",
+    "fabric",
+    "fiberglass cloth press",
+    "foam",
+    "metal",
+    "paper",
+    "plastic",
+    "stone",
+    "wood"
+   ],
+   "confusion": [
+    [
+     1,
+     0,
+     0,
+     0,
+     1,
+     0,
+     5,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     2,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     2,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     4,
+     0,
+     0
+    ],
+    [
+     1,
+     0,
+     0,
+     0,
+     10,
+     1,
+     7,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     6,
+     0,
+     0
+    ],
+    [
+     1,
+     0,
+     0,
+     4,
+     4,
+     4,
+     22,
+     0,
+     0
+    ],
+    [
+     2,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     2,
+     0
+    ]
+   ]
+  },
+  "channel_1_only/logreg": {
+   "n_scans": 71,
+   "n_objects": 31,
+   "balanced_accuracy": 0.12205513784461153,
+   "macro_f1": 0.12666666666666665,
+   "object_accuracy": 0.22580645161290322,
+   "object_balanced_accuracy": 0.16666666666666666,
+   "recall": {
+    "cardboard": 0.0,
+    "foam": 0.0,
+    "metal": 0.15789473684210525,
+    "paper": 0.16666666666666666,
+    "plastic": 0.2857142857142857
+   },
+   "labels": [
+    "cardboard",
+    "foam",
+    "metal",
+    "paper",
+    "plastic"
+   ],
+   "confusion": [
+    [
+     0,
+     0,
+     1,
+     0,
+     6
+    ],
+    [
+     1,
+     0,
+     0,
+     0,
+     3
+    ],
+    [
+     4,
+     1,
+     3,
+     7,
+     4
+    ],
+    [
+     0,
+     0,
+     3,
+     1,
+     2
+    ],
+    [
+     6,
+     9,
+     4,
+     6,
+     10
+    ]
+   ]
+  },
+  "channel_2_only/logreg": {
+   "n_scans": 71,
+   "n_objects": 31,
+   "balanced_accuracy": 0.17834586466165414,
+   "macro_f1": 0.17640941434044882,
+   "object_accuracy": 0.2903225806451613,
+   "object_balanced_accuracy": 0.1375,
+   "recall": {
+    "cardboard": 0.2857142857142857,
+    "foam": 0.0,
+    "metal": 0.2631578947368421,
+    "paper": 0.0,
+    "plastic": 0.34285714285714286
+   },
+   "labels": [
+    "cardboard",
+    "foam",
+    "metal",
+    "paper",
+    "plastic"
+   ],
+   "confusion": [
+    [
+     2,
+     0,
+     2,
+     1,
+     2
+    ],
+    [
+     1,
+     0,
+     1,
+     0,
+     2
+    ],
+    [
+     6,
+     1,
+     5,
+     3,
+     4
+    ],
+    [
+     0,
+     0,
+     3,
+     0,
+     3
+    ],
+    [
+     5,
+     8,
+     6,
+     4,
+     12
+    ]
+   ]
+  },
+  "channel_3_only/logreg": {
+   "n_scans": 71,
+   "n_objects": 31,
+   "balanced_accuracy": 0.16290726817042606,
+   "macro_f1": 0.16693208430913348,
+   "object_accuracy": 0.3225806451612903,
+   "object_balanced_accuracy": 0.2333333333333333,
+   "recall": {
+    "cardboard": 0.0,
+    "foam": 0.0,
+    "metal": 0.05263157894736842,
+    "paper": 0.3333333333333333,
+    "plastic": 0.42857142857142855
+   },
+   "labels": [
+    "cardboard",
+    "foam",
+    "metal",
+    "paper",
+    "plastic"
+   ],
+   "confusion": [
+    [
+     0,
+     2,
+     4,
+     0,
+     1
+    ],
+    [
+     1,
+     0,
+     3,
+     0,
+     0
+    ],
+    [
+     2,
+     7,
+     1,
+     1,
+     8
+    ],
+    [
+     1,
+     0,
+     1,
+     2,
+     2
+    ],
+    [
+     2,
+     6,
+     7,
+     5,
+     15
+    ]
+   ]
+  },
+  "channel_4_only/logreg": {
+   "n_scans": 71,
+   "n_objects": 31,
+   "balanced_accuracy": 0.1592982456140351,
+   "macro_f1": 0.1431768610715979,
+   "object_accuracy": 0.1935483870967742,
+   "object_balanced_accuracy": 0.14166666666666666,
+   "recall": {
+    "cardboard": 0.0,
+    "foam": 0.0,
+    "metal": 0.2631578947368421,
+    "paper": 0.3333333333333333,
+    "plastic": 0.2
+   },
+   "labels": [
+    "cardboard",
+    "foam",
+    "metal",
+    "paper",
+    "plastic"
+   ],
+   "confusion": [
+    [
+     0,
+     1,
+     1,
+     0,
+     5
+    ],
+    [
+     0,
+     0,
+     0,
+     1,
+     3
+    ],
+    [
+     2,
+     0,
+     5,
+     5,
+     7
+    ],
+    [
+     2,
+     1,
+     1,
+     2,
+     0
+    ],
+    [
+     7,
+     4,
+     11,
+     6,
+     7
+    ]
+   ]
+  },
+  "without_possibly_mislabelled/L/logreg": {
+   "n_scans": 67,
+   "n_objects": 29,
+   "balanced_accuracy": 0.18796992481203006,
+   "macro_f1": 0.19119785686949867,
+   "object_accuracy": 0.4827586206896552,
+   "object_balanced_accuracy": 0.2125,
+   "recall": {
+    "cardboard": 0.0,
+    "foam": 0.0,
+    "metal": 0.3684210526315789,
+    "paper": 0.0,
+    "plastic": 0.5714285714285714
+   },
+   "labels": [
+    "cardboard",
+    "foam",
+    "metal",
+    "paper",
+    "plastic"
+   ],
+   "confusion": [
+    [
+     0,
+     0,
+     3,
+     0,
+     4
+    ],
+    [
+     1,
+     0,
+     0,
+     0,
+     1
+    ],
+    [
+     3,
+     0,
+     7,
+     2,
+     7
+    ],
+    [
+     1,
+     0,
+     3,
+     0,
+     0
+    ],
+    [
+     5,
+     1,
+     7,
+     2,
+     20
+    ]
+   ]
+  }
+ },
+ "predictions": {
+  "P1": {
+   "rule": "L/logreg leak-free balanced accuracy: lower 95% bound > 0.20 (chance)",
+   "value": 0.1461521739130435,
+   "supported": false
+  },
+  "P2": {
+   "rule": "leaky mean minus leak-free balanced accuracy >= 0.10 (L/logreg)",
+   "value": 0.21690476190476182,
+   "supported": true
+  },
+  "P3": {
+   "rule": "L/logreg beats A2/logreg on leak-free balanced accuracy (point estimate)",
+   "value": 0.017944862155388458,
+   "supported": true
+  },
+  "P4": {
+   "rule": "metal vs not metal, all objects, L/logreg leak-free object accuracy >= 0.85",
+   "value": 0.6285714285714286,
+   "supported": false
+  }
+ },
+ "synthetic": false,
+ "versions": {
+  "python": "3.12.1",
+  "numpy": "2.4.6",
+  "pandas": "3.0.3",
+  "scipy": "1.18.0",
+  "scikit-learn": "1.9.0"
+ }
+}

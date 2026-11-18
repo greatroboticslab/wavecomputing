@@ -26,7 +26,7 @@ def main():
     ap.add_argument("--batch", type=int, default=8)
     a = ap.parse_args()
     dev = "cuda" if torch.cuda.is_available() else "cpu"
-    model = AutoModel.from_pretrained(a.model, torch_dtype=torch.float32).eval().to(dev)
+    model = AutoModel.from_pretrained(a.model).float().eval().to(dev)  # float32 on any transformers version
     proc = AutoProcessor.from_pretrained(a.model)
     paths = sorted(glob.glob(os.path.join(a.images, "*", "*", "color.jpg")))
     names, embs = [], []

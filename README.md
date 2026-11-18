@@ -45,3 +45,7 @@ Versions, counts and known problems: [docs/DATA.md](docs/DATA.md).
 ## Status
 
 - 2026-11-18: repository started; E01 planned (lab notebook, entry (a)).
+- 2026-11-18: E01 done (entry (b)). On 31 objects the 3DAI laser features name the material of an unseen object
+  only a little better than chance (balanced accuracy 0.25, chance 0.20), the same as a photo through AGAI's image
+  encoder (0.23). A random split would have shown 0.47 and 0.78. Next: more objects per material, labels for the
+  surface the beam hits, and the full laser frames. [results/e01/report.md](results/e01/report.md)

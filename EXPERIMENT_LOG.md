@@ -60,3 +60,37 @@ notebook, `greatroboticslab/AGAI`, `cluster/EXPERIMENT_LOG.md`.)
   - *Code.* `experiments/e01_material_unseen_objects/` (`fetch_3dai.py`, `photo_color_stats.py`, `embed_siglip2.py`,
     `run_e01.py`). `run_e01.py --synthetic` was run on made-up data with a known answer before this entry: with a
     strong per-object effect and weak photos, leak-free L 0.39 against leaky 0.98 and L above A2 and A1, as built.
+- **2026-11-18, 02:55 CST. (b) E01 results: on objects held out of training the laser readings do little better than
+  chance, and no better than a photo.**
+  - *Run.* 79 of 80 scans (one scan has no photo); 31 objects in the five primary materials; 78 laser features, none
+    dropped. Inputs (SHA-256): `laser_features.csv` b412a77dc36b90f3..., photo colour table 08abb316f6d9831d...,
+    SigLIP 2 embeddings 06d9092a4f588bcf... (Hamilton, one RTX 5000 Ada, torch 2.9.1, transformers 5.20.2). Analysis
+    on a Windows PC (Python 3.12.1, scikit-learn 1.9.0, numpy 2.4.6, pandas 3.0.3, scipy 1.18.0), 5 minutes. One code
+    change after (a): `embed_siglip2.py` loads the model with `.float()` instead of `torch_dtype`, an argument
+    transformers 5 changed; the analysis code is as committed in (a).
+  - *Leak-free* (leave one object out), balanced accuracy, chance 0.20: laser L 0.249 (95% CI 0.146-0.431; object
+    accuracy 0.516); photo encoder A2 0.231 (0.152-0.386; 0.516); photo colour A1 0.033 with logistic regression,
+    worse than chance, and 0.184 with the random forest; laser plus photo encoder 0.237. Random forests are no better
+    (L 0.214, A2 0.220).
+  - *Leaky split* (5-fold by scan, 20 repeats): L 0.466, A2 0.778. Both look much better when the object's other pose
+    is in training, the photo encoder most, since it recognises the object itself.
+  - *Laser against photo.* Against the encoder: +0.018 (-0.118 to 0.169); each gets 3 objects right that the other
+    gets wrong (McNemar P = 1). Against colour: +0.216 (0.070 to 0.423), 16 objects to 0, P = 3e-5.
+  - *Metal or not,* all 35 objects: object accuracy 0.629 (exact 95% CI 0.449-0.785); recall on metal scans 0.42.
+  - *Predictions.* P1 not supported (lower bound 0.146). P2 supported (0.466 - 0.249 = 0.217). P3 met by the letter of
+    the rule (+0.018), but that is a tie, not a win. P4 not supported (0.629).
+  - *Exploratory, named in (a).* All nine materials: L 0.110, A2 0.144. Each laser channel alone: 0.12-0.18, so no
+    single wavelength carries it. Without the two possibly mislabelled objects: 0.188.
+  - *Post hoc, not planned; ideas to test, not results.* The laser misses most metals whose surface is painted,
+    textured or sparkly (the metal pot, "green painted"; the electronic metal backing; the unfinished metal block) and
+    4 of 5 scans of the polished aluminium, where a mirror-like surface may send the beam away from the camera. It gets
+    "taped black metal", labelled paper because of its masking tape, right on both scans: the beam sees the surface
+    layer. The photo encoder gets the transparent and translucent plastics right more often than the laser.
+  - *Reading.* On 31 objects these laser features do not name the material of a new object reliably, so this data
+    cannot yet decide Dr. Zhang's claim that lasers recognise materials regardless of shape. It is small (two objects
+    each for cardboard and foam), and its labels give the bulk material while the beam reports the surface. With a
+    random split the same data would have looked like a working method (0.47 for the laser, 0.78 for the photo), the
+    AGAI lesson again. What would make the test decisive: at least 5-10 objects per material, with mixed colours and
+    finishes; a label for the surface the beam hits (paint, tape, coating) next to the bulk material; several angles
+    for shiny objects; and the full-resolution laser frames from the scanner PC instead of the summary features.
+    Files: `results/e01/` (`summary.json`, `report.md`, `predictions_scans.csv`).
