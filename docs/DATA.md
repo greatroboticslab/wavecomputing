@@ -46,6 +46,10 @@ and RF-DETR models detect the object the laser points at.
 - The project's own audit (`stats_after_split/dataset_stats_report.txt`) found that 188 of the 340 validation images
   (55%) have a near-duplicate in training, and 56 of them look identical. The split was made at random by image, so
   the reported result (RF-DETR, mAP50 0.944 on the validation split) is likely higher than it would be on new photos.
+- Objects per material (counted from the class names): plastic 15, metal 10, rubber 7, paper 2, foam 2, and one
+  object each for leather, composite, plastic tape, silicone, fabric, stone, cardboard, composite plastic and wood.
+  Several objects have parts of two materials (a wrench handle and head, for example). Material names are not always
+  spelled the same way ("Metal" and "metal", "Foam" and "foam").
 - `dataset/dataset_build_report.txt` lists objects whose classes do not match their label PDF.
 - More than 3,000 images have been collected in all, and many of the new ones have no labels yet. `laser_labeler/` in
   that repo is an assisted labelling tool.

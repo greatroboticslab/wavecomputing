@@ -94,3 +94,8 @@ notebook, `greatroboticslab/AGAI`, `cluster/EXPERIMENT_LOG.md`.)
     finishes; a label for the surface the beam hits (paint, tape, coating) next to the bulk material; several angles
     for shiny objects; and the full-resolution laser frames from the scanner PC instead of the summary features.
     Files: `results/e01/` (`summary.json`, `report.md`, `predictions_scans.csv`).
+- **2026-11-18, 02:58 CST. (c) Two notes.** Entry (b) is stamped 02:55 but was committed at 02:52 (commit 0f4d8bc);
+  the stamp was written ahead. And for the next experiment: the robotic-arm dataset has more objects per material
+  than 3DAI (plastic 15, metal 10, rubber 7, paper 2, foam 2; counted from its class names), so the same
+  unseen-object test is possible there with larger groups, on photos where the laser spot is visible. Not planned in
+  detail yet; that waits for the arm project's full image set (more than 3,000 images, many not yet labelled).
