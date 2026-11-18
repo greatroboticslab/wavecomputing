@@ -99,3 +99,4 @@ notebook, `greatroboticslab/AGAI`, `cluster/EXPERIMENT_LOG.md`.)
   than 3DAI (plastic 15, metal 10, rubber 7, paper 2, foam 2; counted from its class names), so the same
   unseen-object test is possible there with larger groups, on photos where the laser spot is visible. Not planned in
   detail yet; that waits for the arm project's full image set (more than 3,000 images, many not yet labelled).
+- **2026-11-18, 02:54 CST. (d) Correction to (c).** Entry (c) is stamped 02:58 but was committed at 02:53 (commit a9c26a1), the same mistake it reports about (b). From this entry on, stamps are read from the clock when the entry is written.
