@@ -211,3 +211,8 @@ notebook, `greatroboticslab/AGAI`, `cluster/EXPERIMENT_LOG.md`.)
   `dataset/pdf_for_labels/` are suggestions; the build report kept `data.yaml` as the authority). He also confirmed
   that each box marks one laser spot; whether red or green is not recorded per box. Nothing in the results of (g)
   changes. `labels/materials.py` now names the source correctly.
+
+- **2026-11-18, 17:24 CST. (k) On the boxes of (h).** William, who built the scanner on the same laser board: each arm box
+  marks the point where both lasers aim; red or green spots outside a box come from refraction, reflection and the
+  like at the surface, not from a box marking the wrong laser. So the boxes are right as labeled; for E02 it means the
+  red maximum inside a box can be a secondary spot rather than the main one, which the results of (g) do not depend on.
