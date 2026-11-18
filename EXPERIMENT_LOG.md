@@ -162,3 +162,24 @@ notebook, `greatroboticslab/AGAI`, `cluster/EXPERIMENT_LOG.md`.)
     cross-rig primary. P3: plastic against metal above 0.5 with P < 0.05; no expectation.
   - *Limits.* One wavelength in common (635 nm); different cameras, distances and angles; the arm's labels are
     appearance guesses; photos of one arm object are near-copies, hence the unit-level score.
+
+- **2026-11-18, 16:38 CST. (g) E02 results: the red spot in a photo does not carry the material, and nothing transfers from the
+  scanner to the arm.** As planned in (f) (`results/e02/report.md`, `results/e02/summary.json`): 129 scanner spots of
+  29 objects for training, 1084 arm spots in 30 object-parts for testing.
+  1. Primary (four materials, features standardized per rig): balanced accuracy 0.267 over object-parts (95% interval
+     0.170 to 0.431; chance 0.25), against 0.263 for shuffled scanner labels (1000 shuffles), P = 0.48. P1 not
+     supported.
+  2. Standardized on the scanner only (raw transfer): 0.250, every part called the same material, P = 0.54.
+  3. Plastic against metal: 0.517 (0.306 to 0.717; chance 0.50), P = 0.35. P3 not supported.
+  4. Without the 7 flagged arm objects: 0.239, P = 0.59.
+  5. References, leave one object out within one rig with the same 16 features: scanner 0.224, arm 0.358. Post hoc
+     (not in the plan): the arm's 0.358 against shuffled arm labels has null mean 0.234 and 95th percentile 0.475,
+     P = 0.16 (200 shuffles; `within_arm_null.py`, `results/e02/within_arm_null.json`). P2 holds as a number, not as
+     a result.
+  - *Reading.* There is nothing to transfer yet: the spot's shape, halo and colour, as an ordinary RGB camera records
+    them, do not separate the four materials even within one rig (scanner 0.22; E01's per-channel laser features
+    0.25), and the two rigs record the same 635 nm laser very differently (small round dot against large saturated
+    streak), so features standardized per rig still do not line up. For a cross-rig test to mean something, both rigs
+    need the raw laser signal (unsaturated exposures, the laser frames without the scene, several wavelengths,
+    speckle) and more objects per material, as `docs/RELATED_WORK.md` recommends. The arm's material labels (Gemini
+    appearance guesses, given per spot) still need the hand check listed in (f).

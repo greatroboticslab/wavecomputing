@@ -51,3 +51,7 @@ Versions, counts and known problems: [docs/DATA.md](docs/DATA.md).
   surface the beam hits, and the full laser frames. [results/e01/report.md](results/e01/report.md)
 - 2026-11-18: E01 re-checked independently (entry (e)): no bugs; against shuffled labels the laser's score has
   P = 0.08, a hint at most. Literature and what it means for the next collection: [docs/RELATED_WORK.md](docs/RELATED_WORK.md).
+- 2026-11-18: E02 done (entries (f), (g)): trained on the scanner's red-laser spots and tested on the robotic arm's
+  photos, as Dr. Zhang suggested. At chance (balanced accuracy 0.27 against 0.25; plastic against metal 0.52 against
+  0.50). The spot in an ordinary photo does not separate the materials even within one rig, and the two rigs record
+  the same laser very differently. [results/e02/report.md](results/e02/report.md)

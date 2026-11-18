@@ -1,0 +1,8 @@
+{
+ "note": "post hoc; materials shuffled among arm object-parts; leave-one-object-out within the arm",
+ "observed": 0.3583333333333333,
+ "n_permutations": 200,
+ "null_mean": 0.23399999999999999,
+ "null_95th": 0.475,
+ "p_one_sided": 0.15920398009950248
+}

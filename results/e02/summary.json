@@ -1,0 +1,158 @@
+{
+ "n": {
+  "3dai_samples": 129,
+  "3dai_objects": {
+   "foam": 2,
+   "metal": 8,
+   "paper": 3,
+   "plastic": 16
+  },
+  "arm_boxes": 1084,
+  "arm_units": {
+   "foam": 2,
+   "metal": 10,
+   "paper": 3,
+   "plastic": 15
+  }
+ },
+ "primary_4class_per_rig": {
+  "unit_balanced_acc": 0.26666666666666666,
+  "box_balanced_acc": 0.2734444306131326,
+  "ci95_units": [
+   0.16963789682539684,
+   0.43058226495726476
+  ],
+  "n_units": 30,
+  "chance": 0.25,
+  "null_mean": 0.26300833333333334,
+  "null_95th": 0.4583333333333333,
+  "p_one_sided": 0.47652347652347654,
+  "n_perm": 1000,
+  "confusion": {
+   "foam": {
+    "foam": 0,
+    "metal": 0,
+    "paper": 0,
+    "plastic": 1
+   },
+   "metal": {
+    "foam": 0,
+    "metal": 6,
+    "paper": 1,
+    "plastic": 5
+   },
+   "paper": {
+    "foam": 1,
+    "metal": 0,
+    "paper": 0,
+    "plastic": 2
+   },
+   "plastic": {
+    "foam": 1,
+    "metal": 4,
+    "paper": 2,
+    "plastic": 7
+   }
+  }
+ },
+ "4class_3dai_norm": {
+  "unit_balanced_acc": 0.25,
+  "box_balanced_acc": 0.2908718497206464,
+  "ci95_units": [
+   0.25,
+   0.3333333333333333
+  ],
+  "n_units": 30,
+  "chance": 0.25,
+  "null_mean": 0.25945833333333335,
+  "null_95th": 0.44208333333333316,
+  "p_one_sided": 0.5373134328358209,
+  "n_perm": 200,
+  "confusion": {
+   "foam": {
+    "foam": 0,
+    "metal": 0,
+    "paper": 0,
+    "plastic": 1
+   },
+   "metal": {
+    "foam": 0,
+    "metal": 10,
+    "paper": 3,
+    "plastic": 11
+   },
+   "paper": {
+    "foam": 1,
+    "metal": 0,
+    "paper": 0,
+    "plastic": 3
+   },
+   "plastic": {
+    "foam": 1,
+    "metal": 0,
+    "paper": 0,
+    "plastic": 0
+   }
+  }
+ },
+ "plastic_metal_per_rig": {
+  "unit_balanced_acc": 0.5166666666666666,
+  "box_balanced_acc": 0.5333490359702547,
+  "ci95_units": [
+   0.3055465367965368,
+   0.7166666666666666
+  ],
+  "n_units": 25,
+  "chance": 0.5,
+  "null_mean": 0.46825,
+  "null_95th": 0.7333333333333334,
+  "p_one_sided": 0.3546453546453546,
+  "n_perm": 1000,
+  "confusion": {
+   "metal": {
+    "metal": 5,
+    "plastic": 7
+   },
+   "plastic": {
+    "metal": 5,
+    "plastic": 8
+   }
+  }
+ },
+ "sensitivity_unflagged_per_rig": {
+  "unit_balanced_acc": 0.23863636363636365,
+  "box_balanced_acc": 0.254815923372826,
+  "ci95_units": [
+   0.08333333333333333,
+   0.425
+  ],
+  "n_units": 20,
+  "chance": 0.25,
+  "null_mean": 0.2565056818181818,
+  "null_95th": 0.4497159090909088,
+  "p_one_sided": 0.5920398009950248,
+  "n_perm": 200,
+  "confusion": {
+   "metal": {
+    "foam": 0,
+    "metal": 2,
+    "paper": 1,
+    "plastic": 5
+   },
+   "paper": {
+    "foam": 1,
+    "metal": 0,
+    "paper": 0,
+    "plastic": 1
+   },
+   "plastic": {
+    "foam": 1,
+    "metal": 2,
+    "paper": 2,
+    "plastic": 5
+   }
+  }
+ },
+ "within_3dai_logo": 0.22395833333333331,
+ "within_arm_logo": 0.3583333333333333
+}
