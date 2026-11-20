@@ -337,3 +337,11 @@ notebook, `greatroboticslab/AGAI`, `cluster/EXPERIMENT_LOG.md`.)
     full-resolution bundle from the scanner PC, then captures with unclipped spots (bracketed exposures), two frames
     per laser and an aperture that makes speckle grains at least 2 px; the older features' cardboard hits to be
     rechecked there with more cardboard objects.
+
+- **2026-11-20, 13:31 CST. (o) Correction: the arm's "more than 3,000 images" is an unchecked figure.** Entry (c) and
+  `docs/DATA.md` give the arm project's full image set as more than 3,000 images, many unlabelled, as if counted. The
+  number comes from Dr. Zhang's message of 17 November (23:43); the arm's author has not given a total, and none was
+  checked. The counts checked are 1,705 images in the repository and 1,786 in the public Roboflow export
+  (`mtsu-2h73y/laser-assisted-computer-vision`, version 4 of 22 October, the latest of four versions; looked at on
+  20 November without signing in). `docs/DATA.md` and `README.md` now say so; the total is to be confirmed with the
+  arm's author. Nothing in E01 to E03 used the figure.
