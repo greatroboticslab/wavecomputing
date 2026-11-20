@@ -223,3 +223,80 @@ notebook, `greatroboticslab/AGAI`, `cluster/EXPERIMENT_LOG.md`.)
   visible (above 30). 33 of 1596 boxes (2.1%): metal 13 of 263, plastic 15 of 566, rubber 2 of 303, foam, leather and
   paper 1 each, none for composite, fabric, stone or wood. So E02 measured the main red spot almost everywhere, and the
   result of (g) does not come from stray spots (`red_outside_check.py`, `results/e02/red_outside.csv`).
+
+- **2026-11-20, 12:24 CST. (m) Pre-registered: E03, wave methods 1, 2 and 4 on the 3DAI laser frames.** Dr. Zhang
+  (Discord, 20 November): make the method generalize regardless of how the data look, by looking inside the laser
+  reflection and extracting the nature of the wave information; start with 1 (speckle), 2 (scattering model fit) and 4
+  (wave computing), very innovative methods; 3 (polarization) needs a device his team will build. The methods are in
+  `docs/WAVE_METHODS.md`. Written before any feature set was scored on the real data; only the label-free quality
+  numbers below were looked at.
+  - *Question.* Do features built from the physics of the reflection name the material of objects never seen in
+    training, and do they measure the material rather than the laser, the pose or the object's look?
+  - *Data.* 3DAI at `6556bec`, the 80 scans with laser features (E01's), frames `laser_ch1` and `laser_ch2` (635 nm),
+    `laser_ch4` (530 nm) and `laser_dark`: JPEG previews, 800 px, 4:2:0 chroma. Channel 3 (940 nm) is not seen by the
+    colour camera and is left out. The `laser_zoom.jpg` panels are 2x enlargements of preview-scale crops and add no
+    detail. Primary set as in E01: the five materials with at least two objects, 31 objects in 72 scans (cardboard 2,
+    foam 2, metal 8, paper 3, plastic 16); labels `material_class`, objects grouped by `label`.
+  - *Common processing* (`experiments/e03_wave_methods/common.py`). The sRGB curve is undone so that light adds; the
+    laser-only image is D = lin(laser) - lin(dark) in the laser's camera channel; pixels at 245 or more in the laser
+    frame are clipped and known only to be at least the clip level.
+  - *Method 2* (`m2_scatter.py`). D around the spot = A beam(r) + B (beam * R_d)(r) + c, with R_d the normalized
+    diffusion profile of Christensen and Burley and the beam a Gaussian whose width is calibrated per laser without
+    labels (10th percentile of single-Gaussian widths over all spots with SNR >= 5: ch1 3.09 px, ch2 5.68 px, ch4 1.70
+    px); censored robust least squares in a 30 px window, noise from the frame beyond 60 px. Features per laser:
+    `log_d_beam` (subsurface length in beam widths; d is capped at 400 px, meaning a halo wider than the window),
+    `wing_slope` (model-free log-log slope of the unclipped halo), `aniso_excess` (elongation of the halo beyond the
+    core's, for fibres); per scan, green minus mean red of `log_d_beam` and of `wing_slope`. Quality before scoring:
+    spots found for 80, 79 and 78 of 80 scans (ch1, ch2, ch4), fitted 80, 79 and 70 (ch4: 4 channel-invalid, 5 below
+    SNR 5). The core is clipped in 227 of the 229 fitted spots (median clipped radius 8.3, 19.7 and 7.1 px), so the
+    surface fraction A/(A+B) is unidentified and is not used; d reaches its 400 px cap in 30, 64 and 13 spots.
+    Changes made during development, from these quality numbers alone: d's range raised from 80 to 400 px, the flat
+    offset c allowed from -0.1 to 0.3 (frame drift, or a laser's own faint glow; it was +-0.05), noise taken away from
+    the spot instead of from a ring the halo reaches, the surface fraction kept only for unclipped spots, the wing
+    slope added. Synthetic check (60 made-up spots, 38 clipped): Spearman 0.98 for log d, 0.86 for the surface
+    fraction on the 22 unclipped (`results/e03/m2_synthetic.json`).
+  - *Set S.* The per-laser features and the two differences, with E01's rule that a feature missing in more than 20%
+    of rows is dropped. Clipping leaves too little halo for the wing slopes (missing 21%, 44% and 35%, the difference
+    36%), so S has 7 features: `log_d_beam` and `aniso_excess` for each laser and the green-minus-red `log_d_beam`.
+    Variant S_no_ch2 (exploratory): without channel 2, whose halo reaches the window edge in 64 of 79 spots.
+  - *Method 4, digital stand-in* (`m4_reservoir.py`). Spot crops of 41 x 41 px around each fitted centre (clipped
+    pixels at their clip level), each laser scaled to unit sum so brightness is gone; y = |W x|^2 with W complex
+    Gaussian (1000 x 5043, seed 0). R_states: the 1000 outputs; R_kernel: the correlations between the outputs for each
+    pair of lasers (3 values); RAW: a linear readout on the 5043 pixels themselves, without the projection.
+  - *Method 1* (`m1_speckle.py`). M = 1/K_s^2, with K_s^2 = (1 + K_laser^2)/(1 + K_texture^2) - 1 in a ring around the
+    spot, the texture from the lasers-off frame; with two frames per laser the noise cancels in their product. Run
+    during development (`results/e03/m1_speckle_simulation.json`, 30 spots per cell): on raw frames M = 1, 2 and 4 are
+    told apart perfectly (AUC 1.00); through a preview pipeline (sRGB, downscaling, JPEG quality 85 with 4:2:0) the
+    separation of M = 1 from M = 2 falls to AUC 0.91 to 0.94 at 1.6x downscaling and 0.72 to 0.77 at 2.4x. How much the
+    scanner downscales is not known. On the previews, with one frame per laser, in a 10 px ring just outside each
+    clipped core: set SPK (log M per laser, green minus red), exploratory.
+  - *Comparison sets.* E02 (E02's 16 spot features for both red lasers, 32), L (E01's 78 laser features), F (the
+    projector's fringe contrast: `fringe_contrast_object`, `_object_std`, `_ratio`, `fringe_reliable_fraction`;
+    projector light, not laser; exploratory).
+  - *Evaluation* (`run_e03.py`), as in E01: leave one object out; median imputation, standardization, logistic
+    regression (C = 1, balanced class weights). Primary metric: balanced accuracy over objects (scan probabilities
+    averaged per object, so every object counts once; E01's scan-level number is reported too). 95% bootstrap over
+    objects (2000); permutation test with materials shuffled among objects (S: 1000 shuffles; sets of at most 100
+    features: 200; R_states and RAW: 50); exact McNemar tests on objects. Pipeline check on made-up data
+    (`results/e03/run_e03_synthetic.json`): a planted signal 0.40 (P = 0.03); pure noise 0.153 on average over 10
+    draws against a shuffled-label mean of 0.163, none with P < 0.05. One single noise draw had scored 0.48, by luck on
+    the two-object materials, which is how much one object moves this metric.
+  - *Validity checks,* on the per-laser features of S, E02, L (its 13 colour-camera features per channel) and SPK:
+    (i) the two red lasers, ICC(C,1) between ch1 and ch2 on the same scans (different beams, points about 11 px apart);
+    (ii) the two poses, ICC(C,1) between an object's two poses; (iii) material signal, eta^2 of object means over the
+    five materials; (iv) appearance leakage, the within-material partial R^2 of the object's look at the spot (log
+    brightness and two chromaticities of the lasers-off frame within 5 px). Control: the clipped radius, which
+    brightness drives, should leak.
+  - *Predictions.* **P1 (primary):** S above shuffled labels, one-sided P < 0.05. No firm expectation: S is measured in
+    linear units with clipping handled, but E01 and E02 sat near chance on these 31 objects. **P2:** the median
+    two-laser ICC of S's per-laser features (`log_d_beam`, `wing_slope`, `aniso_excess`) above the medians of E02's
+    and of L's features. **P3:** the median appearance leakage of S's per-laser features below E02's. **P4:** R_states
+    does not differ from RAW (exact McNemar P >= 0.05): a digital random projection adds no information, so a physical
+    reservoir has to bring what the camera image does not hold (phase, coherence). **P5:** method 1 cannot be read
+    from the previews: SPK's two-laser ICC below 0.5 and SPK not above shuffled labels (P >= 0.05).
+  - *Exploratory, named now.* S_no_ch2; S + R_kernel; R_kernel alone; SPK; F; S on all nine materials; S without the two
+    possibly mislabelled objects; material medians of the red and green subsurface lengths (expected order: metal
+    shortest, foam longest).
+  - *Limits.* 31 objects; previews of one frame per laser; cores clipped; channel 2's halo wider than the window; one
+    session. This tests what the GitHub files allow, not the methods at full strength; the captures they need are listed
+    in `docs/WAVE_METHODS.md`.

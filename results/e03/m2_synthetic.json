@@ -1,0 +1,8 @@
+{
+ "spearman_f_surf": 0.8588368153585546,
+ "spearman_log_d": 0.9809947207557657,
+ "median_abs_err_f_surf": 0.011898374136140907,
+ "median_abs_err_log_d": 0.06461165394676818,
+ "clipped_spots": 38,
+ "n": 60
+}
