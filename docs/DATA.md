@@ -39,7 +39,8 @@ and RF-DETR models detect the object the laser points at.
 
 - `dataset/`: 1,705 images (train 1,365, validation 340), 1280x720 (1,581) and 752x480 (124). They were taken on 11
   days between 2026-09-11 and 2026-10-21, and each file name starts with its date and time. Roboflow export:
-  `mtsu-2h73y/laser-assisted-computer-vision`, version 4 (1,786 images, CC BY 4.0, 2026-10-24).
+  `mtsu-2h73y/laser-assisted-computer-vision`, version 4 (1,786 images, CC BY 4.0, generated 2026-10-22, exported to
+  the repository 2026-10-24).
 - 47 classes. Each class is one material part of one physical object, 33 objects in all, for example "ballpoint pen,
   plastic, red". Materials: metal, plastic, rubber, paper, cardboard, composite, foam, fabric, leather, silicone,
   stone, wood.

@@ -72,6 +72,10 @@ Per feature, S and SPK:
 | halo elongation `aniso_excess` | 0.07 (79) | 0.20 / 0.19 / 0.12 | 0.07 / 0.07 / 0.12 | 0.13 / 0.22 / 0.06 |
 | speckle `log_M` (SPK) | 0.53 (79) | 0.55 / 0.47 / 0.74 | 0.15 / 0.05 / 0.10 | 0.00 / 0.07 / 0.14 |
 
+Post hoc (entry (q)): SPK's agreement between the two red lasers is not where its ring sits. After the log M of each
+laser is regressed on that laser's own clipped radius, the residuals of the two lasers still correlate at 0.43 (79
+scans).
+
 The control behaves as it should: the clipped radius agrees between lasers and poses, since a bright object clips
 wider under both, and it follows the look (partial R² up to 0.74). Agreement alone therefore does not make a feature a
 material property; the look check is needed beside it.

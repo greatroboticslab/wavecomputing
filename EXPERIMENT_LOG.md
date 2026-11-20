@@ -350,3 +350,17 @@ notebook, `greatroboticslab/AGAI`, `cluster/EXPERIMENT_LOG.md`.)
   (Discord, 20 November, 13:55) that he has about 2,000 unlabelled images besides the roughly 1,700 labelled ones, and
   that those labels need to be updated. So the full set is about 3,700 images, in line with Dr. Zhang's "more than
   3,000". What the update changes is not known yet; `docs/DATA.md` and `README.md` now give these numbers.
+
+- **2026-11-20, 14:41 CST. (q) Three checks.**
+  1. *Post hoc, on E03's SPK.* The two red lasers' log M agree (ICC 0.53 in (n)) not because the ring sits just
+     outside each clipped core: after the log M of each laser is regressed on that laser's own clipped radius, the
+     residuals still correlate at 0.43 (79 scans). The rank correlation of log M with the clipped radius is -0.31,
+     -0.41 and 0.03 (ch1, ch2, ch4). The lead named in (n) stands; what the previews' M measures stays open.
+  2. *Sources of `docs/WAVE_METHODS.md` opened:* the arXiv preprint [17] and the five patents [2, 3, 6, 9, 20] exist and
+     match, except that the trinamiX patent [3] determines a material property, such as skin, from the beam profile of
+     the reflected spot (speckle included), which is closer to method 2 than the doc said. Its description is
+     corrected and it is now named next to method 2's related work.
+  3. *A claim corrected.* The doc and the paper draft said that lengths in beam widths mean the same on the scanner and
+     the arm because both use the same laser board. The beam widens with distance, so that holds only at the same
+     working distance, or after one measurement of the beam's width against distance, which turns the lengths into
+     millimetres on either rig. Both texts now say so.

@@ -46,8 +46,8 @@ What is new is how M is read:
   camera multiplies every M by the same factor.
 
 Statistics of speckle images (contrast, skewness, moments of the power spectrum) have been used to tell materials
-apart, mostly two at a time and with the same pieces in training and test [1]; patents use speckle contrast as one
-number [2, 3]; and the depolarization of speckle in turbid media is known physics [4]. We found no use of the radial
+apart, mostly two at a time and with the same pieces in training and test [1]; two patents use speckle statistics of
+a reflected spot as material features [2, 3]; and the depolarization of speckle in turbid media is known physics [4]. We found no use of the radial
 profile.
 
 M gives part of what the polarizer of method 3 would give, without the device. Once the polarizer exists, M measured
@@ -85,8 +85,10 @@ choices make the fit independent of the rig and of the looks:
 
 - **Label-free beam calibration.** Each laser's beam is measured from the rig's own data, as its narrowest spots (no
   spot can be narrower than the beam). No labels and no reference target are needed.
-- **Lengths in beam widths.** The robotic arm uses the same laser board as the scanner, so a length in beam widths
-  means the same thing on both rigs; a length in pixels does not.
+- **Lengths in beam widths.** A length measured against the beam is free of the camera's pixel scale. The beam widens
+  with distance, so a length in beam widths still depends on the working distance; but the robotic arm uses the same
+  laser board as the scanner, so one measurement of the beam's width against distance turns these lengths into
+  millimetres on either rig. A length in pixels has no such anchor.
 - **Clipped pixels censored.** A clipped pixel only says "at least this bright", and the fit treats it that way instead
   of reading the clip level as a value.
 
@@ -96,8 +98,8 @@ scattering part alone would be colour-blind by construction.
 
 Fitting the halo around a spot to name materials is the closest published work: 58.8% on 25 classes of white
 materials, tested on objects scanned on another day, with a lamp behind a pinhole rather than a laser [11]; and laser
-dots from a depth camera [12]. The label-free calibration, the censoring and the
-beam-width units are not in them.
+dots from a depth camera [12]. A patent determines a material property, such as skin, from the beam profile of the
+reflected spot [3]. The label-free calibration, the censoring and the beam-width units are not in them.
 
 ### 2B. Halo elongation beyond the beam's footprint (known for wood only)
 
@@ -192,8 +194,8 @@ Search of 20 November 2026. Marked [abstract] where only the abstract or metadat
    checked.)
 2. US patent 8913251 (Canon): speckle contrast at several angles for roughness and a subsurface term,
    [link](https://patents.google.com/patent/US8913251).
-3. US patent 11947013 (trinamiX): low speckle contrast from volume scattering as a material feature,
-   [link](https://patents.google.com/patent/US11947013).
+3. US patent 11947013 (trinamiX): a material property, such as skin, from the beam profile of the reflected laser
+   spot, speckle included, [link](https://patents.google.com/patent/US11947013).
 4. Li, Yao and Wang, *Degree of polarization in laser speckles from turbid media*, J. Biomed. Opt. 2002,
    [doi:10.1117/1.1483313](https://doi.org/10.1117/1.1483313). Also Thompson, Webb and Weiner, *Diffusive media
    characterization with laser speckle*, Appl. Opt. 1997, [doi:10.1364/AO.36.003726](https://doi.org/10.1364/AO.36.003726)
