@@ -51,10 +51,12 @@ and RF-DETR models detect the object the laser points at.
   Several objects have parts of two materials (a wrench handle and head, for example). Material names are not always
   spelled the same way ("Metal" and "metal", "Foam" and "foam").
 - `dataset/dataset_build_report.txt` lists objects whose classes do not match their label PDF.
-- Total collected: not known. Dr. Zhang said on 17 November that the arm's author had collected more than 3,000
-  images; that number is his and has not been checked. The counts checked are 1,705 in the repository and 1,786 in
-  the public Roboflow export, whose version 4 (22 October) is its latest (versions 1 to 3: 1,210, 1,443 and 1,609
-  images). Images taken since may not be labelled yet. `laser_labeler/` in that repo is an assisted labelling tool.
+- Total collected: about 3,700, according to the arm's author (20 November): the roughly 1,700 labelled images, whose
+  labels he plans to update, and about 2,000 unlabelled ones. This agrees with Dr. Zhang's "more than 3,000" (17
+  November). The counts checked are 1,705 in the repository and 1,786 in the public Roboflow export, whose version 4
+  (22 October) is its latest (versions 1 to 3: 1,210, 1,443 and 1,609 images). `laser_labeler/` in that repo is an
+  assisted labelling tool; `dataset/dataset_build_report.txt` proposes 21 renames from the AI answers in
+  `pdf_for_labels/` (mostly spacing and colour text, a few materials), none applied.
 
 ## Other laser data (not used yet)
 

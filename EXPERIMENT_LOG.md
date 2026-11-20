@@ -345,3 +345,8 @@ notebook, `greatroboticslab/AGAI`, `cluster/EXPERIMENT_LOG.md`.)
   (`mtsu-2h73y/laser-assisted-computer-vision`, version 4 of 22 October, the latest of four versions; looked at on
   20 November without signing in). `docs/DATA.md` and `README.md` now say so; the total is to be confirmed with the
   arm's author. Nothing in E01 to E03 used the figure.
+
+- **2026-11-20, 13:59 CST. (p) The arm's total, from its author.** Asked after (o), the arm's author answered
+  (Discord, 20 November, 13:55) that he has about 2,000 unlabelled images besides the roughly 1,700 labelled ones, and
+  that those labels need to be updated. So the full set is about 3,700 images, in line with Dr. Zhang's "more than
+  3,000". What the update changes is not known yet; `docs/DATA.md` and `README.md` now give these numbers.

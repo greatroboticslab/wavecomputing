@@ -14,7 +14,7 @@ reported.
 | Source | What it records | Size | Labels |
 |---|---|---|---|
 | 3DAI scanner | 4 lasers (635, 635, 940, 530 nm), RGB camera, Kinect infrared and depth, projector height map, one plain photo per scan | 35 objects, 80 scans with laser features | material, surface, transparency |
-| Robotic arm | photos of objects with the arm's laser dot on them | 1,705 labelled images in the repo, 1,786 in the latest Roboflow export; more collected since (number to confirm with the arm's author) | box per object, labelled object + material + colour |
+| Robotic arm | photos of objects with the arm's laser dot on them | 1,705 labelled images in the repo, 1,786 in the latest Roboflow export; about 2,000 more unlabelled (the arm's author, 20 November) | box per object, labelled object + material + colour |
 | Others | spectrometer spectra, laser interferometry, soil-moisture images | see the inventory | |
 
 Versions, counts and known problems: [docs/DATA.md](docs/DATA.md).
