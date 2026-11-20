@@ -55,3 +55,8 @@ Versions, counts and known problems: [docs/DATA.md](docs/DATA.md).
   photos, as Dr. Zhang suggested. At chance (balanced accuracy 0.27 against 0.25; plastic against metal 0.52 against
   0.50). The spot in an ordinary photo does not separate the materials even within one rig, and the two rigs record
   the same laser very differently. [results/e02/report.md](results/e02/report.md)
+- 2026-11-20: Methods for speckle, scattering and wave computing, asked for by Dr. Zhang, with what is new against
+  the literature and what to capture: [docs/WAVE_METHODS.md](docs/WAVE_METHODS.md). E03 tried them on the scanner's
+  GitHub previews (entries (m), (n)): there the new features fail their own checks (the two red lasers disagree, and
+  the spot is clipped in 227 of 229 frames), so the test needs raw, unclipped captures. The checks themselves work and
+  become the gate for new data. [results/e03/report.md](results/e03/report.md)

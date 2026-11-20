@@ -1,0 +1,344 @@
+{
+ "n_scans_all": 80,
+ "primary": {
+  "n_scans": 72,
+  "n_objects": 31,
+  "objects_per_material": {
+   "cardboard": 2,
+   "foam": 2,
+   "metal": 8,
+   "paper": 3,
+   "plastic": 16
+  }
+ },
+ "S": {
+  "object_balanced_accuracy": 0.14166666666666666,
+  "ci95_objects": [
+   0.02222222222222222,
+   0.3107242063492063
+  ],
+  "scan_balanced_accuracy": 0.22095238095238093,
+  "object_accuracy": 0.16129032258064516,
+  "n_features": 7,
+  "dropped": [
+   "wing_slope_ch1",
+   "wing_slope_ch2",
+   "wing_slope_ch4",
+   "dslope_green_minus_red"
+  ],
+  "null_mean": 0.1810625,
+  "null_95th": 0.37916666666666665,
+  "p_one_sided": 0.5744255744255744,
+  "n_perm": 1000,
+  "recall": {
+   "cardboard": 0.0,
+   "foam": 0.0,
+   "metal": 0.25,
+   "paper": 0.3333333333333333,
+   "plastic": 0.125
+  }
+ },
+ "R_states": {
+  "object_balanced_accuracy": 0.1875,
+  "ci95_objects": [
+   0.10284523809523809,
+   0.3176604278074866
+  ],
+  "scan_balanced_accuracy": 0.16,
+  "object_accuracy": 0.3548387096774194,
+  "n_features": 1000,
+  "dropped": [],
+  "null_mean": 0.17675000000000002,
+  "null_95th": 0.31333333333333324,
+  "p_one_sided": 0.4117647058823529,
+  "n_perm": 50,
+  "recall": {
+   "cardboard": 0.0,
+   "foam": 0.0,
+   "metal": 0.5,
+   "paper": 0.0,
+   "plastic": 0.4375
+  }
+ },
+ "RAW": {
+  "object_balanced_accuracy": 0.1125,
+  "ci95_objects": [
+   0.06666666666666667,
+   0.19047619047619047
+  ],
+  "scan_balanced_accuracy": 0.11857142857142858,
+  "object_accuracy": 0.2903225806451613,
+  "n_features": 5043,
+  "dropped": [],
+  "null_mean": 0.185,
+  "null_95th": 0.281875,
+  "p_one_sided": 0.9607843137254902,
+  "n_perm": 50,
+  "recall": {
+   "cardboard": 0.0,
+   "foam": 0.0,
+   "metal": 0.0,
+   "paper": 0.0,
+   "plastic": 0.5625
+  }
+ },
+ "R_kernel": {
+  "object_balanced_accuracy": 0.20833333333333331,
+  "ci95_objects": [
+   0.04605021284829721,
+   0.3802083333333333
+  ],
+  "scan_balanced_accuracy": 0.1338095238095238,
+  "object_accuracy": 0.1935483870967742,
+  "n_features": 3,
+  "dropped": [],
+  "null_mean": 0.18206249999999996,
+  "null_95th": 0.4212499999999998,
+  "p_one_sided": 0.3582089552238806,
+  "n_perm": 200,
+  "recall": {
+   "cardboard": 0.0,
+   "foam": 0.0,
+   "metal": 0.25,
+   "paper": 0.6666666666666666,
+   "plastic": 0.125
+  }
+ },
+ "E02": {
+  "object_balanced_accuracy": 0.4,
+  "ci95_objects": [
+   0.2142857142857143,
+   0.5476785714285711
+  ],
+  "scan_balanced_accuracy": 0.3114285714285714,
+  "object_accuracy": 0.41935483870967744,
+  "n_features": 32,
+  "dropped": [],
+  "null_mean": 0.15666666666666665,
+  "null_95th": 0.30458333333333315,
+  "p_one_sided": 0.014925373134328358,
+  "n_perm": 200,
+  "recall": {
+   "cardboard": 1.0,
+   "foam": 0.0,
+   "metal": 0.625,
+   "paper": 0.0,
+   "plastic": 0.375
+  }
+ },
+ "L": {
+  "object_balanced_accuracy": 0.30416666666666664,
+  "ci95_objects": [
+   0.18087418300653593,
+   0.5122932864832536
+  ],
+  "scan_balanced_accuracy": 0.24523809523809526,
+  "object_accuracy": 0.5161290322580645,
+  "n_features": 78,
+  "dropped": [],
+  "null_mean": 0.17237499999999997,
+  "null_95th": 0.2875,
+  "p_one_sided": 0.03980099502487562,
+  "n_perm": 200,
+  "recall": {
+   "cardboard": 0.0,
+   "foam": 0.0,
+   "metal": 0.5,
+   "paper": 0.3333333333333333,
+   "plastic": 0.6875
+  }
+ },
+ "SPK": {
+  "object_balanced_accuracy": 0.1125,
+  "ci95_objects": [
+   0.05,
+   0.21351413753907356
+  ],
+  "scan_balanced_accuracy": 0.18,
+  "object_accuracy": 0.25806451612903225,
+  "n_features": 4,
+  "dropped": [],
+  "null_mean": 0.19195833333333334,
+  "null_95th": 0.4254166666666665,
+  "p_one_sided": 0.736318407960199,
+  "n_perm": 200,
+  "recall": {
+   "cardboard": 0.0,
+   "foam": 0.0,
+   "metal": 0.125,
+   "paper": 0.0,
+   "plastic": 0.4375
+  }
+ },
+ "F": {
+  "object_balanced_accuracy": 0.1375,
+  "ci95_objects": [
+   0.05833333333333333,
+   0.251812094155844
+  ],
+  "scan_balanced_accuracy": 0.13142857142857142,
+  "object_accuracy": 0.22580645161290322,
+  "n_features": 4,
+  "dropped": [],
+  "null_mean": 0.18027083333333332,
+  "null_95th": 0.4043749999999999,
+  "p_one_sided": 0.582089552238806,
+  "n_perm": 200,
+  "recall": {
+   "cardboard": 0.0,
+   "foam": 0.0,
+   "metal": 0.5,
+   "paper": 0.0,
+   "plastic": 0.1875
+  }
+ },
+ "S_no_ch2": {
+  "object_balanced_accuracy": 0.0625,
+  "ci95_objects": [
+   0.011764705882352941,
+   0.14693713450292392
+  ],
+  "scan_balanced_accuracy": 0.1576190476190476,
+  "object_accuracy": 0.12903225806451613,
+  "n_features": 4,
+  "dropped": [
+   "wing_slope_ch1",
+   "wing_slope_ch4"
+  ],
+  "null_mean": 0.19445833333333332,
+  "null_95th": 0.38770833333333327,
+  "p_one_sided": 0.9303482587064676,
+  "n_perm": 200,
+  "recall": {
+   "cardboard": 0.0,
+   "foam": 0.0,
+   "metal": 0.125,
+   "paper": 0.0,
+   "plastic": 0.1875
+  }
+ },
+ "S+R_kernel": {
+  "object_balanced_accuracy": 0.16666666666666666,
+  "ci95_objects": [
+   0.04687195616883117,
+   0.34870966478696724
+  ],
+  "scan_balanced_accuracy": 0.1995238095238095,
+  "object_accuracy": 0.22580645161290322,
+  "n_features": 10,
+  "dropped": [
+   "wing_slope_ch1",
+   "wing_slope_ch2",
+   "wing_slope_ch4",
+   "dslope_green_minus_red"
+  ],
+  "null_mean": 0.1755833333333333,
+  "null_95th": 0.35124999999999956,
+  "p_one_sided": 0.44776119402985076,
+  "n_perm": 200,
+  "recall": {
+   "cardboard": 0.0,
+   "foam": 0.0,
+   "metal": 0.25,
+   "paper": 0.3333333333333333,
+   "plastic": 0.25
+  }
+ },
+ "mcnemar": {
+  "S_vs_L": {
+   "a_right_b_wrong": 2,
+   "a_wrong_b_right": 13,
+   "p_exact": 0.00738525390625
+  },
+  "S_vs_E02": {
+   "a_right_b_wrong": 1,
+   "a_wrong_b_right": 9,
+   "p_exact": 0.021484375
+  },
+  "R_states_vs_RAW": {
+   "a_right_b_wrong": 4,
+   "a_wrong_b_right": 2,
+   "p_exact": 0.6875
+  },
+  "S_vs_R_states": {
+   "a_right_b_wrong": 2,
+   "a_wrong_b_right": 8,
+   "p_exact": 0.109375
+  }
+ },
+ "exploratory_S_all_nine_materials": 0.05555555555555555,
+ "exploratory_S_without_possibly_mislabelled": {
+  "object_balanced_accuracy": 0.375,
+  "materials": [
+   "cardboard",
+   "metal",
+   "paper",
+   "plastic"
+  ]
+ },
+ "validity_medians": {
+  "E02": {
+   "median_icc_red1_red2": 0.1577,
+   "median_icc_pose": 0.6615,
+   "median_eta2": 0.1582,
+   "median_appearance_r2": 0.3534,
+   "n_rows": 32
+  },
+  "L": {
+   "median_icc_red1_red2": 0.6761,
+   "median_icc_pose": 0.8193,
+   "median_eta2": 0.1149,
+   "median_appearance_r2": 0.5272,
+   "n_rows": 39
+  },
+  "S": {
+   "median_icc_red1_red2": 0.073,
+   "median_icc_pose": 0.1944,
+   "median_eta2": 0.0769,
+   "median_appearance_r2": 0.1315,
+   "n_rows": 9
+  },
+  "SPK": {
+   "median_icc_red1_red2": 0.5289,
+   "median_icc_pose": 0.5471,
+   "median_eta2": 0.097,
+   "median_appearance_r2": 0.0691,
+   "n_rows": 3
+  },
+  "r_clip (brightness, a control)": {
+   "median_icc_red1_red2": 0.7188,
+   "median_icc_pose": 0.7746,
+   "median_eta2": 0.1666,
+   "median_appearance_r2": 0.3345,
+   "n_rows": 3
+  }
+ },
+ "exploratory_material_medians": {
+  "cardboard": {
+   "log_d_red": 3.228,
+   "slope_red": -1.417,
+   "log_d_green": 1.467
+  },
+  "foam": {
+   "log_d_red": 2.826,
+   "slope_red": -1.387,
+   "log_d_green": 2.102
+  },
+  "metal": {
+   "log_d_red": 3.607,
+   "slope_red": -1.661,
+   "log_d_green": 1.837
+  },
+  "paper": {
+   "log_d_red": 3.523,
+   "slope_red": -1.733,
+   "log_d_green": 1.068
+  },
+  "plastic": {
+   "log_d_red": 3.581,
+   "slope_red": -1.687,
+   "log_d_green": 2.069
+  }
+ },
+ "runtime_s": 1744.3
+}

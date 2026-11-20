@@ -300,3 +300,40 @@ notebook, `greatroboticslab/AGAI`, `cluster/EXPERIMENT_LOG.md`.)
   - *Limits.* 31 objects; previews of one frame per laser; cores clipped; channel 2's halo wider than the window; one
     session. This tests what the GitHub files allow, not the methods at full strength; the captures they need are listed
     in `docs/WAVE_METHODS.md`.
+
+- **2026-11-20, 13:03 CST. (n) E03 results: on the GitHub previews the new features fail their own validity checks
+  and do not name materials; the older features beat shuffled labels on the two cardboard objects.** As planned in (m)
+  (`results/e03/report.md`, `summary.json`, `validity.csv`, `predictions_objects.csv`); 72 scans of 31 objects; run
+  time 29 minutes.
+  1. **P1 not supported.** S: balanced accuracy over objects 0.142 (95% CI 0.022 to 0.311) against a shuffled-label
+     mean of 0.181, P = 0.57 (1000 shuffles).
+  2. **P2 not supported.** Median two-laser ICC of S's per-laser features 0.07, against 0.16 for E02 and 0.68 for L.
+     S's subsurface length gives -0.05 between the two red lasers and 0.13 to 0.61 between poses.
+  3. **P3 met by the letter only.** S follows the look less than E02 (median partial R^2 0.13 against 0.35), but it
+     carries almost no material signal (eta^2 0.08) and does not agree between lasers, so there is little to follow.
+  4. **P4 supported.** R states 0.188 and RAW 0.113 (both at chance); exact McNemar 4 to 2, P = 0.69.
+  5. **P5 half met.** SPK carries no material signal (0.113, P = 0.74), but its log M agrees between the two red
+     lasers at 0.53, above the 0.5 the prediction allowed, between poses at 0.55, and does not follow the look (0.07).
+  6. **Comparison sets,** scored per object as (m) planned: E02 0.400 (P = 0.015), L 0.304 (P = 0.040); against S,
+     exact McNemar 9 to 1 (P = 0.021) and 13 to 2 (P = 0.007). E01 reported L per scan (0.249; post hoc P = 0.084 in
+     (e)); counting each object once it is 0.304. Both follow the look strongly (0.35 and 0.53). E02 names both cardboard
+     objects; its recall on the other four materials averages about chance.
+  7. **Exploratory, named in (m).** S without channel 2 0.062; S + R kernel 0.167; R kernel 0.208 (P = 0.36); F
+     (fringe contrast) 0.138; S on all nine materials 0.056; S without the two possibly mislabelled objects 0.375 over
+     four materials (no permutation test). Physics check reversed: red subsurface length in beam widths, material
+     medians, foam 2.83, cardboard 3.23, paper 3.52, plastic 3.58, metal 3.61, where metal shortest and foam longest
+     was expected. The brightness control (clipped radius) agrees between lasers (0.72) and poses (0.77) and follows the
+     look (up to 0.74), as a control should: agreement alone does not make a feature a material property.
+  - *Post hoc, not planned* (`posthoc_colour.py`, `results/e03/posthoc_colour.json`, 200 shuffles each), run because E02
+    and L beat shuffled labels while following the look: E02 without its 8 colour features 0.362 (P = 0.015), colour
+    features only 0.342 (P = 0.10); L without its 26 colour features 0.200 (P = 0.32), colour only 0.217 (P = 0.23).
+    E02 names both cardboard objects in every version. With two cardboard objects and more than a dozen sets tested,
+    this is a hint that the spot's shape in E02's units separates cardboard on this scanner, not a result.
+  - *Reading.* The GitHub previews cannot test methods 1 and 2. Clipping (227 of 229 cores, (m)) leaves only the far
+    halo, and S is not the same quantity under the two red lasers and orders the materials against the physics. The
+    validity checks showed this without any classifier, and flagged the brightness control as following the look, so
+    they carry over as the gate for new captures. Leads for the full data: the model-free wing slope agrees between the
+    two red lasers at 0.63, and the speckle M agrees between lasers and poses without following the look. Next: the
+    full-resolution bundle from the scanner PC, then captures with unclipped spots (bracketed exposures), two frames
+    per laser and an aperture that makes speckle grains at least 2 px; the older features' cardboard hits to be
+    rechecked there with more cardboard objects.

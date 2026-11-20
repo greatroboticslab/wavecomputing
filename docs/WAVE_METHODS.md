@@ -45,8 +45,10 @@ What is new is how M is read:
 - **The camera cancels** in the ratio M(r)/M(r₀), or against a bare-metal reference, because blurring of speckle by the
   camera multiplies every M by the same factor.
 
-Speckle contrast as one number per sample has been used to recognise materials [1; patents 2, 3], and the
-depolarization of speckle in turbid media is known physics [4]. We found no use of the radial profile.
+Statistics of speckle images (contrast, skewness, moments of the power spectrum) have been used to tell materials
+apart, mostly two at a time and with the same pieces in training and test [1]; patents use speckle contrast as one
+number [2, 3]; and the depolarization of speckle in turbid media is known physics [4]. We found no use of the radial
+profile.
 
 M gives part of what the polarizer of method 3 would give, without the device. Once the polarizer exists, M measured
 co-polarized and cross-polarized separates depolarization from path-length spread.
@@ -92,8 +94,9 @@ The spot's brightness and colour are never features. Given enough resolution nea
 absorption (colour, i.e. the looks) from reduced scattering (the material's microstructure), and a classifier on the
 scattering part alone would be colour-blind by construction.
 
-Fitting the halo around a spot to name materials is the closest published work: 58.8% on 25 classes, tested on objects
-scanned on another day [11], and laser dots from a depth camera [12]. The label-free calibration, the censoring and the
+Fitting the halo around a spot to name materials is the closest published work: 58.8% on 25 classes of white
+materials, tested on objects scanned on another day, with a lamp behind a pinhole rather than a laser [11]; and laser
+dots from a depth camera [12]. The label-free calibration, the censoring and the
 beam-width units are not in them.
 
 ### 2B. Halo elongation beyond the beam's footprint (known for wood only)
@@ -150,6 +153,19 @@ The 3DAI files on GitHub are 800 px JPEG previews of one frame per laser, and th
 them. E03 tried what they allow: 2A and 2B in full, 1A with one frame (exploratory), and 4A as a digital stand-in (a
 random projection of the spot, read out linearly, which computes nothing the camera image does not already hold). The
 plan is entry (m) of the lab notebook, the results entry (n) and [results/e03/report.md](../results/e03/report.md).
+
+Outcome: on these files the methods could not be tested.
+- **Method 2's subsurface length** disagrees between the scanner's two red lasers (ICC −0.05). It orders the
+  materials against the physics, with foam shortest and metal longest, and it names materials at chance (0.14, against
+  0.18 for shuffled labels).
+- **The digital reservoir** adds nothing over the pixels themselves.
+- **The speckle M read on the previews** agrees between the two lasers (0.53) and between poses, and does not follow
+  the object's look, but carries no material signal there.
+- **In simulation,** the same speckle estimator separates M = 1, 2 and 4 perfectly on raw frames and loses most of it
+  once frames are downscaled and stored as JPEG.
+
+The checks of agreement and look are what carries over: on new captures a feature has to pass them before its accuracy
+counts.
 
 ## What to capture next
 
