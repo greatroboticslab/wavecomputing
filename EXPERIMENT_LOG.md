@@ -364,3 +364,73 @@ notebook, `greatroboticslab/AGAI`, `cluster/EXPERIMENT_LOG.md`.)
      the arm because both use the same laser board. The beam widens with distance, so that holds only at the same
      working distance, or after one measurement of the beam's width against distance, which turns the lengths into
      millimetres on either rig. Both texts now say so.
+
+- **2026-11-22, 23:41 CST. (r) Plan for E04: the math of methods 1 and 4, and a wave simulation to check it.** Written before any
+  comparison below was scored. Seen before writing: the machinery checks of item 1, the solver's energy check, and the
+  speckle contrast of one sample (1.03).
+  - *Why.* Dr. Zhang (Discord, 22 November): the methods are still an idea; he asked for the math and simulated results
+    in a weekly note, and for a simulation built on the wave nature of light and its interaction with materials, later
+    usable as synthetic training data. E03's simulation only drew speckle with a chosen M; it did not derive M from a
+    material.
+  - *Three levels* (`experiments/e04_wave_sim`).
+    1. **Exact wave solution** (`fullwave.py`). The scalar wave equation solved for 3,198 point scatterers (Foldy-Lax
+       equations, every order of multiple scattering): a cylinder of radius 9 wavelengths, 4 mean free paths thick, k x
+       mean free path = 10, lit by a Gaussian beam (waist 3.5 wavelengths); 16 random samples, 25 wavenumbers over
+       +-3%, 9 beam tilts. Far-field speckle 20 to 50 degrees from backscatter.
+    2. **Transport Monte Carlo** (`transport_mc.py`). Paths through a half-space of electric-dipole (Rayleigh)
+       scatterers, each carrying its polarization vector; scored is the light leaving towards a distant camera, by
+       distance from the entry point, path length and polarization. Lengths in mean free paths, absorption applied
+       afterwards.
+    3. **Speckle frames** (`synth.py`, to be written against the formulas below). Fields drawn as Gaussian random
+       fields with exactly the covariance the path statistics give (across path length, polarization, laser modes and
+       beam positions), passed through the lens pupil, integrated on pixels with shot and read noise, two frames per
+       laser; then E03's two-frame estimator.
+  - *The math, fixed here.* W(x, s) is the 2 x 2 polarization coherency of the light leaving at x after path length s
+    (surface light is a term at s = 0), n the refractive index, gamma the laser's degree of temporal coherence, h the
+    lens's amplitude point-spread function, K the transport kernel (radiance leaving at a distance from where it
+    entered).
+    - F1, one exposure: K^2(x) = integral integral tr[W(x,s) W(x,s')] |gamma(n(s - s'))|^2 ds ds' / (integral tr W ds)^2,
+      and M = 1/K^2. A single-frequency laser gives K^2 = (1 + P^2)/2 with P the degree of polarization; a share f of
+      surface light over depolarized volume light gives K^2 = (1 + f^2)/2.
+    - F2, diffusion: the Fourier transform over path length of the diffuse reflectance equals the steady-state
+      reflectance with the absorption mu_a replaced by mu_a - i n dk.
+    - F3, two exposures a wavenumber step dk apart: speckle correlation = ||Gamma(dk)||^2 / ||Gamma(0)||^2 (Frobenius
+      norms), Gamma(dk) = integral W(x,s) exp(i dk n s) ds.
+    - F4, two exposures with the beam at a and b: field correlation at image point x is
+      Gamma_ab(x) = integral F_x(x') A(x'-a) A*(x'-b) d2x', with A the beam's field and F_x = (|h|^2 * K)(x - x') the
+      distribution of entry points feeding x. (a) Flat wavefront, Gaussian beam of 1/e^2 radius w: the speckle
+      correlation is at least exp(-d^2/w^2) for a step d, so at least 0.91 for d <= 0.3 w, for any material. (b)
+      Wavefront of radius R_c: the correlation is the squared Fourier transform of F_x at q = k d / R_c; for a Gaussian
+      F_x of rms width sigma it halves at d = 0.133 lambda R_c / sigma; surface light halves at d = 0.47 R_c NA (overlap
+      of the shifted pupil).
+    - F5, full wave against paths: spectral correlation = mean over directions of |sum_p w_p exp(i dk L_p)|^2 /
+      |sum_p w_p|^2 with L_p the whole path; tilt correlation the same with the phase change of each path under the
+      tilt.
+  - *Predictions.*
+    1. Machinery (seen): isotropic half-space, normal-exit radiance 0.3364 per steradian (Chandrasekhar's H(1)^2 / 8 pi)
+       within 1% once truncated paths are counted; radiance over flux towards the Milne value 0.4008 with distance.
+       Solver: extinction equals scattering.
+    2. Full wave: speckle contrast 1 +- 0.05; the spectral and the tilt correlation curves within 0.10 of F5 at every
+       step.
+    3. Diffusion against Monte Carlo (F2): the wavenumber step at which the field correlation halves agrees within 15%
+       at 10 and 20 transport lengths from the entry point.
+    4. Polarization: beyond 5 mean free paths from a pencil beam the degree of polarization is below 0.1, so a
+       single-frequency laser gives M above 1.98 there.
+    5. Frames against F1: ring by ring, K^2 measured with the two-frame estimator and divided by the bare-metal
+       reference is within 15% of F1 (rings of 200 grains or more); M(r) stays 1 on the metal and rises with r on volume
+       scatterers under a multimode laser.
+    6. Beam steps (F4): frames within 0.05 of the formula. Flat wavefront: surface-only and volume-only correlations
+       differ by less than 0.1 for steps up to 0.3 w. Curved wavefront: there is a step at which volume light is below
+       0.5 while surface light is above 0.9.
+    7. Wavelength steps (F3): frames within 0.05 of the formula.
+  - *Expected correction.* Prediction 6 says the stay-or-move test as worded in `docs/WAVE_METHODS.md` 4B (a fraction of
+    a millimetre, any beam) does not hold for a collimated beam; it needs a diverging or converging beam, or steps
+    about as large as the beam. If the simulation agrees, 4B and the capture list are corrected.
+  - *Frame parameters.* 635 nm, n = 1.4, object grid 0.025 mm, camera pixel 0.05 mm, speckle grain 0.15 mm, beam 1/e^2
+    radius 1.0 mm. Materials (made-up parameter sets, not measured): bare metal (surface only); three volume
+    scatterers with transport length 0.05, 0.2 and 0.8 mm and absorption 0.1, 0.05 and 0.02 per mm, each with 0% and
+    30% surface light. Lasers: single-frequency, and multimode (1.0 nm wide, modes 0.15 nm apart). The rig's real laser
+    spectra are not known.
+  - *Not covered.* Large (Mie) particles, fibres, the exact polarization at an index-mismatched surface, the camera's
+    image pipeline, and any real material: this tests the math and the estimators, not accuracy on objects. A material
+    classifier trained on such frames is the step after, and anything of that kind run now is exploratory.
