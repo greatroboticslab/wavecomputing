@@ -60,3 +60,10 @@ Versions, counts and known problems: [docs/DATA.md](docs/DATA.md).
   GitHub previews (entries (m), (n)): there the new features fail their own checks (the two red lasers disagree, and
   the spot is clipped in 227 of 229 frames), so the test needs raw, unclipped captures. The checks themselves work and
   become the gate for new data. [results/e03/report.md](results/e03/report.md)
+- 2026-11-22: E04, the math of the speckle and wave-computing methods and a wave simulation to check it (entries (r),
+  (s)); no real data. Speckle contrast and the correlation between speckle frames are squared correlations of the
+  light field, so a camera that records only brightness still measures them. The wave equation solved exactly for
+  3,198 scatterers agrees with the path formulas within 0.06, and simulated camera frames follow them. One claim was
+  corrected: the beam-step test needs a diverging beam. Write-up with the formulas and figures:
+  [docs/weekly_notes/2026-11-22](docs/weekly_notes/2026-11-22); code:
+  [experiments/e04_wave_sim](experiments/e04_wave_sim).

@@ -434,3 +434,75 @@ notebook, `greatroboticslab/AGAI`, `cluster/EXPERIMENT_LOG.md`.)
   - *Not covered.* Large (Mie) particles, fibres, the exact polarization at an index-mismatched surface, the camera's
     image pipeline, and any real material: this tests the math and the estimators, not accuracy on objects. A material
     classifier trained on such frames is the step after, and anything of that kind run now is exploratory.
+
+- **2026-11-23, 00:31 CST. (s) E04 results: the math holds in an exact wave solution and in simulated frames; four predictions
+  missed in part, one claim of the methods page corrected.** Simulation only. Files: `results/e04`, figures
+  `results/e04/figs`, write-up `docs/weekly_notes/2026-11-22` (also in the Overleaf project, `Weekly Note Nov22.tex`).
+  1. **Machinery (held).** Isotropic half-space, normal-exit radiance 0.3349 against the
+     exact 0.3364 (-0.5%), counting the
+     3.2% of paths cut off at 3,000 mean free paths at the Milne value; radiance over flux beyond 30
+     mean free paths 0.395 against 0.401. The wave solver conserves energy in a
+     400-scatterer test (scattering over extinction 1.00003).
+  2. **Exact wave solution against the path sum, F5 (held).** 3,198 scatterers, 16 samples, 3,696
+     far-field directions. Speckle contrast 1.016; the intensity histogram follows the exponential law. Largest
+     difference between the exact solution and the path sum: 0.058 in the wavelength-step correlation and
+     0.047 in the tilt correlation (allowed: 0.10), nothing fitted. The exact solution decorrelates a little more
+     slowly in the tails of both curves; at k x mean free path = 10 the path picture is expected to be off by about that.
+  3. **Diffusion with complex absorption, F2 (held).** The wavenumber step that halves the field correlation: diffusion
+     over Monte Carlo 1.10 at 10 and 1.02 at 19 mean free paths (allowed: within 15%). At 2 mean
+     free paths diffusion is off by 57%, as expected near the entry point; the frames use the Monte Carlo kernel
+     everywhere.
+  4. **Polarization (missed).** Predicted: degree of polarization below 0.1 beyond 5 mean free paths from a pencil
+     beam. Found: 0.15 at 5, below 0.1 from 6.3 on (largest value over the direction around the
+     beam). The ring mean of (co - cross)/(co + cross) is 0.02 at 5: the pattern around the beam outlasts the
+     ring mean. Co- and cross-polarized totals over the whole surface: cross/co = 0.50.
+  5. **Frames against F1 (held for the single-frequency laser, missed by a point for the multimode one).** 8 objects per
+     material and laser; K^2 of each ring divided by the bare-metal reference (0.652 and 0.677, the
+     factor by which pixels lower every K^2). Largest relative deviation over the scored rings: 12.5%
+     (single-frequency) and 15.7% (multimode; allowed 15%). The 15.7% is transport length 0.05 mm, 30% surface light at 1.88 mm,
+     the dimmest ring scored there (brightness 0.0030 of the centre), where light of the bright core diffracted by the
+     lens contributes finer speckle; the next largest is 11.0%. M stays at 1 on the metal. Multimode laser, formula
+     (frames), ring at 0.62 mm: transport length 0.05 mm 6.3 (6.2), 0.2 mm 10.6 (10.7), 0.8 mm 12.0 (11.0);
+     with 30% surface light 3.5, 4.6, 4.1; in the glow at 2.1 mm, 0.2 mm material: 18.3 (19.4). Single-frequency
+     laser, same ring in the glow: 1.99 (1.93); it cannot exceed 2. With the multimode diode M levels off near twice the
+     number of laser lines.
+  6. **Beam steps, F4 (frames follow the formula on average; two parts missed).** 4 objects per material. Over 420
+     ring-and-step values: rms difference 0.016, bias +0.002, largest 0.097, 9 above the predicted 0.05. The
+     largest are bare metal under the curved wavefront (bias +0.030). *Post hoc check:* on unbinned, noise-free frames
+     the metal matches the formula (0.887, 0.868, 0.853, 0.790, 0.713, 0.502 against 0.882, 0.869, 0.845, 0.798, 0.703, 0.512
+     at a 0.2 mm step); binned to pixels it reads 0.02 to 0.05 higher, because pixels average the cross term less than
+     the self terms. *Flat wavefront (held):* rings inside 1.5 mm, steps 0.10, 0.30, 0.50, 1.00 mm: metal 1.00, 0.99, 0.97, 0.80;
+     0.05 mm 1.00, 0.98, 0.95, 0.75; 0.2 mm 1.00, 0.96, 0.89, 0.61; 0.8 mm 0.99, 0.95, 0.86, 0.56. At 0.3 beam radii surface and
+     volume differ by at most 0.04. The bound exp(-d^2/w^2) written in (r) is not exact: in the
+     glow the brightness profile is log-convex, and the lowest ring value at 0.3 mm is 0.906 against 0.914. *Curved
+     wavefront, 300 mm (missed as worded):* steps 0.05, 0.10, 0.20, 0.40 mm: metal 0.95, 0.89, 0.80, 0.65; 0.05 mm
+     0.89, 0.71, 0.48, 0.26; 0.2 mm 0.77, 0.46, 0.25, 0.13; 0.8 mm 0.72, 0.39, 0.22, 0.13. Predicted: a step with volume light below 0.5 and
+     surface light above 0.9. At 0.1 mm the 0.2 and 0.8 mm materials are at 0.46 and 0.39 and the metal at
+     0.89. The metal falls faster towards the spot's edge than the centre formula 0.47 R_c NA says, because the
+     lens's diffraction brings in light of the core. Sideways travel (rms per axis): 0.17, 0.54, 1.50 mm.
+  7. **Wavelength steps, F3 (frames follow the formula on average; the 0.05 bound missed).** 4 objects per material.
+     Over 540 ring-and-step values: rms difference 0.016, bias -0.002, largest 0.090, 6 above 0.05, in the
+     smallest rings. Half the correlation is lost at steps of 0.058, 0.024 and 0.019 nm (0.05, 0.2, 0.8 mm; rings
+     0.5 to 1.5 mm); metal stays at 1; with 30% surface light the curves level off above zero.
+  - *Not in the plan, or changed after a first look.* (i) Rings are scored only above 0.002 of the centre's brightness
+    (in the code before any frame was scored, not in (r)). (ii) A first full run of the frames was discarded. Its
+    frames were 7.7 times dimmer than intended (the image was not normalized for the light the pupil removes), and K^2
+    read 15 to 25% low in the outer rings. A check against the known mean brightness, which does not involve F1,
+    traced that to the fit of the spot's brightness trend inflating the bare-metal reference by about 15%. The trend
+    is now a local parabola fit to the log of the ring means plus the cos and sin 2-phi terms of the oval glow, and the
+    converter has a black-level pedestal. The numbers above are from the rerun. (iii) Objects per material: 8 for F1, 4
+    for the step experiments; wavelength steps of 0.005 to 1 nm. (iv) The beam-step frames leave out the cross term
+    between the two polarizations. (v) A second kernel for index 1.4 was computed and not used.
+  - *Corrections made.* `docs/WAVE_METHODS.md` 4B said the beam should move a fraction of a millimetre and the speckle
+    from inside would change. With a collimated beam it does not: the speckle correlation stays above 0.9 for steps of
+    0.3 beam radii whatever the material. The test needs a wavefront with curvature (a beam diverging from or
+    converging to a point), where the correlation against the step is the squared Fourier transform of the sideways
+    travel, or steps of about the beam radius. 4B, 1A and the capture list are rewritten accordingly. I had also
+    told Dr. Zhang (22 November) the test could be tried with the arm as it is; that holds only if the beam diverges.
+  - *Reading.* A camera that records brightness still measures field correlations: speckle variance and the
+    correlation between speckle frames are squared field correlations, and the simulation reproduces that from the
+    wave equation up to camera frames. For the rig: the spot must cover many grains (beam at least 40 pixels across at
+    3 pixels per grain); a multimode diode makes M a path-length meter where a single-frequency laser stops at 2, at
+    the price of having to measure the diode's spectrum; beam steps need a diverging beam. None of this says anything
+    yet about real materials. Next: synthetic training frames with random transport length, absorption, surface share,
+    brightness and print; a pilot capture; larger particles, internal reflection and fibres in the simulator.

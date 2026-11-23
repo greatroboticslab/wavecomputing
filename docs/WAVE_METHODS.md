@@ -53,6 +53,14 @@ profile.
 M gives part of what the polarizer of method 3 would give, without the device. Once the polarizer exists, M measured
 co-polarized and cross-polarized separates depolarization from path-length spread.
 
+E04 (simulation, lab notebook (r) and (s)) put a formula and numbers on this. The contrast of a frame is the overlap of
+the returned light's path lengths and polarization, weighted by the laser's coherence (formula F1 in the
+[weekly note of 22 November](weekly_notes/2026-11-22/weekly_note.tex)). With a single-frequency laser M only moves
+between 1 and 2, the polarization part. With a multimode diode it reaches about 18 for the spectrum assumed there and
+depends on the material's transport length and on the share of surface light, already at the spot's centre: the
+diode's short coherence length is what makes M read path length. The diode's spectrum then has to be measured once per
+laser, on bare metal and one known diffuser, and kept stable.
+
 ### 1B. Speckle size in a defocused frame, a ruler for the glow under the surface (known physics)
 
 Defocus the camera, or record with a bare sensor. The speckle grain size is then about λz/D, where D is the diameter
@@ -133,15 +141,25 @@ input-to-input correlations, the medium's kernel, which the optics computes. A d
 [1], and so does sending light from a sample into a separate photonic reservoir (patent [20]); we found none where the
 sample itself is the reservoir.
 
-### 4B. Speckle that stays, speckle that moves (new as far as we found)
+### 4B. Speckle that stays, speckle that moves (new as far as we found; corrected 22 November 2026)
 
-Move the beam a fraction of a millimetre with the arm and compare speckle frames. Light reflected at the surface makes
-speckle that belongs to the surface, so its grains stay where they are as the beam moves. Light that comes out from
-inside travelled paths that start where the beam enters; when the beam moves, the paths change and the grains change.
-The speckle correlation against beam step therefore separates surface from volume scattering and measures how far light
-travels inside, with the arm we have. Speckle correlations under small tilts have been used to measure the scattering
-phase function [21], and a patent lists correlations across illumination angles as a material feature [9]. We found no
-use of the stay-or-move test.
+Move or tilt the beam a little and compare speckle frames. The correlation between the two frames at an image point is
+set by where the light that ends at that point entered the material. For light reflected at the surface that region is
+only the lens's own blur; for light from inside it is the blur plus the distance the light travelled sideways. If the
+beam's wavefront is curved (the beam diverges from, or converges to, a point at distance R_c), a step d puts a phase
+ramp across those entry points, the same as tilting the beam by d/R_c, and the correlation against the step is the
+squared Fourier transform of the sideways travel (formula F4 of the weekly note). Surface speckle stays; speckle from
+inside changes, the sooner the farther light travels sideways. In E04's simulation (R_c = 300 mm, beam radius 1 mm) a
+step of 0.1 mm leaves bare metal at a correlation of 0.89 and takes materials with transport lengths of 0.2 and 0.8 mm
+to 0.46 and 0.39.
+
+**Correction.** This section used to say that moving any beam by a fraction of a millimetre would do. With a collimated
+beam (flat wavefront) it does not: the correlation stays above 0.9 for steps up to 0.3 beam radii whatever the
+material, and surface and volume light differ by at most 0.04 (lab notebook (s)). Either the beam diverges, or the step
+is about as large as the beam. The camera must not move with the beam.
+
+Speckle correlations under small tilts have been used to measure the scattering phase function [21], and a patent lists
+correlations across illumination angles as a material feature [9]. We found no use of the stay-or-move test.
 
 ### 4C. A diffuser in front of the camera (a cheap physical reservoir)
 
@@ -169,6 +187,24 @@ Outcome: on these files the methods could not be tested.
 The checks of agreement and look are what carries over: on new captures a feature has to pass them before its accuracy
 counts.
 
+## What the simulation shows (E04)
+
+E04 has no real data. It derives what the speckle contrast of a frame and the speckle correlation between frames equal
+in terms of the light's paths inside the material, and checks the formulas at three levels: the wave equation solved
+exactly for 3,198 scatterers, a Monte Carlo that follows paths with their length and polarization, and camera frames
+generated from it ([experiments/e04_wave_sim](../experiments/e04_wave_sim), lab notebook (r) and (s), write-up in
+[weekly_notes/2026-11-22](weekly_notes/2026-11-22)).
+
+- A camera records only brightness, but the variance of speckle and the correlation between two speckle frames are
+  squared correlations of the light field. The exact wave solution agrees with the path formulas within 0.06 in
+  correlation, with nothing fitted.
+- Stepping the wavelength gives the squared Fourier transform of the path lengths (1C); moving a diverging beam gives
+  the squared Fourier transform of the sideways travel (4B); one frame under a laser of short coherence length gives M
+  (1A). These three are the kernel that the object, taken as the reservoir of 4A, computes.
+- The simulated frames follow the formulas (contrast within 16% in every scored ring, correlations within 0.016 rms).
+  Four of seven predictions were missed in part, each narrowly; entry (s) lists them.
+- The materials there are made-up parameter sets. Nothing in E04 says how well real materials are told apart.
+
 ## What to capture next
 
 - **No clipped spot.** Bracket three exposures per laser (for example 1, 1/8 and 1/64) and merge them. In the GitHub
@@ -176,10 +212,17 @@ counts.
 - **Raw, full-resolution frames** (PNG or raw), not previews. For the existing scans, the scanner PC can export them
   (`python -m scanner_system.export_bundle out.zip --include-arrays`, see [DATA.md](DATA.md)).
 - **Two frames per laser** and the lasers-off frame (noise and texture removal, 1A).
+- **Zoom in:** the beam at least 40 pixels across, so that every ring around the spot holds a few hundred speckle
+  grains (E04). In the 800 px previews the spot is a few pixels wide.
 - **Aperture for speckle:** close the lens until a speckle grain covers 2 or more pixels. On the sensor a grain is about
-  2.4 × wavelength × f-number, so at 635 nm f/4 gives about 6 µm.
+  2.4 × wavelength × f-number, so at 635 nm f/4 gives about 6 µm. Zoom sets how many grains the spot covers, the
+  f-number how many pixels a grain covers.
+- **Each laser's coherence:** frames of bare metal and of one known diffuser per laser, since M depends on the laser's
+  spectrum (E04).
 - **A defocused frame per laser** (1B).
-- **Beam steps on the arm:** five steps of 0.1 to 0.5 mm at each spot (4B).
+- **Beam steps on the arm (4B):** with the laser focused so that the beam diverges from a point about 300 mm in front
+  of the object, steps of 0.05 to 0.2 mm; with a collimated beam, steps of about the beam's radius. The camera stays
+  fixed (E04).
 - **The fringe stacks** at two or more fringe frequencies (2C).
 - **Optional:** one temperature-controlled DFB laser (1C), a tape diffuser (4C), and the polarizers of method 3.
 - **Objects:** at least 10 per material, mixed colours and finishes, including painted, taped and anodized metal; test

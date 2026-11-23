@@ -117,8 +117,10 @@ def selftest():
     khat = np.stack([st * np.cos(ph), st * np.sin(ph), ct], 1)
     f = (t / (4 * np.pi)) * (np.exp(-1j * K0 * (khat @ pos.T)) @ psi)
     sca = 4 * np.pi * np.mean(np.abs(f) ** 2)
-    print(json.dumps({"extinction": float(ext), "scattering": float(sca), "ratio": float(sca / ext),
-                      "single_scatterer_sigma_x_N": float(SIGMA * len(pos))}))
+    out = {"extinction": float(ext), "scattering": float(sca), "ratio": float(sca / ext),
+           "single_scatterer_sigma_x_N": float(SIGMA * len(pos))}
+    print(json.dumps(out))
+    return out
 
 
 def run(out, n_real, seed0):
